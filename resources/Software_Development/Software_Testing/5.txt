@@ -1,0 +1,2 @@
+Staff will be expected to log defects when a test script fails at a workstation or printer, and log the essential information required to fix the issue.
+Previous experience working with and troubleshooting PCs and printers is preferred as well as experience working in hospital and clinical environments.

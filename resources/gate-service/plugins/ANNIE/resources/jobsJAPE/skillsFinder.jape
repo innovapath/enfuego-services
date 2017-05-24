@@ -1,0 +1,73 @@
+Imports: {
+import static gate.Utils.*;
+}
+Phase: skillsFinder 
+Input: Lookup Sentences Date Experiences
+Options: control = appelt debug = true
+
+MACRO: SKILL_IDENTIFIER
+(({Lookup.minorType==marketing_skills}))
+
+Rule: SkillsRule
+(
+	{Experiences}
+):workex
+ -->
+{
+	AnnotationSet workexSet = bindings.get("workex");
+	//FeatureMap features = Factory.newFeatureMap();
+
+	HashSet<String> noOfYears = new HashSet<String>();
+	HashMap<String, HashSet<String>> skillMap = new HashMap<String, HashSet<String>>();  
+
+	HashSet<String> marketing_skillz = new HashSet<String>();
+	HashSet<String> sales_skillz = new HashSet<String>();
+	HashSet<String> technical_skillz = new HashSet<String>();
+	HashSet<String> management_skillz = new HashSet<String>();
+	HashSet<String> recruiting_skillz = new HashSet<String>();
+	HashSet<String> training_skillz = new HashSet<String>();
+	HashSet<String> math_skillz = new HashSet<String>();
+	
+	skillMap.put("marketing_skills", marketing_skillz);
+	skillMap.put("sales_skills", sales_skillz);
+	skillMap.put("technical_skills", technical_skillz);
+	skillMap.put("management_skills", management_skillz);
+	skillMap.put("recruting_skills", recruiting_skillz);
+	skillMap.put("training_skills", training_skillz);
+	skillMap.put("math_skills", math_skillz);
+
+	//System.out.println("Work EXPERIENCE is"+workexSet);	
+	AnnotationSet skillsSet = inputAS.get("Lookup", workexSet.firstNode().getOffset(), workexSet.lastNode().getOffset());
+	for(Annotation ann : skillsSet.inDocumentOrder())
+	{
+		       for(String key : skillMap.keySet())
+		       {
+			if(ann.getFeatures() != null && ann.getFeatures().get("minorType") != null && ann.getFeatures().get("minorType").equals(key))
+			{
+				skillMap.get(key).add(stringFor(doc, ann));
+			}
+		       }
+	}
+	if(workexSet != null && workexSet.size()>0)  
+	{  
+  	   Annotation personAnn = workexSet.iterator().next();
+	   for (Map.Entry<String, HashSet<String>> entry : skillMap.entrySet())
+	   {
+		String key = entry.getKey();
+    	   	HashSet<String> value = entry.getValue();
+    	   	personAnn.getFeatures().put(key, value);
+    	   }
+	   
+	AnnotationSet dateSet = inputAS.get("Date", workexSet.firstNode().getOffset(), workexSet.lastNode().getOffset());
+	for(Annotation ann : dateSet.inDocumentOrder())
+	{
+		noOfYears.add(stringFor(doc, ann));
+		
+	}
+		personAnn.getFeatures().put("NoOfYears", noOfYears);
+	}
+
+
+	//outputAS.add(workexSet.firstNode(), workexSet.lastNode(), "work_experience", features);
+	
+}

@@ -1,0 +1,59 @@
+Liberty Mutual Insurance
+Job title : Director of Security
+Job location : Boston, MA, US
+
+Employer name : 
+Job description :
+We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.
+Tech at Liberty Mutual offers the challenge and creativity of a startup with the financial backing and stability of a large company – that’s our opportunity for you. Liberty Mutual has been building internal startup teams to deliver innovative products and solutions quicker. As we grow this culture, mindset and capability, we want you to lead this change with us. We are spinning up more Agile Lean Startup teams and we need additional leadership to anchor and develop these teams.
+Commercial Insurance IT is actively searching for a Senior Director, Cloud & Security. Commercial Insurance IT supports the Commercial Insurance business group which is the fourth largest commercial insurer in the US. Commercial Insurance IT leverages strengths to continue to simplify operations and invest in new technologies that provide competitive advantage. In this position, you will work on a Platform Enablement Team providing key enabling capabilities that support specific customer journeys and value streams, and evolving these capabilities from silo systems to more services-based capabilities and secure cloud-ready or cloud-native systems that can readily be adapted and integrated with existing and new customer value streams.
+Responsible for leading the organization-wide migration to advanced public cloud computing platforms, AWS in particular, and continuing the journey to secure coding from the start.Supporting external security requests and audits for our largest and most strategic customers is a meaningful aspect to this role as well. Incorporating the most current development techniques (Agile/Lean SW Dev, Secure Coding, DevOps and TDD/BDD) and technologies (public cloud computing, open source products/platforms, secure computing environments) is an essential enabling approach going forward.Effectively balancing the latest security techniques and processes, along with migrating platforms and systems that are more grounded in legacy computing environments is essential.
+Requires a holistic leadership management working closely with the business and enterprise technology to drive strategy on all aspects of IT. Critical role as a key member of not only the technology leadership team, but also highly visible role on the Business Leadership team to drive, with the business, the implementation of technology solutions and services to meet business strategy and needs.
+In This Role, The Senior Director
+· Directs the IT thought leadership, strategy, objective, priorities, and technology decisions for the aligned business organization.
+· Proactively partners with the CIO and the business to provide consulting, solutions options, and recommendations around technology, standards, strategies and governance.
+· Builds and leads the technology staff; ensuring appropriate staffing levels, skillsets, and alignment to support business and technology objectives and to manage within the budget.
+· Fosters business partnerships with current and potential vendors, IT executives, and business partners; develops relationships that promote trust and increase efficiency and effectiveness; balances individual customer needs and business priorities assuring alignment with the business strategies and objectives.
+· Drives and implements change, continuous improvement and staff development including the next line of IT leaders.
+· Maintains breadth and depth of perspective, utilizing enterprise and industry/market trends, standard executive dashboards, and regular benchmarking exercises.Sets department vision and direction in coordination with Sr. Executives and motivates and manages staff to achieve results.
+This Role Might Be For You If You Have
+· Bachelor's or Master's Degree in technical or business discipline or related experience; Master's Degree preferred.
+· More than 5 years in a leadership role required. Seasoned leader with strong technology experience.
+· Program management experience delivering multiple $20m+ projects. Expertise in designing and improving processes.
+· Ability to attract, coach, and mentor and build a strong functional and technical team. Experience with leveraging and managing IT offshore vendors.
+· Strategic thinker with deep business acumen and understanding of how IT will contribute to business strategy.
+· Ability to work closely with the business functions and IT teams within Liberty and establish strong relationships - both internally with business units, and externally, with vendors and providers.
+· Highly effective analytical, negotiation, facilitation and consensus building skills. Change leader who is customer focused and translates vision into actionable deliverables.
+· Strong problem solving and decision making skills - can do deep dives while staying focused.
+· Effective communicator is highly articulate and able to convey important messages both verbally and in writing to all organizational levels.
+Highly Competitive Applicants Will Have Experience With
+· Cloud adoption, including platforms, patterns and support
+· DBA / Environments patterns
+· Advanced software development practices such as Agile/Lean Software Delivery, DevOps and CI/CD, TDD/BDD, open source models and products, etc.
+· Current security standards, technologies and techniques, including the ability to assist the broader organization to incorporate security controls in their development practices
+· Current modern computing platforms, especially AWS, and support the organization to adopt the techniques and methods to both migrate existing applications to the cloud along with building cloud-first application is essential
+· Security enablement and compliance
+That’s Why We Offer
+We strongly believe that a great job should keep you happy both at work—and in life.
+· Workplace Flexibility
+· Wellness Perks
+· Collaborative workspaces
+· Sit/stand desks
+· Career development, programs and classes
+· Diversity & Inclusion programs
+· Philanthropic giving and volunteer opportunities
+· Commuter Benefits
+· Adoption Assistance
+· College Savings Plan
+· Education reimbursement
+· Annual Hackathon
+Liberty Mutual was named as a ‘2016 Great Place to Work’ by Great Place to Work US.
+For more info about our benefits, check out: https://www.libertymutualgroup.com/careers/working-here/benefits
+Learn more about Tech at Liberty Mutual: https://www.jobs.libertymutualgroup.com/
+Check out our Tech at Liberty Mutual YouTube playlist: https://www.youtube.com/playlist
+Job: Technology
+Primary Location: United States-Massachusetts-Boston
+Schedule: Full-time
+Salary: $203,500-$267,700
+Education Level: Bachelor's Degree (±16 years)
+Travel: Yes, 10 % of the Time

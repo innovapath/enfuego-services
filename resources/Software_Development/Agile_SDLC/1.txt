@@ -1,0 +1,2 @@
+Preference given to those with experience or exposure to Agile SDLC.
+Experience in software development processes (such as model basing, UML, domain-specific languages, code generation, software quality, agile processes).

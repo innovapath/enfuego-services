@@ -1,0 +1,46 @@
+NameSocrata
+Job title : Director of Security
+Job location : Seattle, WA, US
+
+
+Employer name :
+Job description :
+Socrata is a company with a purpose. We believe that data – when it’s easy to find and use and when it’s presented with context – can illuminate, inform and inspire. Socrata develops cloud-based software products and solutions that democratize access to public sector data and put it into people’s hands so they can use it at work, at home and on the go. Our industry-leading solutions are enhanced by a proven customer success methodology, delivered by professional digital government change agents. When we succeed at helping governments transform from mostly analog to fully digital institutions – becoming data-driven – the people who stand to benefit from streamlined access to government data include both external stakeholders and internal government employees.
+We are looking for a remarkable Director of Information Security & Compliance to join our extraordinary security team!
+What You’ll Be Doing...
+As the Director of Information Security and Compliance for the company, you will refine and uphold the security standards that Socrata has in place, including FISMA and FedRAMP, and define new criteria for us to meet. Leading a small but highly-capable team, you will help us continue to incrementally improve our security posture as a whole, by working across the company. You will lead the team to implement security-focused improvements to the core platform, while also ensuring Socrata’s systems continue to support threats from within the company. You will ensure that Socrata retains their current FedRAMP-Moderate certification and identify other key external security standards for Socrata to meet and oversee the business changes necessary to meet those standards. You’ll lead security awareness training for the entire company, response testing, third-party assessments, and raise the bar for security best practices across the organization. As the public face of security at Socrata, you will interface with customers regularly to explain Socrata’s security practices and address any concerns.
+On a Typical Day You Might…
+· Review network, application, and database vulnerability scans, prioritizing any remediation findings with your security analysts and the engineering team
+· Work with and evaluate third parties to ensure their security programs conform to Socrata’s requirements
+· Act as the business owner for security functionality within the Socrata platform, working closely with the product team to prioritize security alongside other new features and improvements
+· Prepare mock targeted phishing attempts for distribution to the company as a security awareness technique
+· Participate in conference calls with the sales team to answer security-related questions from customers
+· Maintain Socrata’s repository of security controls, policies, and procedures and update this repository over time to reflect improvements and changes
+· Document all mandated security controls to meet FedRAMP-Moderate requirements, and work with your compliance team to prepare the necessary evidence and artifacts to conform to Continuous Monitoring requirements.
+· Recruit, train, and grow a small but effective team of security specialists within the company
+· Attend DEFCON or another well-regarded industry conference
+· Conduct security awareness training for new and existing staff
+· Evaluate requested security changes from existing and prospective customers and help estimate the impact of the changes on the company – including efficiency gains, new market opportunities, material costs, time/opportunity costs, and support costs
+You Have…
+· 5 or more years of experience in the Information Security realm, including work in Compliance, Audit, Analysis and Engineering
+· 2 or more years as a manager or team lead
+· Currently maintain CISA, CISSP and/or CISM in good standing
+· Deep understanding of U.S. Federal information security frameworks and policies (FISMA, FedRAMP)
+· Strong entrepreneurial instincts and ability to think beyond the role of compliance and focus on providing value in security
+· Outstanding communication, presentation, and interpersonal skills to effectively work with executives, software engineers, product managers, client services representatives, and directly with our customers
+· Passion for continuous learning and innovation
+· Ability to handle a number of simultaneous tasks while demonstrating urgency and ownership to drive projects to completion
+· Bachelor’s or Master’s degree in computer science, information systems, security, or similar curriculum or equivalent experience
+· Desire and aptitude to be successful in a fast-paced, dynamic startup environment
+How We Act
+At Socrata, we are a body of people, working as one to fulfill our mission – to unleash the power of government data to improve society. How we act – with each other and our customers – embodies our core values and our code of conduct:
+· We value big ideas and creative execution
+· We build open and honest relationships
+· We are results driven, accountable and openly self-critical
+· We celebrate success together
+· We aspire to be remarkable
+· Customer success is mine, personally
+Do you share our values? Does this appear to be the kind of environment where you’ll feel empowered to do your best and most meaningful work?
+About Socrata
+Socrata has 160 employees and is headquartered in a vibrant and creative workspace in Seattle, WA. The company also has regional offices in Washington, DC and London, UK. Socrata has raised $54M in venture backing from top VC firms including Sapphire Ventures, OpenView Venture Partners, Morgenthaler Ventures, and Frazier Technology Ventures. You can learn more about Socrata at www.socrata.com.
+Competitive salary including stock options and great benefits are offered. Qualified applicants may apply right here or you can also contact our recruiting team at peopleops@socrata.com. Socrata is an equal opportunity employer.

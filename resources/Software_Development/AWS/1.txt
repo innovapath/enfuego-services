@@ -1,0 +1,5 @@
+Proficient with AWS services, including S3, EC2, Cognito, Elastic Load Balancing, and more
+AWS Lambda
+AWS EC2, S3
+AWS Lambda, API Gateway, Auto Scaling Groups, Code Pipeline
+AWS Elastic Bean Stalk, Cloud Formation

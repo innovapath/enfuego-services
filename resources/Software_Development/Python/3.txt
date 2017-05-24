@@ -1,0 +1,1 @@
+Strong proficiency with some combination of Python, NumPy/SciPy and the R statistical package 

@@ -1,0 +1,28 @@
+CNO Financial Group
+Job title : Director of Security
+Job location : Carmel, Indiana
+
+Employer name : Jenn Ziegler
+Job description :
+The Director Security Architecture is responsible for the overall coordination of information security architecture/engineering activities for the enterprise and reports directly to the head of Enterprise Information Security. The Director Security Architecture will lead and grow the enterprise security architecture program for the company and ensure it's alignment with the priorities identified by the Sr Director as well as set expectations, drive initiatives and generate deliverables. The Director Security Architecture will define architecture and design based standards, develop best practices and document security patterns for all things architecture across the environment. This will involve technology consolidation, solution standardization, design and implementation of new technology and working with IT to provide guidance on all solutions not specifically implemented or maintained by Security. Strong leadership is required with a solid vision and ability to provide encouragement while driving change on an enterprise scale via a security transformation program.
+This role provides design insight, develops and implements security tools and applications, and makes recommendations based on strategic understanding of the overall security technology strategy, threat landscape, attack surface and threat intelligence information. Works cross-functionally and collaborates closely with other leaders across the organization to ensure achievement of targeted objectives. Provides leadership and direction for team with multiple functional areas. Annual projects and deliverables are established using company business goals and strategies, and communicated by senior leadership.
+Duties and responsibilities include:
+· Provide expert direction in defining and managing CNO enterprise security strategy and architecture for security services and infrastructure, while considering potential risks in the organization’s current technology deployments, to build a successful and strong enterprise security posture
+· Manage information security architecture for key infrastructures and capabilities, including, but not limited to: Identify & Access Management; Endpoints; Servers; Network; Database; Mobility; Cloud; Data Protection; Solution Development.
+· Review the organization’s information security architecture and platforms to identify integration issues and opportunities to enhance information security practices
+· Recommend projects and programs to improve information security capabilities. Partner with Enterprise Architecture and IT infrastructure teams to design, deploy and maintain information security solutions aligned with the company’s IT roadmap.
+· Provide extensive support and assistance to senior leadership for decision on future investments and addressing complex issues impacting CNO security architecture
+· Review and approve implementation of emerging security technologies and latest regulatory and compliance requirements for security policies, operational standards and security control framework to enhance operational services
+· Lead remediation activities or projects within the organization and collaborates with impacted business functions in remediation. Provide inputs into the end to end projects deliveries to enforce approved security architecture implementation standards, procedures and methodologies
+· Lead results analysis of information technology audits and vulnerability reviews, including penetration tests and security design reviews of network infrastructure and applications
+· Lead the development of infrastructure security metrics for framework maturity, security posture governance, and reporting
+Desired skills:
+· Broad knowledge of security architecture and controls in various infrastructure platforms including network (physical, virtual, internal, cloud), system platforms, storage, directory services, and end user computing
+· Understanding of business processes and risk implications
+· Results oriented and ability to balance multiple priorities and projects
+Desired education:
+· BA or BS degree in Information Systems/Business or related field, or relevant professional experience
+· M.I.S, Computer Science or related discipline
+Desired certifications
+· CISSP or other relevant Information Security certifications
+

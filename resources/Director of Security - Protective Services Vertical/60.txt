@@ -1,0 +1,33 @@
+Sensata Technologies
+Job title : Director of Security
+Job location : Providence, Rhode Island Area
+
+Employer name : Jeff Silvia
+Job description :
+Position Summary:
+This role includes: IT Security Strategy, IT Security Operations, Security Training and Awareness, IT General Controls Compliance & Audit Management, IT Forensics, Identity Management and Cyber Security.
+Primary Responsibilities:
+· Develop and maintain a risk strategy that formalizes risk into a comprehensive program for management to assess areas of concern
+· Maintain a governance program that ensures all Information Security controls are adequately maintained and reported on through a GRC process
+· Develop, publish, and maintain a comprehensive organization-wide information privacy and security strategy, plans, policies, procedures, and guidelines
+· Manage the development, implementation, and maintenance of security policies, standards, and guidelines
+· Direct the development and enforcement of information security and privacy policies in compliance with internal and external standards
+· Identify current security infrastructure and defines what kind of security must be designed and implemented in order to meet organization requirements
+· Coordinate contract efforts when addressing cross-border data transfers
+· Research and maintain proficiency in tools, techniques, countermeasures, and basic trends in computer and network threats and exploits
+· Maintain a vulnerability management program where risk prioritizes work effort
+· Maintain appropriate security measures and mechanisms to guard against unauthorized access to electronically stored and /or transmitted information and reasonably protects against anticipated threats and vulnerabilities
+· Create status reports and briefings on security matters for senior management
+· Conduct risk analyses and assessments to ensure there are solutions in place to mitigate those risks
+· Provide management with up to date information on the different threats and security vulnerabilities that the organization may face.
+· Ensure compliance through adequate training programs and oversight of periodic internal security audits
+· Provide guidance and training to information owners and designs and implements programs for user awareness, compliance monitoring, and security compliance
+· Assess audit results and partners with IT staff to create pragmatic action plans and monitors the execution and completion of action plans
+· Coordinate audit and assessment processes to verify compliance with established controls
+· Coordinate information security audits, tests and reviews
+· Work with legal to ensure data protection practices are consistent with international regulatory requirements
+· Partners with IT management to develop and maintain best practices and policies for security of all internal systems
+· Partner with Legal and HR organizations to conduct IT Security & Technology forensics analysis against any suspicious activities with primary emphasis on networks, desktops / laptops, servers and critical applications
+· Manage 3rd party forensics partner during significant incidents
+· Lead a team in the design, development, deployment and support of an enterprise identity and access management system
+

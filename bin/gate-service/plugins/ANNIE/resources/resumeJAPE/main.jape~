@@ -1,0 +1,21 @@
+/*
+*  main.jape
+*
+*/
+
+MultiPhase: ResumeParser
+Phases: 
+ProfileSection
+NameFinder
+EmailFinder
+PhoneFinder
+AddressFinder
+URLFinder
+TitleFinder
+SectionHeadingFinder
+degreeFinder
+WorkExperienceFinder
+SectionBodyFinderPre
+SectionBodyFinder
+skillsFinder
+Title

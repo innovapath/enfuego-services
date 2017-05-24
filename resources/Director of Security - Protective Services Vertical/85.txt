@@ -1,0 +1,30 @@
+Intuit
+Job title : Director of Security
+Job location : Mountain View, CA, US
+
+Employer name :
+Job description :
+Description
+The Intuit Information Security organization is looking for a dynamic, motivated self-starter to lead security data science at Intuit. This leader will focus on advancing information security through practical applications of exploratory data analysis, statistics, machine learning and data visualization with a micro focus on reducing risk, identifying fraud or malicious insiders. This role offers a unique opportunity to protect Intuit’s customers and employees and innovate and improve Intuit’s end to end customer experience by building the cutting edge fraud prevention organization. Responsibilities
+· Lead team responsible for identifying, analyzing and interpreting attack patterns in complex data sets
+· Lead the end to end modeling process for security data
+· Lead a team to design, develop and maintain predictive models used for risk management
+· Identify new fraud patterns through data analysis
+· Apply demonstrable statistical, machine learning, and business strategy experience to develop and support predictive algorithms and related decision support products.
+Qualifications
+· Must be committed to incorporating security into all decisions and daily job responsibilities
+· 10 years demonstrated success leading Data Science teams; with at least five (5) years’ experience leading other technical and people leaders
+· 7+ years’ experience successfully leading and developing individual contributors, inclusive of career development, and performance management
+· Strategic decision-making skills with a high degree of latitude
+· Proven success creating, implementing, and executing transformational strategy
+· Executive-level written and verbal communication skills as well as interpersonal and collaborative skills
+· Must have the ability to position oneself effectively as a thought leader in the area of Data Science
+· Must act calmly and competently in high pressure and high stress situations to technical and non-technical audiences
+· Must possess an executive presence and demonstrate an ability to interact and navigate executive level conversations and presentations with comfort and ease
+· Thorough and up-to-date understanding of technological trends and developments in the area of data science
+· Proven ability to implement creative and innovative approaches to large, complex programs and business problems
+Imagine a career where your creative inspiration can fuel BIG innovation. Year-over-year, Intuit has been recognized as a best employer and is consistently ranked on Fortune's "100 Best Companies To Work For" and Fortune World's "Most Admired Software Companies" lists. Immerse yourself in our award winning culture while creating breakthrough solutions that simplify the lives of consumers and small businesses and their customers worldwide.
+Intuit is expanding its social, mobile, and global footprint with a full suite of products and services that are revolutionizing the industry. Utilizing design for delight and lean startup methodologies, our entrepreneurial employees have brought more than 250 innovations to market – from QuickBooks® and TurboTax®, to GoPayment, Mint.com, big data, cloud (SaaS, PaaS) and mobile apps. The breadth and depth of these customer-driven innovations mean limitless opportunities for you to turn your ingenious ideas into reality at Intuit.
+Discover what it's like to be part of a team that rewards taking risks and trying new things. It's time to love what you do! Check out all of our career opportunities at careers.intuit.com. EOE AA M/F/Vet/Disability
+Intuit will consider for employment qualified applicants with criminal histories in a manner consistent with requirements of local law.
+#LI-00125801

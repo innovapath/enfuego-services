@@ -1,0 +1,5 @@
+Thorough understanding of REST-ful API design: it means that you can design a client server protocol and successfully develop the client side.
+Strong proficiency with JavaScript
+Knowledge of Node.js and frameworks available for RESTful apis.
+Understanding the nature of asynchronous programming and its quirks and workarounds
+User authentication and authorization between multiple systems, servers, and environments

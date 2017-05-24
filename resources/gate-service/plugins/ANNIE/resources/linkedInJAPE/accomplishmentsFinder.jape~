@@ -1,0 +1,30 @@
+Imports: {
+import static gate.Utils.*;
+}
+Phase: AccomplishmentsFinder
+Input: Lookup Sentence
+Options: control = appelt debug = true
+
+Rule: Accomplishment 
+(
+    {Lookup.majorType == "accomplishments", !Sentence}
+):label 
+-->
+{
+AnnotationSet workexSet = bindings.get("label");
+if(workexSet != null && workexSet.size() > 0)
+{
+	Annotation accomp = workexSet.iterator().next();
+	long end = workexSet.lastNode().getOffset();
+	long start = workexSet.firstNode().getOffset();
+	AnnotationSet sentences = inputAS.get("Sentence", start, end);
+	if(sentences != null && sentences.size() > 0)
+	{
+		Annotation sentenceann = sentences.iterator().next();
+		String sentenceString = stringFor(doc, sentenceann);
+		accomp.getFeatures().put("sentence", sentenceString);
+	}
+
+}
+
+}

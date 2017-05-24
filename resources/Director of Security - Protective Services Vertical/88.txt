@@ -1,0 +1,37 @@
+Veeva Systems
+Job title : Director of Security
+Job location : Pleasanton, CA, US
+
+
+Employer name :
+Job description :
+Description
+Our Company
+At 1,800 employees and growing and consistently strong financials (NYSE:VEEV), Veeva was named among the top fastest growing public technology companies on Forbes’ annual Fast Tech 25 list. We build innovative cloud solutions for some of the world’s largest pharmas and biotechs, and we need great people like you to make it happen.
+Our Culture & People
+Our core values are Employee Success, Customer Success, and Speed. We are innovators, collaborators, and thought leaders out to create best-in-class solutions that help our customers improve and extend human life. It’s genuine, straight-forward, and no fuss.
+Job Summary
+As Director, Security Engineering (DevSecOps), you are a highly motivated and experienced technical leader of cross-functional Security Points of Contact (SPOCs) in Veeva products to integrate security capabilities into continuous release planning and execution for all Veeva products. We frequently work with other teams at Veeva, and look externally to partner with unique and innovative security companies.
+Responsibilities
+· Responsible for building and maintaining a secure development lifecycle, with continuous improvement to meet evolving security and compliance requirements.
+· Coordinate with product teams to develop security as code, and integrate security by design principles into engineering builds.
+· Develop runbooks with security operations, train Engineering to perform threat modeling, and train developers and SQA staff on secure coding practices.
+· Provide summary and dashboard reports of the state of the secure development lifecycle in Veeva products, and coordinate with product teams and management on the resolution of issues.
+Requirements
+· A bachelor’s in computer science (or equivalent) degree or military experience.
+· 7 years of experience with Information Security and security engineering.
+· 4 years of experience in delivery and DevOps.
+· Prior demonstrated technical leadership and management in cross-functional security role with 3-5 years’ minimum of people-management experience.
+· Proven track record developing, implementing and integrating security tools and technologies and process integrations in cloud-based architectures.
+· Prior experience working with application/product development teams on design and implementation of best-practices for security as code.
+· Knowledge of various Security Development Lifecycle approaches is required.
+· Demonstrated experience in comparative technology reviews and analysis.
+· Understanding strategic business objectives and the ability to drive results towards those objectives.
+· Proven ability to work within a team environment and develop strong security engineering Leaders.
+· Prior experience project-managing security control implementations.
+Nice to Have
+· Prior experience in a technology company working closely with product and DevOps engineers on security requirements.
+· Experience with DevOps environments and AWS security controls a strong plus.
+· Familiarity and experience with standards and compliance frameworks including ISO, SANS, OWASP, NIST, SSAE SOC, ITIL, etc.
+· Excellent written visualization and verbal communication skills.
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.

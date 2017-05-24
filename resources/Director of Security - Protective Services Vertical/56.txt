@@ -1,0 +1,28 @@
+Parallel HR Solutions, Inc
+Job title : Director of Security
+Job location : Shelton, Connecticut
+
+Employer name :
+Job description :
+Job description
+Our Client is the innovator of the world's largest and most accurate database of environmental and historical land use records and they are looking for a talented Director Of Infrastructure and Security to join their team. If you have the following skills, they are looking for you!
+BASIC FUNCTION:
+As the Director of Infrastructure and Security, you are responsible for providing technical direction, leadership and guidance relative to IT infrastructure, information and system security of EDR’s systems. This includes providing stewardship over hosting services and related technology, and the effective design and implementation of these solutions. This is accomplished through your understanding of our business strategy, overall IT infrastructure and security strategy, industry trends and available technologies. Additionally, you will lead all technical project build functions for EDR hosting solutions, computing systems, storage, networks, and telephony in our development, test, UAT and production environments.
+· Bachelor’s / Master’s degree in Computer Science, MIS, or related field of study.
+· A minimum of 10 years of enterprise information systems management experiences
+· Able to communicate ideas in technical and non-technical terms
+· Excellent understanding of cloud security and experience with design and/or implementation of applications in the cloud; Understanding of cloud deployment models: Private Cloud, Public Cloud, Hybrid Cloud; Cloud service models: Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS); implementation of relevant controls to ensure Confidentiality, Integrity and Availability of confidential data
+· Technical Proficiencies in areas of:
+· Amazon Web Services (AWS)
+· Systems Administration (Linux and/or Windows)
+· Networking (DNS, TCP/IP, SSL, DHCP, Load Balancing)
+· Scripting / Automation
+· Database Architecture
+· IT Security
+· Operations Management & infrastructure design
+· Service Oriented Architecture
+· Exposure to Federal Security requirements e.g. FISMA and FedRAMP & Network Security.
+· Understanding or Experience with various CDNs e.g. CloudFront, Akamai, Limelight
+· Experience with security industry standards SAE 16 or ISO 27001/2.
+· CISSP, SSCP or CCSP Certifications a plu
+

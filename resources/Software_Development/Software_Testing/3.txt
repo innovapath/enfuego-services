@@ -1,0 +1,3 @@
+Software test and manual systems analysis for large integrated computer system, including software and specialized hardware, as well as integration to external systems. 
+Design, develop and maintain commissioning test suites providing functional and performance validation. 
+Experience should include testing of functional and performance test scripts scenarios in support of integrated multi-platform systems supporting high volume transaction processing across distributed data acquisition points. 

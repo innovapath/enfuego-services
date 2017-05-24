@@ -1,0 +1,9 @@
+Develop web applications and systems using Node.js and React.js as a foundation
+Work with designers to create rich and modern views and interactions on web platform with HTML, CSS, and JavaScript
+Work in a tightly-knit team of designers, front-end web developers and backend engineers
+Proficient in the construction of dynamic web applications using React.js and Redux
+Experienced in object-oriented programming, test-driven development, and service-oriented architecture using JavaScript in both browser and Node.js runtimes
+Detailed understanding of web technologies, including web services and web application servers
+Versed in building front-end web applications leveraging communication with RESTful APIs
+Proficient with Github, JIRA and other software development project tools
+Competent in the use of JavaScript ecosystem’s build and development tools such as Grunt, Webpack, Babel. 

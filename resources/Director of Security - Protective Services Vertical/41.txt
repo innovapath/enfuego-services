@@ -1,0 +1,44 @@
+Colgate University
+Job title : Director of Security
+Job location : Hamilton, New York
+
+Employer name :
+Job description :
+The Director, Information Security and CISO, is responsible for thought leadership, policy/practice development, and operational leadership around University issues of data and information security.
+Reporting to the Vice President and CIO, this position will be responsible for the following accountabilities:
+- Maintain a comprehensive working knowledge of federal, state and local "laws and regulations", and industry standards, where compliance requires specific data or information security policies, practices, reporting, or audits. These laws and regulations include, but are not limited to the Health Information Portability and Accountability Act (HIPAA), Family Educational Rights and Privacy Act (FERPA), Higher Education Opportunity Act (HEOA), and the Payment Card Industry Data Security Standard (PCI DSS).
+- Maintain a comprehensive working knowledge of the landscape of data and information security policies and best practices, including those unique to institutions of higher education and those more broadly applicable, used to maintain compliance with these Laws and Regulations.
+- Maintain a high level of community empathy and understanding of Colgate's mission and the work of faculty, students, and staff sufficient to ensure a secure technology environment that enables creativity and success.
+- Recognizing that a technology environment that enables creativity and success can at times be at odds with a highly secure and regulated technical infrastructure recommend and build consensus around specific systems and/or practices to ensure the University's successful operation and ongoing compliance with laws and regulations and the generally accepted principles of data and information security. Examples include:
+- Models for authentication, authorization and accounting for systems and services.
+- Policies for system access and permissions to support audit and detection of compliance issues.
+- Standards for network and system configuration.
+- Regular processes for system and server patch and vulnerability management.
+- The effective use of network security equipment, including firewalls and intrusion protection systems.
+- Processes for change management.
+- Work with technical staff to implement systems and/or practices.
+- Develop and deliver training for end users, data stewards, system administrators and others as may be required in support of the above.
+- Establish and track benchmarks and metrics that reflect the effectiveness of University data and information security policy and practice.
+- Conduct periodic security audits of the University IT environment. Develop reports, document results and recommended changes and supervise implementation plans.
+- Lead the development, maintenance and annual evaluation of incident response, business continuity and disaster recovery plans.
+- Lead incident response efforts including forensics and investigations in the event of a data breach or incident.
+- Participate on University-wide working groups and committees representing and advocating for the interests of a secure data environment.
+- Represent the Univeristy as a participant of institutional security collaborations (REN-ISAC, Higher Education Information Security Council, New York Six, etc.).
+- Maintain and use an expert working knowledge and technical understanding of the interrelationships and interdependencies between and among the systems, services and products provided and supported by ITS.
+- Maintain a working knowledge and technical understanding of the University's general networking and systems infrastructure.
+- Serve as a successful liaison with Colgate's IT Security vendor.
+Qualifications
+- A minimum of Bachelor's degree in a related field required.
+- A minimum of 3 years of professional cyber security experience in the higher education, corporate, government or non-profit sectors.
+- Demonstrated ability to consistently follow through with solutions and information for all types of users.
+- Demonstrated ability to diffuse the most challenging situations and remain calm and focused.
+- Demonstrated ability to assess user sophistication and communicate (oral and written) with customers in an appropriate level of detail.
+- Demonstrated customer-service approach and able to prioritize and respond with a high level of urgency.
+- Demonstrated ability to always convey confidence to the user in ITS's' ability to solve issues.
+- Ability to operate with the highest level of discretion.
+- Able to understand encryption mechanisms.
+- Demonstrated ability to review firewall configurations, intrusion detection, vulnerability scanning reports and other cybersecurity systems and metadata.
+- Demonstrated collaboration skills and the ability to work well as a member of a team, or independently.
+- Must have availability to work nights and weekends as required.
+- Demonstrated excellent interpersonal and communication skills including the ability to compose and present written and verbal correspondence to a diverse range of constituents as required.
+- Must be capable of working collegially with a diverse group of faculty, staff and students on a daily basis- Must be available for on-call work as required.

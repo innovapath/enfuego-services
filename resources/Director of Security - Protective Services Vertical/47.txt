@@ -1,0 +1,41 @@
+Glassdoor
+Job title : Director of Security
+Job location : San Francisco Bay Area
+
+Employer name :
+Job description :
+Our mission is to help people everywhere find a job and company they love. We are disrupting an industry by changing how people search for jobs and how companies recruit top talent.
+The Director of Information Security will be responsible for leading efforts that help protect Glassdoor against the variety of threats to Glassdoor’s infrastructure and services. As a successful candidate, you will take a strong leadership role in the challenge to drive security in a company that prides itself on it's ability to move fast. You will be an effective communicator regardless of audience or medium; able to explain complex security issues and articulate the threat model for Glassdoor. You will be a sound decision maker and rationalize between difficult choices on technical merit and real world risk.
+Have passion for real security and be able to positively spread this enthusiasm to partner teams. Check-the-box and compliance driven candidates are not a fit at Glassdoor
+Responsibilities:
+· Lead the cross functional team responsible for researching, developing, implementing and supporting company-wide security capabilities
+· Collaborate with internal stakeholders to define and drive the security agenda and Glassdoor’s overall information security program
+· Partner with leaders across the company, especially those in Glassdoor’s IT, Product and Engineering teams, to ensure that corporate information security efforts receive appropriate prioritization and resources
+· Develop and maintain metrics to measure Glassdoor’s security posture
+· Partner with product designers, engineers and executives to ensure Glassdoor’s new products and features are built securely and ensure that every product is developed with security in mind
+· Partner with the top external security researchers and partners globally in identifying security flaws in Glassdoor’s products and then manage internal remediation efforts
+· Develop, socialize and enforce IT General Controls and Infosec policies and procedures necessary to maintain compliance with industry regulations and best practice
+Minimum Qualifications
+· 10+ years of relevant work experience, including hands-on technical management, experience developing and leading large information security programs, and proven ability to contribute at both strategic and operational levels
+· Must be able to develop and communicate information security strategies and architectures
+· Deep experience in Application Security including building a secure application development program
+· Demonstrated ability to build solutions for a corporate culture such as Glassdoor’s
+· Ability to translate complex technical concepts into language suitable for a range of audiences, including software engineers, business and technical leaders and external security community members
+· Knowledge of attacker lifecycles and strategies to inhibit attacker activity
+· Familiarity with control frameworks such as ISO 27001/2, NIST Cybersecurity Framework, and Center for Internet Security Controls for Effective Cyber Defense
+· Demonstrated experience applying IT General Controls, SOX and Business Application controls in a dynamic and agile environment
+Why Glassdoor?
+· Work with purpose – join us in creating transparency for job seekers everywhere
+· Glassdoor gives back! Glassdoor is a Pledge 1% member; all employees receive 3 paid volunteer days per year
+· 100% company paid medical/dental/vision/life coverage; 85% dependent coverage
+· Equity in a late stage startup backed by top-tier VCs
+· Sunny & peaceful Mill Valley offices located right on the water
+· Walking, running and biking trails steps away from the office
+· Onsite gym and fitness classes
+· Free catered lunch; new menu daily
+· Paid holidays and flexible paid time off
+· Your choice between Mac or PC
+· Dog-friendly office (with dog-free zones if you are so inclined)
+· Free parking
+Glassdoor is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other category protected under the law. Glassdoor is an equal opportunity employer; committed to a community of inclusion, and an environment free from discrimination, harassment, and retaliation.
+

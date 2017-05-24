@@ -1,0 +1,2 @@
+Familiarity with tools such as: Eclipse, EJB, Hibernate, JSP/HTML, J2EE, JQuery, Struts, SQL
+Understanding relational database concepts and Object Oriented Programming

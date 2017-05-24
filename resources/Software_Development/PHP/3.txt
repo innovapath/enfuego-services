@@ -1,0 +1,7 @@
+PHP 5.6 / 7.0
+PHP frameworks; Laravel preferred
+eCommerce development
+Responsive and mobile optimization
+Page load time/performance optimization
+PHPUnit
+Apache or NGINX

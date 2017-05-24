@@ -1,0 +1,2 @@
+JavaScript frameworks AngularJS, with JS-based build tools like Grunt, Gulp, and Bower
+Note: Advanced AngularJS developers will have a mix of front-end and back-end technology expertise, including solution stacks like MEAN, and server-side technologies like Node.js.

@@ -1,0 +1,60 @@
+S&P Global
+Job title : Director of Security
+Job location : Charlottesville, VA, US
+
+Employer name :
+Job description :
+Position Description
+As a member of the security engineering group, you will provide security architecture guidance based on your experience in information security, cloud computing, strong knowledge of virtualization technologies, and related risk management methods. An Amazon Web Services certified professional with focus on information security, Amazon Cloud security architecture is highly desired.
+S&P Global utilizes both public and private cloud Infrastructure as a Service (IaaS). Due to significant increase in cloud application migration and deployment, expanded cloud security governance and risk remediation activities, S&P global is looking for an individual to join the security engineering team focusing on the deployment, governance and standardization of cloud security technologies.
+In This Role You Will
+· Review and provide guidance on Amazon Web Services VPC security architecture to further S&P Global internal infrastructure integration and leveraging the latest available Amazon cloud provider features.
+· Provide rapid risk guidelines and security guidance in response to ongoing rush of new Amazon / Microsoft cloud feature sets.
+· Enhance S&P cloud security monitoring/governance processes to include newly-released Amazon features and through the use of third party security technologies.
+· Work to develop comprehensive cloud security standards and security change detection strategy and integrate into existing S&P processes and Amazon cloud deployments.
+· Support cloud vendor evaluation activities developing advisement on in-depth knowledge of cloud marketplace, features, and functions as well as risk-managed operations and management.
+· Integrate change detection methodologies and reporting into cloud security monitoring and governance process leveraging newly developed cloud security monitoring tools
+· Help guide security risk-managed technology selection, architecture, implementation, management, operations, and ongoing governance of S&P private and hybrid cloud initiatives including expansion, internal usage, and integration with public cloud providers.
+· Perform remediation for projects not conforming to S&P cloud security guidelines
+· Provide specific cloud security guidelines, review, and governance to assure new cloud technology automation, API management and configuration tools are deployed securely (i.e. puppet, chef, CloudFormation, Ansible).
+· Produce and maintain other cloud security guidelines including internal private cloud, hybrid public/private cloud, and those for non-Amazon deployments
+· Assist in review of 3rd party service providers who themselves are leveraging cloud services.
+· Identify and develop necessary security controls and governance processes by evaluating specific cloud-based services against S&P business objectives, security policies, and security risk-based frameworks.
+· Perform remediation on cloud deployments not following existing established cloud security guidelines.
+· Perform security reviews, identify risks associated with projects and applications moving to the cloud (public / private) and advise on risk mitigation.
+· Develop, test and implement additional security controls required to address any gaps associated with cloud based vendor offerings and to ensure compliance with S&P information security policies.
+· Maintain and draft new as-required cloud based security standards / guidelines
+· Provide guidance on Cloud Security best practices and how to secure application profiles based on various data classifications.
+Secondary tasks
+· Assist on Cloud security monitoring and run validation tools and procedures to validate compliance with S&P cloud security guidelines.
+· Assessment of 3rd Party Cloud Vendors - PaaS, SaaS, Supporting IaaS
+· Advise on Cloud Identity and Access Management.
+· Cloud intrusion detection and prevention: Work to expand methods of deployment addressing new operational capabilities Cloud security awareness and education: Internal education, review, and awareness programs around cloud security risk management.
+· Refine existing online cloud security checklist as needed
+· Cloud virtual image hardening
+· Modify existing S&P security policies and guidelines as-required to address changes bought-on by the cloud.
+· Implement S&P Hypervisor-based security controls
+· Define public and private cloud security requirements for extending S&P infrastructure to the cloud
+· Define policies, procedures, technologies, and methods for encrypting data in the cloud and addressing challenges to data encryption and specifically encryption key protection and management.
+Qualifications
+· At least 8+ years of experience in a combination of risk management, information security and IT jobs.
+· Experience with designing secure and compliant Amazon Web Services architectures.
+· Knowledge of common information security management frameworks with emphasis on cloud security frameworks.
+· Excellent written and verbal communication skills, interpersonal and collaborative skills, and the ability to communicate security and risk-related concepts to technical and nontechnical audiences.
+· Proven track record and experience in developing cloud based information security policies, standards and procedures, as well as successfully executing programs that meet the objectives of excellence in a dynamic environment.
+· Understand multilayered software architectures, Amazon Web services VPC architecture including server instances, storage, subnets, availability zones, security group design, routing, encryption, identity access management policies, mobile application deployment and AWS cloud log monitoring services.
+· Must be a critical thinker, with strong problem-solving skills.
+· Exhibit excellent analytical skills, the ability to manage multiple projects under strict timelines, as well as the ability to work well in a demanding, dynamic environment and meet overall objectives.
+· Cloud security architecture certifications are a plus
+· Solid scripting skills (i.e.: Ruby, Python, Perl, shell scripts).
+· Maintained information security /cybersecurity certifications (e.g. CEH, CISSP, CISM).
+About S&P Global
+At S&P Global, we don’t give you intelligence—we give you essential intelligence. The essential intelligence you need to make decisions with conviction. We’re the world’s foremost provider of ratings, benchmarks and analytics in the global capital and commodity markets. Our divisions include:
+· S&P Global Ratings, which provides credit ratings, research and insights essential to driving growth and transparency.
+· S&P Global Market Intelligence, which provides insights into companies, markets and data so that business and financial decisions can be made with conviction.
+· S&P Dow Jones Indices, the world’s largest resource for iconic and innovative indices, which helps investors pinpoint global opportunities.
+· S&P Global Platts, which equips customers to identify and seize opportunities in energy and commodities, stimulating business growth and market transparency.
+To all recruitment agencies: S&P Global does not accept unsolicited agency resumes. Please do not forward such resumes to any S&P Global employee, office location or website. S&P Global will not be responsible for any fees related such resumes.
+S&P Global is an equal opportunity employer committed to making all employment decisions on the basis of merit, capability and equality of opportunity, and without regard to race/ethnicity, gender, pregnancy, gender identity or expression, color, creed, religion, national origin, age, disability, marital status (including domestic partnerships and civil unions), sexual orientation, military veteran status, unemployment status, or any other basis prohibited by federal, state or local law, or any other characteristic that has no bearing on a person’s ability to perform his or her job.
+Only electronic job submissions will be considered for employment. If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.

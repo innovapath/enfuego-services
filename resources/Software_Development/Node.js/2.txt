@@ -1,0 +1,2 @@
+Proficient in full stack web development
+Node.js, REST APIs

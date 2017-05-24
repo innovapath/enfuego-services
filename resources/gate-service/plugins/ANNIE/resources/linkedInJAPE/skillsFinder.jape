@@ -1,0 +1,40 @@
+Imports: {
+import static gate.Utils.*;
+}
+Phase: skillsFinder 
+Input: Lookup work_experience
+Options: control = appelt debug = true
+
+MACRO: SKILL_IDENTIFIER
+(({Lookup.minorType==marketing_skills}))
+
+Rule: SkillsRule
+(
+	{work_experience}
+):workex
+ -->
+ //:degree.DegreeRule={}
+{
+	AnnotationSet workexSet = bindings.get("workex");
+	//FeatureMap features = Factory.newFeatureMap();
+	Set<String> skillz = new HashSet<String>();
+	//System.out.println("Work EXPERIENCE is"+workexSet);
+
+	
+	AnnotationSet skillsSet = inputAS.get("Lookup", workexSet.firstNode().getOffset(), workexSet.lastNode().getOffset());
+	for(Annotation ann : skillsSet.inDocumentOrder()){
+		       //System.out.println("SKILLSET IS "+ann);
+	if(ann.getFeatures() != null && ann.getFeatures().get("minorType") != null && ann.getFeatures().get("minorType").equals("marketing_skills"))
+	{
+		//System.out.println(stringFor(doc, ann));
+		skillz.add(stringFor(doc, ann));
+	}
+	}
+	if(workexSet != null && workexSet.size()>0)  
+	{  
+  	   Annotation personAnn = workexSet.iterator().next();  
+  	   personAnn.getFeatures().put("SkillSet", skillz);  
+	}  
+	//outputAS.add(workexSet.firstNode(), workexSet.lastNode(), "work_experience", features);
+	
+}

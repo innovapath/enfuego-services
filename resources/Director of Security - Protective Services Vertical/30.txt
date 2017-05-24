@@ -1,0 +1,41 @@
+Genuent
+Job title : Director of Security
+Job location : Greater Los Angeles Area
+
+Employer name : Margot Parsons
+Job description :
+Network Security-Director Level (Finance Domain) Direct Hire
+Excellent Global Company!
+Job Summary
+The Director, Network Security is the Senior Manager and head of the Network Security team as well as a Senior Manager within Enterprise Information Security
+Responsibilities
+· Grow and mature the network security program by leading a team of network security professionals within Enterprise Information Security.
+· Design and build an end-to-end enterprise network security program which includes both a centralized and decentralized model for application testing, code scanning, issue tracking, issue remediation, key metrics, application logging, and SIEM onboarding
+· Manage and build a world-class team, retaining top talent and recruiting industry leaders
+· Build close relationships with the CIO, CTO, CISO, and other key stakeholders
+· Test and ensure the security of all internet facing network and systems as well as many other key internal applications and processes
+· Develop enterprise wide engagement models working closely with the office of the CTO, and the PMO
+· Manage and maintain security testing platforms, validate findings and drive down false positive rate
+· Create and maintain evergreen processes for network onboarding and recurring testing
+· Maintain blue-team programs designed to holistically detect security vulnerabilities or defects from anywhere within the organization including the human layer to ultimately stop and/or deter security breaches
+· Develop and maintain application testing matrix based on numerous vectors such as application risk, regulatory implications, and application function
+· Closely collaborate with security architects in developing application security architectural principles, policies, reference stacks, features, and requirements.
+· Develop, maintain and promote baseline security testing framework into part of regression testing
+· Ensure that all application changes align with security principles, secured architecture design, security features & requirements, and are free of serious security defects before changes are promoted into production
+· Understand the risk appetite of the firm and appropriately manage defects within these parameters
+· Manage network security defects in a timely & pragmatic way
+Qualifications
+· Exceptional track record as a Senior Leader
+· Experience rolling out and/or running a large scale enterprise application security program
+· Subject Matter Expert in all facets of Application Security
+· Subject Matter expert in the tools used to execute a world class Application Security program
+· Strategic, creative, and innovative mind
+· Exceptional ability to execute and drive change
+· Experience in creating trending, metrics, and management reports
+· CISSP SPLUNK/SIEM, Firewalls, Intrusion Detection, Insider Threat
+Preferred Technologies:
+· SPLUNK SIEM, FIREWALLS, Intrusion/Anomaly Detection, Multifactor Authentication, PKI,
+· DNS, DDoS Protection, or Wireless Security
+Education
+Undergraduate degree in computer science or equivalent experience.
+Qualified candidates please send your updated resume to mparson@genuent.net for further review!

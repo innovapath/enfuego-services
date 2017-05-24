@@ -1,0 +1,26 @@
+LLamasoft , Inc.
+
+Job title: Humanitarian 
+Job location: Greater Detroit Area
+Employer name : Nicole Stark, CRP
+Job description: 
+The Role:
+This is your chance to bring your passion for solving difficult problems to a fast-growing, dynamic, entrepreneurial team that is pushing the boundaries of Supply Chain logistics and optimization.
+· Design, develop, and test algorithms to solve supply chain transportation problems.
+· Take ownership of projects and drive them through to completion thoroughly and efficiently.
+· Work effectively with small teams in order to complete projects on time.
+· Understand key performance indices for solution quality and seek solutions to improve these metrics.
+· Support existing business applications for internal and external stakeholders.
+· Support development of LLamasoft commercial products to include components of LLamasoft’s flagship software product, Supply Chain Guru.
+What Makes this Role Unique: Cutting-edge Research and Impactful Work to Grow Your Career:
+· Participate in interesting research and development projects, getting exposed to a wide range of optimization technologies and problems.
+· Make a real contribution to global logistics problems.
+· Gain experience working with Fortune 500 companies, prominent consulting firms, humanitarian logistics agencies, and our nation’s military.
+The Qualifications:
+· Graduate degree in Operations Research or Industrial Engineering (Ph.D. or significant experience required).
+· Solid background in mathematical optimization, inventory planning methods, transportation scheduling, and statistical demand forecasting / demand analysis methodologies will give preference.
+· Knowledge and experience with mathematical optimization methods in transportation planning and vehicle routing (required).
+· Experience with complex algorithmic development (Experience with optimization methods and algorithms highly desired).
+· A broad knowledge of the C# programming language or deep coding experience in other languages (C# preferred, coding skills required).
+· Experience with mathematical modeling systems and algebraic modeling languages (desirable).
+

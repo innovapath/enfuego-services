@@ -1,0 +1,2 @@
+Experienced in object-oriented programming, test-driven development, and service-oriented architecture using JavaScript in both browser and Node.js runtimes 
+Develop web applications and systems using Node.js and React.js as a foundation 

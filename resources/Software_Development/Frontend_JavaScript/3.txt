@@ -1,0 +1,8 @@
+Develop new user-facing features
+Build reusable code and libraries for future use
+Ensure the technical feasibility of UI/UX designs
+Proficient understanding of web markup, including HTML5, CSS3
+Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS
+Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
+Proficient understanding of cross-browser compatibility issues and ways to work around them.
+ 

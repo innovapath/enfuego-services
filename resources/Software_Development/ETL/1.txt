@@ -1,0 +1,2 @@
+Must be proficient with PL/SQL, SQL, Oracle 10g/11g, SQL Server - Knowledge of Postgre and NOSQL is preferred. Strong understanding of Data Warehousing concepts and best practices.
+Strong hands on experience in ETL Development w/ Informatica - 2+ years- PowerCenter 9.1 plus, Informatica PowerExchange 9.x, ETL.

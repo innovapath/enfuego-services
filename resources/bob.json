@@ -1,0 +1,733 @@
+{
+  "_id": "58ed40881ae1040ee69d989b",
+  "targetProfession": "MANAGEMENT",
+  "generalInfo": {
+    "birthMonth": null,
+    "address": {
+    	"street": "11488 E. Paradise Lane",
+    	"city" : "Scottsdale",
+    	"zip":"85255"
+    },
+    "firstName": "BOB",
+    "lastName": "DENNY",
+    "genEmail": "Bobd@impacks.com",
+    "mobilePhone": "480-544-3499",
+    "birthDay": null
+  },
+  "profileImageURL": null,
+  "careerScale": 0,
+  "incomeReqMin": 0,
+  "incomeReqMax": 0,
+  "jobHistory": [
+    {
+      "id": "58ed53f71ae1040ee69d98a8",
+      "company": "E & J GALLO WINERY",
+      "startMonth": "Apr",
+      "title": "Senior Director, Marketing",
+      "startYear": "2002",
+      "endMonth": "Sep",
+      "endYear": "2003",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98a9",
+      "company": "E & J GALLO WINERY",
+      "startMonth": "Jun",
+      "title": "Director, Marketing",
+      "startYear": "1999",
+      "endMonth": "Apr",
+      "endYear": "2002",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98aa",
+      "company": "E & J GALLO WINERY",
+      "startMonth": "Jul",
+      "title": "Manager, Marketing",
+      "startYear": "1997",
+      "endMonth": "June",
+      "endYear": "1999",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98ab",
+      "company": "GALLO WINE DISTRIBUTION COMPANY",
+      "startMonth": null,
+      "title": "Area Sales Manager",
+      "startYear": "1993",
+      "endMonth": null,
+      "endYear": "1994",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98ac",
+      "company": "GALLO WINE DISTRIBUTION COMPANY",
+      "startMonth": null,
+      "title": "District Sales Manager",
+      "startYear": "1990",
+      "endMonth": null,
+      "endYear": "1990",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98ad",
+      "company":"GALLO WINE DISTRIBUTION COMPANY",
+      "startMonth": null,
+      "title": "Sales Representative",
+      "startYear": "1989",
+      "endMonth": null,
+      "endYear": "1990",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98ae",
+      "company": "IMPACKS",
+      "startMonth":"Jan",
+      "title": "Sales and Marketing Consultant",
+      "startYear": "2012",
+      "endMonth": null,
+      "endYear": null,
+      "present": true
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98af",
+      "company": "5.11 Tactical",
+      "startMonth": "Jan",
+      "title": "Executive Vice President of Sales and Marketing",
+      "startYear": "2010",
+      "endMonth": "Dec",
+      "endYear": "2011",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98b0",
+      "company": "5.11 Tactical",
+      "startMonth": "Nov",
+      "title": "Vice President of Marketing",
+      "startYear": "2008",
+      "endMonth": "Dec",
+      "endYear": "2009",
+      "present": false
+    },
+    {
+      "id": "58ed53f71ae1040ee69d98b1",
+      "company": "5.11 Tactical",
+      "startMonth": "Oct",
+      "title": "National Sales Manager",
+      "startYear": "2003",
+      "endMonth": "Oct",
+      "endYear": "2008",
+      "present": false
+    }
+  ],
+  "searchMarkets": [
+  {
+  "state":"CA"
+  },
+  {
+  	"state":"MA"
+  }
+  ],
+  "skills": [
+    {
+      "score": 43,
+      "id": null,
+      "name": "Sales",
+      "yearsApplied":"5",
+      "skillsApplied":"supervised",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+     {
+      "score": 43,
+      "id": null,
+      "name": "Sales",
+      "yearsApplied":"5",
+      "skillsApplied":"participated_in_a_team",
+      "lastApplied": null,
+      "whereApplied": "GALLO WINE DISTRIBUTION COMPANY"
+    },
+    {
+      "score": 36,
+      "id": null,
+      "name": "Creative_Services",
+      "yearsApplied": "5",
+      "skillsApplied": "supervised",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 23,
+      "id": null,
+      "name": "Marketing",
+      "yearsApplied": "5",
+      "skillsApplied": "supervised",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 21,
+      "id": null,
+      "name": "CRM",
+      "yearsApplied": "5",
+      "skillsApplied": "participated_in_a_team",
+      "lastApplied": null,
+      "whereApplied": "5.11 Tactical"
+    },
+    {
+      "score": 21,
+      "id": null,
+      "name": "Marketing_Automation_tools",
+      "yearsApplied": "5",
+      "skillsApplied": "participated_in_a_team",
+      "lastApplied": null,
+      "whereApplied": "E & J GALLO WINERY"
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Acquisition",
+      "yearsApplied": null,
+      "skillsApplied": "participated_in_a_team",
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Marketing",
+      "yearsApplied": "6",
+      "skillsApplied": "supervised",
+      "lastApplied": null,
+      "whereApplied": "5.11 Tactical"
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Marketing",
+      "yearsApplied": "6",
+      "skillsApplied": "directly_performed",
+      "lastApplied": null,
+      "whereApplied": "GALLO WINE DISTRIBUTION COMPANY"
+    },
+    {
+      "score": 13,
+      "id": null,
+      "name": "Social_Media_Marketing",
+      "yearsApplied": "7",
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": "5.11 Tactical"
+    },
+    {
+      "score": 13,
+      "id": null,
+      "name": "Consulting",
+      "yearsApplied": "5",
+      "skillsApplied":"supervised",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 12,
+      "id": null,
+      "name": "Advertising",
+      "yearsApplied": "7",
+      "skillsApplied": "participated_in_a_team",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 11,
+      "id": null,
+      "name": "Training_Recruiting",
+      "yearsApplied": "5",
+      "skillsApplied": "supervised",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 10,
+      "id": null,
+      "name": "Budgeting",
+      "yearsApplied":"6",
+      "skillsApplied":"directly_performed",
+      "lastApplied": null,
+      "whereApplied": "IMPACKS"
+    },
+    {
+      "score": 10,
+      "id": null,
+      "name": "People_Mananagement",
+      "yearsApplied": "6",
+      "skillsApplied":"supervised",
+      "lastApplied": null,
+      "whereApplied": "E & J GALLO WINERY"
+    },
+    {
+      "score": 9,
+      "id": null,
+      "name": "Digital_Content_Writing",
+      "yearsApplied": "6",
+      "skillsApplied":"directly_performed",
+      "lastApplied": null,
+      "whereApplied": "E & J GALLO WINERY"
+    },
+    {
+      "score": 8,
+      "id": null,
+      "name": "Communications",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 8,
+      "id": null,
+      "name": "IT_Technical_Program_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 5,
+      "id": null,
+      "name": "Technology",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 5,
+      "id": null,
+      "name": "Project_Management",
+      "yearsApplied": "7",
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": "E & J GALLO WINERY"
+    },
+    {
+      "score": 3,
+      "id": null,
+      "name": "Operations",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 1,
+      "id": null,
+      "name": "IT_Project_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 1,
+      "id": null,
+      "name": "Mentoring",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    }
+  ],
+  "accs":[
+  {
+  	"accomplishment":"Grew top line sales from $126MM to $181MM while exceeding bottom line objective of 20%",
+  	"company":"5.11 Tactical",
+  	"month":"Aug",
+  	"year":"2010"
+  },
+   {
+  	"accomplishment":"Recruited and trained national sales force (30 reps) for equestrian apparel manufacturer – Noble Outfitters",
+  	"company":"IMPACKS",
+  	"month":"June",
+  	"year":"2013"
+  }
+  ],
+  "skillsCloudSrc": null,
+  "membership": null,
+  "setupComplete": false,
+  "degrees": [
+    {
+      "id": "58ed53f51ae1040ee69d98a7",
+      "name": "Bachelor of Science in Business Administration",
+      "school": "University of Arizona",
+      "degreeType": "Bachelor",
+      "year": "1990"
+    }
+  ],
+  "certifications": null,
+  "email": "Bobd@impacks.com",
+  "jobs": [
+    {
+      "id": "58ed41fe1ae1040ee69d989e",
+      "score": 74.0740737915039,
+      "applied": true,
+      "appliedOn": "11-04-2017",
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 17,
+          "id": null,
+          "name": "Finance",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "MS_Office",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed1cc5dbf6d35a5172d078",
+      "score": 32,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 17,
+          "id": null,
+          "name": "Finance",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "MS_Office",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed45691ae1040ee69d989f",
+      "score": 34,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Director of Creative Services",
+      "company": "Creative Services",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 2,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 11,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed54ff1ae1040ee69d98b4",
+      "score": 32,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 17,
+          "id": null,
+          "name": "Finance",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "MS_Office",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58f18458dbf6d31834556b4c",
+      "score": 32,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 17,
+          "id": null,
+          "name": "Finance",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "MS_Office",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58f18670d9b0d31c1310ce3b",
+      "score": 32,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 15,
+          "id": null,
+          "name": "Brand_Development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 17,
+          "id": null,
+          "name": "Finance",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "MS_Office",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 10,
+          "id": null,
+          "name": "P&L",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    }
+  ]
+}

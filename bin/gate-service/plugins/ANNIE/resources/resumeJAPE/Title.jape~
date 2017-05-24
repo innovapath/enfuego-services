@@ -1,0 +1,24 @@
+Phase: TitleFinder
+Input: work_experience
+Options: control = appelt debug = false
+
+Rule: TitleRule
+(
+ {work_experience}
+):workex
+-->
+{
+	AnnotationSet workexSet = bindings.get("workex");
+	if(workexSet != null && workexSet.size() > 0)
+	{
+		Annotation workex = workexSet.iterator().next();
+		//System.out.println("In TITLE:"+workex.getFeatures());
+		if(workex.getFeatures() != null && workex.getFeatures().get("jobtitle")!= null)
+		{
+			FeatureMap features = Factory.newFeatureMap();
+			features.put("TITLE", workex.getFeatures().get("jobtitle"));
+			outputAS.add(workexSet.firstNode(), workexSet.endNode(), "TitleFound", features);
+			ctx.endPhase();
+		}
+	}
+}

@@ -1,0 +1,18 @@
+University of Pittsburgh
+Job title : Director of Security
+Job location : Pittsburgh, Pennsylvania, US
+
+Employer name :
+Job description :
+
+The University of Pittsburgh Computing Services and Systems Development department is seeking a Chief Information Security Officer - a senior level technical leadership position that reports to the CIO of the University. This senior leadership position is responsible for information technology security operations and assisting with ensuring IT security regulatory compliance at the University of Pittsburgh.
+This position is a high-level, technical position responsible for security policy, security operations and security engineering. Security policy includes developing security standards for University enterprise systems; CSSD maintained systems and services, regulatory compliance, third-party risk assessments and departmental risk assessment. Security operations includes firewall access, monitoring security alerts, incident response, notification and escalation of serious security incidents, manage digital certificates and multi-factor authentication. Security engineering includes recommendations for enterprise security solutions, consultation with departments and forensic investigations.
+Must have excellent leadership ability to include exceptional written and verbal communication skills, independent decision-making, sound professional judgment, and a high-degree of initiative. Must also be able to successfully define and implement strategic direction, direct and manage staff time and resources, produce accurate financial reports, use discretion when dealing with sensitive issues, consistently meet deadlines and consistently manage stressful situations with composure and professionalism. In addition, this individual must clearly understand and consistently apply the mission, vision and values of the University and CSSD to all work situations and tasks. Must accurately interpret, represent and consistently follow University and departmental IT policies, processes and procedures.
+It is vital that the individual understand the University's computing environment and the impact of decisions on production and development systems. In order to successfully meet performance standards, it is critical that the individual maintain a broad view of advancements in technology and proficiency with new technologies.
+The incumbent must have at least ten years of IT experience and five years leadership and operational experience in IT or a related field. A significant understanding of regulatory compliance requirements such as GLB, FERPA, HIPAA, and Sarbanes Oxley is also required. CISSP, CISM or similar IT security certifications are required.
+Applicants must provide three work related references (supervisory, whenever possible) as well as include their complete employment and salary history on their application.
+Applicants should include salary requirements in cover letter.
+The University of Pittsburgh is an Affirmative Action/Equal Opportunity Employer and values equality of opportunity, human dignity and diversity. EEO/AA/M/F/Vets/Disabled
+The incumbent must have at least ten years of IT experience and five years leadership and operational experience in IT or a related field. A significant understanding of regulatory compliance requirements such as GLB, FERPA, HIPAA, and Sarbanes Oxley is also required.
+PI97126598
+

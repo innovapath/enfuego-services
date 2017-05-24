@@ -1,0 +1,72 @@
+Epsilon
+Job title : Director of Security
+Job location : Irving, TX, US
+
+Employer name : Kristina Mehaffey
+Job description :
+Description
+About the Opportunity:
+The Director of Security Engineering is responsible for providing a combination of leadership and hands-on technical expertise to design and implement solutions to complex security issues with a team of security engineers and analysts. Delivery of actionable designs and implementations based on security architecture, policy and standards. Ensuring all security controls are underpinned by an appropriate operations model, attracting and retaining top talent, and building a cost effective and manageable security infrastructure solution.
+The ideal candidate will have previous leadership experience. He or she will have a strong technical aptitude and be credible as a leader in a hi-tech complex environment. He or she will be able to drive schedules and deliverables through influence and leadership as well as direct authority.
+This leader will have had great success in integrating disparate teams into a unified, mission driven organization. This leader will have a reputation for being an excellent conduit of information for stakeholders and internal customers.
+Duties & Responsibilities
+· Establishes, maintains and provides strategic direction of security engineering and compliance planning and support to the company
+· Consults with Security and Technology Architects, internal IT operations and business operations to determine environment, application and systems requirements in accordance with security policies
+· Researches and evaluates current and future technologies for use in building, maintaining, and enhancing the security solutions
+· Plans, directs and executes strategic roadmap of security initiatives
+· Leads and manages information security resources
+· Opex, Capital, and Budgetary Expense estimation and planning
+· Significant contributor to defining and delivering the IT security architecture, framework, roadmap and patterns
+· Responsible for delivering security solution design and engineering, prioritized to reflect the threat and vulnerability landscape
+· Serve as an expert advisor in the development, implementation, and maintenance of information security policy and control framework
+· Develop and execute Threat and Vulnerability Assessments as part of the security design and solution engineering process
+· Monitor developments in the information security industry including vendor strategies and communicate on the potential impact or applicability to the organization
+· Build rapport, credibility, and cohesion across all business unit teams and IT teams in the course of leading the projects
+· Oversee highly complex set of projects with high visibility and high impact
+· Strong leadership skill driven both from business and security perspectives to deliver security solutions
+· Proof of Concept and Pilot of Solutions
+Minimum Requirements Needed
+· Bachelor’s degree in Computer Science, Information Systems Management or related field or equivalent experience
+· 5+ years direct interaction with compliance/audit activities
+· 10+ years of information technology/security experience
+· Demonstrated management/leadership of elevated responsibility in a fast paced, high priority environment
+· Strong communication skills both verbal and written
+· Ability to work with complex, cross-functional teams in a highly matrixed environment
+· Working experience with industry frameworks (CSF, ISO, COBIT, etc.)
+· Experience with a broad range of security technologies, including NextGen Firewalls, DLP, NAC, IDS/ IPS, IdAM, Certificate Management, SIEM, Endpoint Protection, Anti-malware, vulnerability management
+Highly Desired Skills & Experience
+· CISSP certifications preferred
+· Financial industry background within compliance preferred
+· Prior experience with SaaS security operations
+· Prior experience with Cloud / SaaS / IaaS environments and related security solutions
+· Knowledge of Business Resiliency practices
+· Experience in migrating enterprise companies from traditional data center infrastructure, application and data designs to hybrid or fully-cloud enabled practices
+· Experience researching and evaluating impacts of new technologies
+· Experience working within an international environment
+· Experience with Unix/Linux and Windows system administration
+· Well-rounded background in network, host, database, and application security
+· Professional IT Accreditations (CISM, CCSA, CCSE, CCNA, CISSP)
+Competences And Behaviors
+· Customer orientated
+· Builds relationships with customers, other team members
+· Effective and timely communication to Management, co-workers, customers and peers
+· Effective communication, presentation and negotiations skills
+· Able to express technical and non-technical concepts in a clear and crisp manger, both verbal and written
+· Passion to create working artifacts/documentation outlining security programs, operations and architecture environments
+· Encourages others opinions and an open exchange of ideas
+· Considers and presents a range of options that meet the needs of all stakeholders
+· Improve efficacy of security solutions
+· Competently define and report metrics supporting direct Effectiveness and Efficiency performance indicators
+· Strive for standardization and simplification
+Qualifications
+Conditions of Employment
+All job offers are contingent upon successful completion of certain background checks which unless prohibited by applicable law may include criminal history checks, employment verification, education verification, drug screens, credit checks, DMV checks (for driving positions only) and fingerprinting.
+Great People, Deserve Great Benefits
+We know that we have some of the brightest and most talented associates in the world, and we believe in rewarding them accordingly. If you work here, expect competitive pay, comprehensive health coverage, and endless opportunities to advance your career. From tuition reimbursement to scholarship programs to employee stock purchase plans and 401(k)s, we offer associates a variety of benefits that work as hard for them as they work for us.
+About Epsilon
+Epsilon is a global leader in creating connections between people and brands. An all-encompassing global marketing company, we harness the power of rich data, groundbreaking technologies, engaging creative and transformative ideas to get the results our clients require. Recognized by Ad Age as the #1 Largest World CRM/Direct Marketing Network, #1 Largest U.S. Agency from All Disciplines and #1 Largest U.S. Mobile Marketing Agency, Epsilon employs over 7,000 associates in 70 offices worldwide. Epsilon is an Alliance Data company. For more information, visit http://www.epsilon.com/, follow us on Twitter @EpsilonMktg or call 1.800.309.0505.
+Alliance Data provides equal employment opportunities without regard to race, color, religion, gender, age, national origin, disability, sexual orientation, gender identity, veteran status or any other characteristic protected by law.
+Alliance Data participates in E-Verify
+For San Francisco Bay Area
+Alliance Data will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of San Francisco Police Code Sections 4901 - 4919, commonly referred to as the San Francisco Fair Chance Ordinance.
+Job Reference ID: 0081271

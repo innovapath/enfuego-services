@@ -1,0 +1,8 @@
+Expert level proficiency with SQL and its variation among popular databases
+Skilled at optimizing large complicated SQL statements
+Ability to plan resource requirements from high level specifications
+Experience with some of the modern relational databases
+Familiar with tools that can aid with profiling server resource usage and optimizing it
+Knowledge of best practices when dealing with relational databases
+Capable of configuring popular database engines and orchestrating clusters as necessary
+Capable of troubleshooting common database issues

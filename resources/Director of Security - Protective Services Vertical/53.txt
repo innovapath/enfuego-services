@@ -1,0 +1,24 @@
+Stott and May
+Job title : Director of Security
+Job location : New York, New York
+
+Employer name : Lee Hills
+Job description :
+Executive Director - IT Security Engineering
+Job description
+Stott & May is partnered with a world leading financial organization in New York. The Security team of this organization is built of highly technical professionals. The team stretches globally. My client is progressive in their approach to security and promote a fantastic security culture. Engineering is at the core of the business. The team understands that people are just as important as technology when implementing a security program.
+You MUST must be fully immersed in emerging technologies such as a Blockchain, Public / Private / Hybrid Cloud Strategies, Mobile Solutions, deceptive technologies, advanced cryptography, to name just a few
+The Exec Director will manage multiple information security groups and complex projects covering several lines of businesses. You will oversee and develops policies regarding security architecture, security monitoring and auditing, incident reporting/response and forensics.
+About the Role
+Specifically, this role supports the Chief Information Security Officer and is responsible for the secure design, development, implementation, and/or integration of next generation technologies across the entire line of services and the cybersecurity program
+You will be responsible for driving the continued growth and organizational structure of the Security teams, you will also work closely with senior leadership across the company to set the vision and execution strategy of the security program.
+You won’t be hands-on building security solutions and tooling, your previous experience as a strong practitioner in the field will give you the knowledge and skills to guide the Security teams and aid decision making.
+Remit
+· Provide systems engineering to provide subject matter expertise to securely design, develop, and deploy next generation technologies into the core services and across the cybersecurity program
+· Ensure that the architecture and design of information systems are functional and secure.
+· Perform security evaluation of internal and third-party developed hardware, software, documentation, testing, and document evaluation findings in reports and briefings.
+· Evaluate and apply international, federal, and state cyber-security (ISO, NIST, Fed, OCC, SEC, etc.) policies and instructions to ensure system and interface requirements support cyber-security needs.
+· Coordinate with system stakeholders to define system integration needs and schedules, such as test events and operational assessments. Oversee teams as they prepare test cases, test scripts, test plans and procedures, data collection, and deliver infrastructure for cyber-security functions. As well as overseeing system and segment level requirements, test and verification reviews and working groups.
+· Provides analytical and technical security recommendations to other technology and business groups, oversight boards, and internal/external clients.
+· Identify requirements, based upon need or as the result of a security issue that puts organizations systems at risk
+

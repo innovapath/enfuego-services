@@ -1,0 +1,9 @@
+Design, build, and maintain efficient, reusable, and reliable C++ code
+Implement performance and quality modules
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and automatization
+Familiarity with system call wrapper library functions
+Knowledge of writing native modules for high-level languages such as Node.js, Python, Go, etc. {{if required}}
+Familiarity with language tools, such as Valgrind {{if required}}
+Knowledge of component data sheets and specifications
+Implementation of automated testing platforms and unit tests

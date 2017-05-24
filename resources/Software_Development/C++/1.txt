@@ -1,0 +1,1 @@
+Very good knowledge of and extensive experience with object-oriented programming, preferably C++ in an embedded environment.

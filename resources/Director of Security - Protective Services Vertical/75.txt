@@ -1,0 +1,24 @@
+NameMoat
+Job title : Director of Security
+Job location : New York City, NY, US
+
+
+Employer name :
+Job description :
+About Moat
+We help brands and media companies push the envelope on privacy-friendly models of advertising, help them make sound product decisions that involve running fewer ads, help make their ads load faster, fight botnets, and strive to de-fund fake news. We are a New York City-headquartered startup with a mission to help the world's top publishers and marketers make smarter decisions through real-time data. Our analytics and intelligence software is used by The New York Times, Condé Nast, Kellogg's, P&G, Spotify, and hundreds of other major platforms and advertisers, and we have unique measurement integrations into Facebook, Instagram, Twitter, Snapchat, and YouTube.
+About The Opportunity
+· Own application and network security for a major analytics platform that places data collection code on most of the world's top sites and across hundreds of thousands of sites and apps, all told.
+· Be responsible for internal and external scanning and security testing, application and network logging, system patching and hardening, and the secure use of laptops, mobile devices, and wifi networks in engineering.
+· Oversee new hire security training and ongoing security education across the company.
+· Coordinate with all engineering teams across Moat on high-value security engineering projects.
+· Own Moat's security accreditations, and complete security RFIs for partners and customers.
+· Recruit and hire exceptional security engineers.
+About You
+· Strong background in overseeing all aspects of security for a modern, high-exposure platform.
+· Strong familiarity with AWS.
+· Strong familiarity with industry standards and best practices.
+· Talent at socializing the how and why of security priorities across scores of engineers.
+All offers for employment with Moat are contingent upon successful completion of a background check.
+Our organization participates in E-Verify.
+

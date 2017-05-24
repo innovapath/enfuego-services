@@ -1,0 +1,112 @@
+Pearson
+Job title : Director of Security
+Job location : San Francisco, CA, US
+
+
+Employer name :
+Job description :
+Director of Security Engineering
+Description
+At Pearson, we’re committed to a world that’s always learning and to our talented team who makes it all possible. From bringing lectures vividly to life to turning textbooks into laptop lessons, we are always re-examining the way people learn best, whether it’s one child in our own backyard or an education community across the globe.We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and inspires us to always be better. By pushing the boundaries of technology — and each other to surpass these boundaries — we create seeds of learning that become the catalyst for the world’s innovations, personal and global, large and small.
+ROLE TITLE:Director of Security Engineering
+REPORTS TO:VP, Security Engineering and Architecture
+FUNCTION:The Director of Security Engineering is responsible for leading and directing the design and implementation of Pearson’s security controls and services driven by business risk. This role is both technical and hands-on, as well as requiring people leadership skills. This role will work closely with the VP, and will act as a authorized delegate for critical security decisions with CISO.
+DEPARTMENT:CISO
+LOCATION:US (preferred) - Denver, San Antonio
+Role purpose
+· The Security Engineering team is responsible for testing, designing and implementing security controls and solutions driven by CISO policies and standards to reduce the risk to Pearson and its customers. This includes enterprise-level design work for system security, cloud security, identity and access management, data protection and many more.
+· Within this team, theDirector of Security Engineeringis responsible for providing hands-on technical guidance to complex projects, leading and inspiring a team of technical engineers, and serving as the delegate (right-hand) for the VP.Key success criteria for this role include: driving security into all Pearson’s internal services and customer-facing products, delivering actionable designs based on security architecture and policy, ensuring all security controls are underpinned by robust operational model and Service Wrapper, attracting and retaining top talent, and building a cost effective and manageable security infrastructure estate.
+Responsibilities
+As a direct report to theVP, Security Engineering and Architecture, you will have the following accountabilities:
+· Oversee highly complex projects with high visibility and high impact to Pearson;
+· Strong leadership skill driven both from business and security perspectives to deliver security solutions which are aligned to Pearson’s business needs;
+· Ability to drive tangible results for the security team that provide real value to Pearson;
+· Provide security guidance that is practical and based in the reality Pearson’s environment rather than a gold standard that is aspirational;
+· Work closely with enterprise architects, other functional-area architects, engineering, and security specialists to ensure adequate security solutions and controls are in place throughout all IT and cloud systems and platforms to mitigate identified risks sufficiently, and to meet business objectives and regulatory requirements;
+· Work collaboratively with a diverse, global, and multicultural community.
+· Maintain confidentiality of work related information and materials.
+· Establish and maintain effective working relationships.
+· Present information to large and small groups.
+· Taking into account that security is key business enabler within Pearson, implement security controls against a 1 to 3 year roadmap and strategy for Pearson’s security infrastructure focusing on a policy of “secure by design”.
+· Assess and understand Pearson’s current security posture and future architecture, providing a viable solution path to bridge the gap;
+· Assess and understand the current and planned security posture for platforms (e.g. servers, databases, web servers), providing recommendations for improvement and risk reduction;
+· Provide security subject matter expertise on security control implementation for enterprise-scale projects;
+· Serve as a security expert in cloud-based application development, database design, network and/or platform (operating system) efforts, helping project teams comply with enterprise and IT security policies, industry regulations, and best practices;
+· Design and implement mechanisms for assessing bi-modal compliance with the standards, procedures, and guidelines;
+· Design and build controls to address security risks and events as identified;
+· Define clear, concise, and executable standard operating procedures and documentation for any implemented solutions for formal operational handoff;
+· Recognize, adopt, and instill industry leading practices in cloud security engineering throughout the organization;
+· Identify and propose process improvements and identify opportunities for new processes and procedures to reduce risk;
+· Researches, designs, and advocates new technologies and security products that will support security requirements for the enterprise and its customers, business partners, and vendors;
+· Contributes to the development and maintenance of the information security strategy, policies and standards;
+· Evaluates and develops secure solutions, based on approved security architectures;
+· Analyzes business impact and exposure, based on emerging security threats, vulnerabilities and risks;
+· Communicates security risks and solutions to business partners and IT staff;
+· Embrace a culture of continuous service improvement and service excellence; and
+· Stay up to date on security industry trends.
+Role Dimensions
+· Define, manage and secure engineering spend plans;
+· Support the VP of Security Engineering and Architecture in seeking cost optimizing and driving reduction in operations costs of managing the security controls;
+· Non-financial (customers/staff etc.)
+· Line-manage multiple teams of Security Engineers.
+· Accountable for the design of all Pearson’s Security controls.
+· Manage permanent and non-permanent staff team members.
+Typical Outputs
+· All tasks related to creation and management of an optimally performing team, including recruitment, objective setting, coaching, 1:1s, PDs, performance management, etc.
+· Security designs and roadmap.
+· Security Engineering Blueprints and standards.
+· Overall management of the technical aspects of projects in the respective team, as well as reporting to head of the area.
+· Team budget definition.
+Skills And Experience
+Qualifications
+Experience
+· 10 years in Information Security space;
+· Strong experience in migrating enterprise companies from traditional data center infrastructure, application and data designs to hybrid or fully-cloud enabled practices.
+· Strong experience with a broad range of security technologies, including NextGen Firewalls, DLP, NAC, IDS/ IPS, IdAM, Certificate Management, SIEM, Endpoint Protection, Anti-malware, vulnerability management;
+· Strong ability to think at systems / architecture level I.e. How do all the parts of the solution fit together not just design at element level.
+· Strong ability to take on new technologies through self-tuition, self-identification and plugging of skills shortage.
+· Strong experience working within an international environment.
+· S trong oral, written, and presentation abilities - able to convey risk to all levels of the business, from C-level executives to operations and development teams ;
+· Some experience with Unix/Linux and Windows system administration;
+· Some experience with Cloud Access Security Brokers (CASB)
+· Some experience with multiple relational database platforms, including MSSQL, Oracle, MySQL;
+· Some experience with NoSQL database platforms, including Mongo, Cassandra;
+· Some experience with logging and alerting platforms, including SIEM integration;
+· Some proven ability in security process and organizational design;
+· Current understanding of Industry trends and emerging threats; and
+· Knowledge of incident response methodologies and technologies.
+Desirable
+· Well-rounded background in network, host, database, and application security;
+· Knowledge and experience using SABSA methodology;
+· Experience implementing security controls in a bi-modal IT environment;
+· Experience driving a culture of security awareness;
+· Experience administering network devices, databases, and/or web application servers; and
+· Professional IT Accreditations (CISM, CCSA, CCSE, JNCIA, CCNA, CISSP, CCIE Security).
+Competences and Behaviors
+· Customer orientated
+· Working within an international environment
+· Builds networks with customers, other team members and other relevant teams is essential
+· Keeps all relevant people appropriately informed
+· Very good communications, presentation and negotiations skills
+· Technically innovative
+· Able to express technical and non-technical concepts in clear verbal and written English
+· Very good written skills to document complex concepts in a comprehensive, yet readable manner
+· Encourages people to be open and share their views
+· Considers a range of options that meet the needs of all stakeholders
+· Ability to use own initiative to solve technical problems
+· Delivery Focused
+· Takes responsibility for targets
+· Drive efficacy into all solutions delivered, demonstration clear and measurable results through the development of KPIs
+· Ambitious and competitive
+· Drive innovation and best practice
+· Strive for standardization and simplification in all aspects of work
+· Always cost conscious balancing the needs of the business against the provision of the best solutions possible
+Primary Location: US-CO-Centennial
+Other Locations US-CA-San Francisco
+Work Locations: US-CO-Centennial-2154 East Commons 2154 East Commons Avenue Centennial 80122
+Job: Technology
+Organization: Technology & Operations
+Employee Status: Regular Employee
+Job Type: Standard
+Shift: Day Job
+Job Posting: Feb 16, 2017

@@ -1,0 +1,7 @@
+3+ years of experience building web based applications using C#, ASP.Net, MVC, and SQL Server
+Experience with modern JavaScript frameworks (Knockout.js, etc)
+Experience with JavaScript libraries like Knockout.js, Backbone.js, Ember.js, Angular.js, Handlebars.js and/or Node.js
+Broad experience with the .NET Framework in developing web based applications
+Strong experience with MVC (4.5 or 5.0 strongly preferred), HTML and CSS
+SQL Server experience (queries, T-SQL, etc.)
+Knowledge of SSRS & SSIS is preferred

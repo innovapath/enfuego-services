@@ -1,0 +1,6 @@
+Expert level experience in object-oriented programming and test-driven development.
+Expert level development capabilities in Java or C# or Python.
+A solid foundation in data structures, algorithms and software design.
+Good understanding of web technologies including web services.
+Expert level experience with any relational database.
+Ability to communicate effectively and ability to translate requests into deliverable products.

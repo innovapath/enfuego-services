@@ -1,0 +1,2 @@
+Experience with 3rd party JavaScript libraries and frameworks (React, Ember.js, or similar).
+Familiar with cross-browser and cross-platform compatibility issues.

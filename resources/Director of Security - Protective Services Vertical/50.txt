@@ -1,0 +1,50 @@
+Equinix
+Job title : Director of Security
+Job location : Redwood City, CA, US
+
+Employer name : Irenee French
+Job description :
+Innovation Director, Cloud Security CTO
+Equinix is an industry leading technology Innovation Company driving solutions for Cloud and Enterprise customers. Equinix is the home of the Cloud with over 1000 Cloud and IT services companies that are directly engaged in the innovation process and contributing to our technology development.
+We are seeking a technical innovation leader who will be focused on collaborating with other major Cloud and Network industry leaders to develop the next generation security centric interconnection architecture and software stack. Security will become more and more natively integrated into the interconnection architecture, infrastructure and services. Next generation architecture will support application interconnection and Cloud infrastructure development as well as new services driven by the evolution of wireless and IoT technologies.
+We are a global leader in the data center industry and there is a reason the premier cloud providers in the world continue to partner with us. We are focused on further developing and growing the specific areas of software development, software and network architecture, network operations, and complex cloud and application solutions. Our customers move fast, and so do we. A career at Equinix means constant opportunities to hone new skills, try new approaches, and grow in new directions.
+Responsibilities
+· Lead technology innovation in the area of infrastructure for Equinix, with focus on understanding and evaluating industry trends, collaborating with industry technology leaders, and recommending new innovation revenue opportunities and strategies to minimize disruption.
+· Interact and partner with industry leading tech companies in the cloud, mobile, and analytics space
+· Lead development and successfully formulate a comprehensive security strategy in alignment with strategic technology directions and customer requirements, including
+· Identification of trends driving security technology evolution for all relevant service architectures such as Cloud Service Providers, Enterprise Private Clouds, Network Service Providers, Enterprise Private Networks as well as the interconnection and multi-cloud connectivity services provided by Equinix
+· Identification and analysis of security requirements spanning:
+· All aspects of enterprise connectivity, networking, platforms and applications including private and virtual private access, SD-WAN, public, private and hybrid cloud
+· Network Service Provider architecture and evolution including link layer, routing, NFV/SDN, control and forwarding planes
+· Cloud Service Provider architecture, scaling, interconnectivity
+· Multi-cloud and multi-network hybrid architectures and solutions including identity management, application authorization, transactional integrity and traffic confidentiality
+· Storage architectures including data security and key management
+· IoT and Machine to Machine architectures and services including device identity and authorization management in the context of various IoT access connectivity and network technologies and platforms
+· Orchestration architecture including programmatic API security in the context of public, private, hybrid and multi-cloud orchestration architectures
+· Interact closely with Product Development, Business Development and Marketing organizations in providing thought leadership, technology analysis, competitive analysis and insights in order to help establish security product strategy and roadmap as well as differentiated security services and solutions
+· Interact with the Global Solutions Architecture organization in support of critical customer accounts and initiatives
+Qualifications
+· Strong technical skills in Computer Science, Networking and IT architecture with a strong background in infrastructure and software design and development.
+· An understanding of the Telecom/Communications and Enterprise IT architecture, business model and ecosystem is required
+· Cloud Computing implementation experience with leading Clouds (IaaS preferred). Knowledge of Hybrid Cloud Architectures and Cloud Management Platforms is desirable, with leading technologies such as Software Defined Data Center, SDN and Containers.
+· Experience in building control plane software for managing infrastructure (like networks or storage).
+· Experience in building scalable infrastructure or web design is preferred.
+· Background in emerging mobile, IoT messaging and networking protocols is desirable.
+· Solid industry credibility, contacts and relationships.
+· Strong technical skills in security disciplines including:
+· Working knowledge of cyber security architectures used in Public and Private Clouds, Enterprises and Network Service Providers
+· Deep understanding of Security Threat Analytics and Adaptive Machine Learning Architectures
+· Experience with Red Teaming activities, including active penetration tests, side channel attacks and active scanning
+· Working knowledge of Industrial/SCADA Cyber Risk Protection Architectures
+· Knowledge of current threat intelligence attack surfaces, vectors and their characteristics
+· Knowledge of fraud prevention security architectures and payment security solutions
+· Knowledge of security incident and threat detection/response architectures
+· Deep understanding of the PKI principles, architecture, algorithms and protocols
+· Understanding of encryption standards, algorithms and protocols, including DES, AES, Elliptic Curve Cryptology
+· Understanding of authentication algorithms and protocols including message flows
+· Working knowledge of secure communication architectures and protocols including 802.1X, MacSec, IPSec, TLS/SSL, RADIUS/DIAMETER, PKI, SAML
+· Understanding of security architectures and algorithms used in IoT technologies and networks
+· Familiarity with security architectures and algorithms used in Cellular Wireless networks especially in 4G LTE
+· Familiarity with security industry and government standards and regulations
+#LI-IF1
+

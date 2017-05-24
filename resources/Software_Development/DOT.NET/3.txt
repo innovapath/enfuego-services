@@ -1,0 +1,7 @@
+Proficiency in full stack (front-end, back-end) web development in multiple languages such as JavaScript, ASP.Net., JAVA and C#
+Experienced in GUI design for web applications
+Everyday experience with Windows operating systems (LINUX is not necessarily required)
+3-5 years of experience developing commercial applications or at least end user applications that were delivered and are in production with real customer bases
+Experienced with database applications (not a DBA, but building applications that demonstrate best practices in accessing databases)
+Experienced with developing graphic applications (graphic display)
+Proficient with Visual Studio

@@ -1,0 +1,42 @@
+Everbridge
+Job title : Director of Security
+Job location : Pasadena, California
+
+Employer name : Kevin Marsh
+Job description :
+About the Position
+As Director of Security Engineering at Everbridge you will be paramount in solving our most complex security challenges and working with the executive team to propose improvements around security process and procedures. As a Software-as-a-Service platform, Everbridge utilizes a hybrid-cloud ecosystem to achieve worldwide scalability goals. We have data centers worldwide, and offices in 3 countries. In this role, you will be working to understand our security challenges, build a team to achieve your goals, design superior solutions, and put your solutions into action.
+About the Team
+As the leader of the security engineering team, you will work in close partnership with engineering, development, product and executive partners to build a world-class team. You will strive to take a pragmatic approach when proposing security solutions, implement security best practices, guide our architecture toward a security-first posture and be the most senior security expert at Everbridge.\
+Learn more about Everbridge and see photos from our office - http://bit.ly/2kO9nFt
+Job Duties
+At Everbridge, you will engage in all aspects of assessing, designing, building, and maintaining our security infrastructure and services. You will specifically engage in:
+· Assess Everbridge’s overall security posture. Redesign or evolve the posture as necessary to meet all the needs of a modern SaaS organization
+· Experience building a mature and scalable security program
+· Define what it means to be best-in-class as a security organization
+· Focus on using modern techniques and propose new solutions to the executive team
+· Build a team that will meet and exceed expectations
+· Evaluate and potentially redesign our security checks to ensure optimal platform security
+· Provide technical expertise relevant to the development, implementation, and updates to Everbridge’s security policies, procedures, guidelines to ensure company compliance
+· Maintain and improve processes, tools, and documentation that will support production security requirements in the best manner possible
+· You will also be responsible for running the day-to-day security functions of Everbridge. This includes:
+· Defining and maintaining good security hygiene throughout the Software Development Lifecycle (SDLC) process
+· Conducting continuous network and application vulnerability scans
+· Running our security monitoring, alerting, and reporting to identify actionable security intelligence
+· Supporting security and compliance evaluations with vulnerability scans, penetration testing and compliance documentation and remediation
+· Evaluating vendors and partner’s security posture and working with them to meet Everbridge’s standards
+Basic Qualifications:
+· 6+ years of experience in a hands-on security engineering role. Much of this experience must be within a Linux/Unix environment.
+· Expertise with security compliance or risk management
+· Deep knowledge of the SANS Top 20 Critical Security Controls, OWASP Top 10 and the SANS CIS critical security controls
+· You will need a specific understanding of application and operating system hardening, vulnerability assessments, security auditing, TCP/IP & network fundamentals, intrusion detection systems, firewalls, VPNs, WAFs.
+· You will need a solid understanding of hybrid-cloud environments and how they present specific challenges to the security field.
+· You must be experienced with designing and running security solutions with the following tools: vulnerability scanners, forensics software, SIEM, HIDS/NIDS, IPS, malware analysis and protection, content filtering, logical access controls, physical access controls, identity and access management, data loss prevention, content filtering technologies, application firewalls, security incident response techniques.
+· Strong knowledge of IPv4/6 protocols and analysis
+· Experience with secure network firewall, application firewall, and DDoS prevention technologies
+Desired Qualifications:
+· A solid understanding of the corporate information security space and how it applies to all the requirements above.
+· Knowledge of global and domestic regulations and standards (FISMA/NIST, FedRamp, SSAE-16, HIPPA, Safe Harbor, ISO 27001/27002, GLBA, and SOX) would be helpful
+· We would love it if you had a background with ITIL/ITSM processes, or understand how Agile/Kanban/Lean methodologies can be applied to SDLC workflow
+· Holding a CISSP, CEH, CSSLP or equivalent is a plus
+

@@ -1,0 +1,13 @@
+inform department managers of due dates for the submission of budget information
+Act as an advisor to department managers in formulating their budget submissions
+Review proposed budget submissions from department managers for accuracy and completeness
+Examine whether budget submissions can be achieved based on known capacity constraints and inform management of potential problem areas
+Propose enhancements to the budget model
+Examine capital budget requests and issue recommendations to the approval committee
+Coordinate capital budgeting approvals
+Review the budget model for calculation errors
+Create a consolidated budget version for management approval
+Propagate the approved budget throughout the organization and explain issues as requested
+Compare actual to budgeted results at the end of each reporting period, and report on significant variances
+Update the budget model as requested to account for significant changes in the business environment
+Maintain the budgeting policies and procedures manual

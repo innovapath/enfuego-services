@@ -1,0 +1,17 @@
+Technical Owner of an end to end DevOps Squad supporting a highly complex Information Warehouse.
+Technical knowledge with capability of having strategic conversations of the Information Warehouse and the associated supported business processes with Product Owners and other stakeholders.
+Ability to bridge the desires of the customer and the capabilities of the technology.
+Utilize multiple approaches to facilitate Discovery: Modeling, Lean, Agile Design Thinking, etc.
+Focus on continuous improvement, innovation/automation, increased velocity to deliver.   
+Analyze impact of proposed solutions across the business to develop Epic and Story details.
+Focus on the elements required to manage all aspects of business requirements through logical and physical design.
+Negotiate to define approaches and goals.
+Demonstrated organization and communication skills, especially with management and executives.
+7-10+ years’ experience in Data Warehousing Architecture and or Technical and Program Management
+Technical skill and or working knowledge of  MVS, PLI, JCL, DB2, SQL, QMF,  SCLM.
+Demonstrated experience with dependency management, change management, problem management
+Experience in working in an Agile environment and in a Continuous Integration and Continuous Delivery, Agile metrics
+Automated Testing
+Java, XML, User Interfaces, Webservices, C++.
+Application business controls compliance, ASCA and SoX
+Application availability and financial responsibilities

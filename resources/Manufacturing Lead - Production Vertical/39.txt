@@ -1,0 +1,41 @@
+National Oilwell Varco
+Job title : Manufacturing Lead
+Job location : Houston, TX, US
+
+
+Employer name :
+Job description :
+Role Description
+The Oracle EBS Manufacturing Lead will be a part of our E-Business Suite roll-outs across various location under the CAPS Business Segment.
+In this role, you will be asked to perform the following project functions:
+· Oracle EBS Manufacturing Lead, responsible for implementing one or more modules - Purchasing, Procurement, Inventory, Cost, Work in Process, Quality, Bills of Material, Advanced Supply Chain Planning (ASCP).
+· Leading functional workshops educating customers on the product
+· Develop future process flows and requirements
+· Guide and conduct unit testing and comprehensive testing
+· Work with technical resources on data conversions and custom form and reports
+· Conduct end user training and development of training materials
+· Architecting functional solutions for various projects
+· Participate as a functional lead on supply chain & manufacturing projects as well as work remotely in a customer support capacity as required.
+Requirements
+The ideal candidate will have prior hands on functional experience with Functional Solution Architecture, Functional design.
+Including a well-rounded functional knowledge in the following Oracle EBS R12 Supply chain & Discrete Manufacturing applications: Purchasing, Procurement, Order to cash, Procure to pay, Inventory, Cost, Work in Process, Bills of Material, Shipping & Advanced supply chain planning.
+Additional Qualifications Needed Include
+· Must have completed at least (5) full life cycle R12 Oracle Supply Chain & Manufacturing implementations as a Functional Solution Architect or Functional Lead; including project experience with ASCP.
+· Hands on experience with R12.2
+· Prior project experience in a Functional Solution Architect capacity
+· Solid client facing experience, including leading assessments, demos, client pre-sales, solution architecture, functional solution design
+· Detailed knowledge of Oracle's Application Implementation Methodology (AIM)
+· Excellent verbal communication and written documentation skills.
+· Must possess strong leadership skills
+· Business process analysis and redesign experience: strong business analysis skills; process mapping; business process redesign and implementation
+· Systems implementation skills: requirements/process analysis, conceptual and detailed design, configuration, testing, training, change management and support
+· General consulting skills: self-motivated, team oriented, positive attitude
+· Bachelor’s degree in Business or BA/BS degree and relevant work experience
+Job
+Information Technology
+Work Location
+US TX Houston 10353 Richmond Ave
+Schedule
+Full-time
+Shift
+Day Job

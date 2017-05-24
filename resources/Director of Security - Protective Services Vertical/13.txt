@@ -1,0 +1,45 @@
+Applied Resource Group
+Job title : Director of Security
+Job location : Greater Atlanta Area
+
+Employer name : Katherine Bush
+Job description :
+Applied Resource Group is looking for a Director of Security Architecture for one of our enterprise clients in the North Atlanta area. This is the lead role for identification, analysis, evaluation, life cycle management, and adoption of security support resources and services across the enterprise. Serves as a security expert for applications, software/systems development lifecycle, database, network, and platform (operating system), cloud, and product line. Contributes to the development and maintenance of information security strategies and analyzes business impact and exposure based on emerging security threats, vulnerabilities, and risks.
+Responsibilities (first 5 cover 80% of important job functions)
+1. Determine security requirements by evaluating business strategies and requirements; research information security standards; conduct system security and vulnerability analyses and risk assessments.
+2. Create and manage security standards and guiding principles to help define and govern the future state security architecture, processes, information systems and infrastructure.
+3. Identify, analyze, evaluate, life cycle management, and adoption of security support resources and services across the enterprise
+4. Assists in directing and supporting security framework
+5. Develop security standards and roadmaps to migrate to defined security standards
+6. Maintain security by monitoring and ensuring compliance to standards, policies, and procedures
+7. Develop and conduct training programs.
+8. Upgrade security systems by monitoring security environment; identifying security gaps; evaluating and implementing enhancements.
+9. Prepare system security reports by collecting, analyzing, and summarizing data and trends.
+10. Assist in the development and implementation of a data security architecture framework
+11. Track and understand emerging security practices and standards
+12. Contribute to the iterative development of application, platform, and data security requirements for all solutions
+13. Conduct security reviews of mobile and web-based solutions
+14. Perform static and dynamic code analysis and works with teams to triage and remediate findings
+15. Respond to external requests and reports related to product and solution security
+16. Work closely with release management to review software security requirements prior to release
+17. Assess, obtain and deploy tools and software solutions to aid in SDL and security testing processes
+18. Provide security designs to IT projects in the category of new vendor, new technology, and new capabilities.
+Qualifications
+· 8 - 10 years' experience in the information security industry.
+· 5 years experience in Security Architect role
+· CISSP Certification
+· PCI, SOX, ISO 27002 certification
+· Network Operations background and/or Systems Engineering background.
+· Demonstrated experience assessing risk and developing security controls at a business-appropriate level.
+· Experience and detailed technical knowledge in security engineering, system and network security, authentication and security protocols, cryptography, and application security
+· Experience with encryption, consolidated logging, vulnerability management, and DDOS prevention designs
+· Experience in software security principals (i.e. OWASP, penetration testing, application testing)
+· Experience in application-level vulnerability testing and auditing
+· Detailed knowledge of system security vulnerabilities and remediation techniques, including penetration testing and the development of exploits
+· Knowledge of network and web related protocols (e.g., TCP/IP, UDP, IPSEC, HTTP, HTTPS, routing protocols)
+· Proven experience in large, complex enterprise-wide initiatives.
+· Ability to work in a team in a matrix with multiple reporting lines, and may extend outside the organization including suppliers, partners and customers.
+Education
+Bachelor’s Degree in Management Information Systems or Computer Science, or equivalent experience is required. Master’s preferred.
+CISSP required
+

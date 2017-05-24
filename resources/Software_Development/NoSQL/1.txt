@@ -1,0 +1,26 @@
+Manage Oracle w/RAC and NoSQL databases in Development/QA/Production environments including installation, configuration, backup, recovery, replication, upgrades, schema changes, etc.
+Perform database health monitoring and diagnostics.
+Integrate monitoring, auditing, and alert systems for databases with existing monitoring infrastructure.
+Design, implement, maintain and automate the appropriate backup and recovery architecture as required.
+Occasional off-shift availability to resolve Production issues or assist in Production deployments.  On-call duties will be shared within the operations team.
+Work closely with other members of the operations team, mentor others in your areas of expertise, and be an active contributing member of the company as a whole
+Responsible for system performance and reliability.
+Responsible for databases dealing with overall operating system.
+Responsible for developing backup and recovery procedures for database environments.
+Maintains up-to-date knowledge of database administration and applies these developments to other major projects and initiatives
+Work with Service Support teams to drive knowledge in to the Operations Center to improve 'First Contact' resolution and reduce Mean Time To Resolve (MTTR) for database incidents
+Builds positive working relationships across departments and with own team members.
+Presents or makes recommendations on best practices regarding data management, data architecture, and data design.
+2+ years of production DBA experience with SQL with NOSQL experience AND Oracle 9i/10g/11g (OCP) --Both preferred but NoSQL must have
+Experience working in production environments requiring 99.99% availability
+Previous experience deploying, administrating, tuning, monitoring, and maintaining database technologies including but not limited to;
+Familiarity with using enterprise ticketing systems and resolution
+Previous success with at least one deployment tool (CVS, Subversion, Clearcase and Puppet )
+Strong technical background in three or more of the following technologies (must include database administration): Operating Systems: Red Hat Linux, CentOS
+Solid experience in database tuning, design, security, backup, recovery, and archival concepts and procedures.
+Understand the interaction between the database and the SAN. Knowledge of SAN specific database tuning techniques. Experience with hot backups through SAN snapshot technology
+Experience with monitoring systems (Nagios Professional, Cacti, etc…)
+Experience deploying and managing Oracle RAC and MongoDB on Redhat Linux Exposure to  Cloud or virtual Application environments
+Familiarity with ETL processes and operations
+Excellent  communication skills including the ability to effectively communicate with technical, non-technical employees and vendors.
+Strong problem solving, testing, and network troubleshooting skills.

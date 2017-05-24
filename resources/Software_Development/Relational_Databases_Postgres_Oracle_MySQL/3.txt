@@ -1,0 +1,1 @@
+Demonstrated on-the-job experience writing SQL code to query data in a variety of formats (i.e., Postgres, MySQL) for no less than two years.

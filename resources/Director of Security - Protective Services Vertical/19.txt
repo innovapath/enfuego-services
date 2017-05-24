@@ -1,0 +1,22 @@
+Beachbody
+Job title : Director of Security
+Job location : Santa Monica, CA, US
+
+Employer name :
+Job description :
+Let's Dive In
+Beachbody, a billion-dollar company and the leader of in-home fitness programs and nutritional products, is on the lookout for top-notch talent. We’re an equal-opportunity employer who offers competitive compensation and incredible incentive opportunities, not to mention a laid-back office filled with smart, friendly people and positive energy. We also provide free Shakeology, onsite gyms, flexible work hours, and cool product discounts. Are you ready to help us achieve our goal of helping people live healthier, more fulfilling lives? Read on.
+Why is the Security Team important to Beachbody?
+Beachbody’s legal team is tasked with mitigating risk so we can continue to fight the epidemic of obesity in North America. This critically-important team oversees contracts and compliance and ensures that the company is successful as it grows.
+What you will be doing at Beachbody as an Executive Director Security Architect?
+· Partner with Beachbody business units, including IT, to understand business processes, identify risks, and build secure solutions that enable the business to maintain a competitive advantage in the marketplace.
+· Bring Hands-On Security Architecture and Engineering – The candidate must have extensive hands-on experience architecting and engineering secure enterprise solutions. It’s important for the Security Architect to be able to guide and enable the business.
+· Perform Information Security Assessments – The Security Architect will perform security, vulnerability, and risk assessments of critical systems, infrastructure, and third parties. Recommendations and action plans will be developed based on these assessments. The Security Architect will guide the business by addressing these plans and recommendations.
+· Oversee Threat and Vulnerability Management – The Security Architect will work closely with IT to identify risks, threats, vulnerabilities and provide remediation guidance.
+· Manage Incident Response – The candidate must have incident response experience, particularly leading incident investigations.
+We'd love to chat if you have;
+· A minimum of 7 years’ experience as a Security Architect.
+· In-depth experience with network and system security architecture, engineering, hardening, and protocols and able to demonstrate experience architecting, engineering, and implementing secure enterprise solutions.
+· Digital Forensics expertise, as well as, hands on experience with EnCase, FTK, or DLP.
+· Hands-on experience with: Operating Systems: Windows, Unix, Linux, and Mac OS X, Cisco IOS, ASA firewall, IPS, VPN, UCS,Web applications and services, Oracle and SQL, Qualys and Nessus, and Splunk
+To all recruitment agencies: Beachbody does not accept unsolicited agency resumes. Please do not forward resumes to our jobs alias, Beachbody employees, or any other company location. Beachbody is not responsible for any fees related to unsolicited resumes.

@@ -1,0 +1,16 @@
+Comfortable working in a fast-paced, high-growth SaaS business; knowledge and comfort with SaaS data analytics.
+Lead the Cloud Operations organization to maintain, support and enhance the production cloud infrastructure.
+Development of scripts and automations that make the life of pre-sale, success and support easier.
+Build automation tools to optimize our release processes and production environment
+Automation and integration of complex processes around monitoring and alerting.
+Maintenance and development of the continuous deployment systems and processes
+Maintain and support the cloud support systems infrastructure
+5+ years' experience as IT/DevOps Engineer or maintaining Windows and Linux virtualized environments.
+4+ years management experience (Team/Group leader)
+2+ years experience with cloud-based deployments such as AWS, Google Cloud or Azure.
+Excellent communication and interpersonal skills.
+Scripting experience – JavaScript, PowerShell, Python is preferred.
+Prior knowledge in automating development processes - a plus.
+Ability to work and coordinate between multiple engineering teams
+Ability to multitask on multiple responsibilities, prioritize and delegate.
+Bachelor’s degree in Computer Science, Electrical Engineering, a related field, or equivalent education preferred.

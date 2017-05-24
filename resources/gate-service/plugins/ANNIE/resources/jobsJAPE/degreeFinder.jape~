@@ -1,0 +1,43 @@
+Imports: {
+import static gate.Utils.*;
+}
+Phase: degreeFinder 
+Input: Lookup Token Date SectionFinder
+Options: control = appelt debug = true
+
+	MACRO: TOKEN_FILLER
+(({Token})[0,12])
+
+
+MACRO:DEGREE_RULE
+(
+(({Lookup.minorType==degree})(TOKEN_FILLER({Lookup.minorType==major}))?)
+)
+
+	Rule: DegreeRule
+	(
+	 (DEGREE_RULE)
+	):degree
+	  -->
+	  //:degree.DegreeRule={}
+{
+	AnnotationSet workexSet = bindings.get("degree");
+	FeatureMap features = Factory.newFeatureMap();
+	boolean dateDone = false;
+	for(Annotation ann : workexSet.inDocumentOrder()){
+		if(ann.getType() == "Lookup"){
+			features.put(ann.getFeatures().get("minorType"),stringFor(doc,ann));//org or jobtitle
+		}else if(ann.getType() == "Date"){
+			String datePeriod = "";
+			if(!dateDone){
+				dateDone = true;
+				datePeriod = "date_start";
+			}
+			else{
+				datePeriod = "date_end";
+			}
+			features.put(datePeriod,stringFor(doc,ann));//org or jobtitle
+		}
+	}
+	outputAS.add(workexSet.firstNode(),workexSet.lastNode(),"DegreeFinder",features);
+}

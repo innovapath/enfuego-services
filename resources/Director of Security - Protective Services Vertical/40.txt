@@ -1,0 +1,51 @@
+Emergent BioSolutions
+Job title : Director of Security
+Job location : Gaithersburg, US-MD
+
+Employer name :
+Job description :
+Those who join Emergent BioSolutions feel a sense of ownership about their future. You will excel in an environment characterized by respect, innovation and growth opportunities. Here, you will join passionate professionals who advance their scientific, technical and professional skills to develop products designed-to protect life.
+I: Job Summary
+The Sr. Director, Information Security and Risk will partner with all Functional, Divisional and Site leadership to lead the global Information security program to ensure information assets are adequately protected and will be responsible for establishing and maintaining a corporate-wide, global information risk management program and organization. The role will also provide leadership of the IT Computer Systems Validation (CSV) team including computer systems validation oversight and execution for all applications designated as GxP designated validated systems.
+Responsibilities include identifying, evaluating, protecting against and reporting on information security and GxP compliance risks globally in a manner that meets regulatory requirements, and aligns with and supports the risk posture of the enterprise. This individual will proactively work with business units to implement techniques and solutions and preventive technologies that meet defined policies and standards for Information Security and Computer System Validation and will oversee a variety of IT –related risk management activities.
+II: Responsibilites
+Key Responsibilities
+· Lead Architecture development and Vendor Selection for security systems.
+· Create, update and maintain policies and procedures that govern Systems Management and Configuration.
+· Evolve IT Risk Management program inclusive of education, procedures, risk register maintenance, action plans and management reporting to ensure projects and activities are being performed in accordance with company’s risk appetite.
+· Institute a robust security awareness program.
+· Maintain and evolve the Disaster Recovery Program to ensure systems are appropriately protected and testing, training and exercises take place.
+· Lead Incident Response: Assessing impact, identifying root cause, recommending actions and mobilizing resources in the event of a disruption.
+· Provide leadership of the IT Computer Systems Validation (CSV) team including computer systems validation oversight and execution for all applications designated as GxP designated validated systems.
+· Maintain and enhance the Vulnerability Management Program to provide appropriate protections for various system types including business tools, lab equipment and manufacturing systems.
+· Oversee the FISMA compliance program adhering to NIST standards and multiple federal agency requirements to ensure continuation of Authorization to Operate status.
+•Lead internal Information Security audit and assessment activities and coordinate remediation efforts.
+· Member of the Information Technology leadership team, providing technical knowledge and managerial expertise, as well as assisting with the development of specific goal for the optimum use and management of IT resources.
+Dimensions
+· Responsibility for a small number of people.
+· Responsibility for project budgets as approved.
+· Maintain department budgets and forecasting efforts
+The above statements are intended to describe the general nature of work performed by those in this job. It is not an exhaustive list of all duties, and other duties may be assigned.
+III: Education, Experience & Skills
+· Bachelor’s degree in a IT, business, or related business field required; Master’s degree in Business Administration or related field preferred
+· Minimum of 15 years of experience in Information Security
+· Minimum of 7 - 10 years of experience within the pharmaceutical industry, preferably within pharmaceutical manufacturing facility operations.
+· Technical understanding of applications, networks, and databases. Understanding of Cloud technologies (e.g. SaaS, PaaS, IaaS)
+· Experience in the Defense industry preferred.
+· Industry recognized certifications in the information security and risk management fields.
+· Deep understanding of CSV guidelines issued by regulatory agencies including FDA and MHRA and standards such as GAMP5.
+· Knowledge of systems development lifecycle standards.
+· Excellent skills at building and managing relationships at all levels with a demonstrated ability to manage cross-border teams.
+· Visionary leader with strong business acumen and a detailed working knowledge of information security technologies, practices, policies, and their application
+· A great communicator in both written and oral communication.
+· Project management experience.
+· An ability to sit comfortably on multiple management teams.
+· A well-respected team player with proven ability to contribute in a number of areas
+· A passion for quality and value in all that is delivered.
+· A no nonsense approach to getting things done.
+IV: Physical/Mental Requirements
+Type/keyboard, sit, reach outward, reach above shoulder. Use phone, fax, copier, and computer. Organize/coordinate, analyze/interpret, problem solve, make decisions, supervise, plan, communicate, prepare written communications, and prepare transaction documents. Will travel to multiple Emergent locations global, as needed.
+Emergent BioSolutions is an Equal Opportunity/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, gender, age, national origin, disability, Protected Veteran status, sexual orientation, or any other characteristic protected by federal, state or local law.
+Information submitted will be used by Emergent BioSolutions for activities related to your prospective employment. Emergent BioSolutions respects your privacy and any use of the information submitted will be subject to the terms of our Privacy Policy .
+Emergent BioSolutions does not accept non-solicited resumes or candidate submittals from search/recruiting agencies not already on Emergent BioSolutions’ approved agency list. Unsolicited resumes or candidate information submitted to Emergent BioSolutions by search/recruiting agencies not already on Emergent BioSolutions’ app
+roved agency list shall become the property of Emergent BioSolutions and if the candidate is subsequently hired by Emergent BioSolutions, Emergent BioSolutions shall not owe any fee to the submitting agency.

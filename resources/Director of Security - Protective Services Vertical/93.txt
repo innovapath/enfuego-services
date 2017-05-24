@@ -1,0 +1,50 @@
+Inovalon
+Job title : Director of Security
+Job location : Bowie, MD, US
+
+
+Employer name :
+Job description :
+The Director of Security Programs oversees the critical programs that protect assets which drive revenue for the organization and store the priceless data which drive our insightful healthcare data solutions that will change the future. If you seek a challenge, demand excellence of yourself, and exercise a relentless drive to uncover and resolve the root cause of complex problems. This role will work with leadership teams in all areas of the organization to ensure effective information security programs and processes are in place. The Director of Security Programs role reports to the Chief Security Officer and is heavily weighted on the ability to manage a team of security professionals that are responsible for the following areas: Security Programs, enhanced Governance, and Application Security.
+· The Director of Security Programs leads and manages the following functional areas/programs:
+· Enterprise Security Programs
+· Third party Penetration Testing Program
+· Security Assessments
+· Security Architecture/Gap Management
+· Threat Modeling Program
+· Technology Risk Assurance Process
+· Data Protection (Encryption)Enterprise Security Programs
+· Comprehensive Access Management Program/IAM Strategy
+· Cloud Security Program
+· Vulnerability Management Program/POAM;
+· Lead and ultimately be responsible for the identification of security trends in order to achieve and maintain a holistic security posture including, but not limited to risk analysis, security architecture and design, and systems evaluations;
+· Identify, develop and implement security goals, objectives and metrics consistent with the corporate strategic plan;
+· Ensure ongoing protection of confidential data and risk assessment relative to Inovalon business model including, but not limited to classification of data, accessibility controls, storage and resource allocation;
+· Participate on the security risk council and provide recommendations to security governance executives Implement security strategy that will focus on Proactively Managing Compliance, Information Security and Risk, Security Processes, Improved Security Analytics and Reporting and Enhanced Security Governance;
+· Establish recurring and long-range security and compliance goals and KPIs. Define metrics, reporting mechanisms and program services; and create maturity models and a roadmap for continual program improvements;
+· Liaise with business to understand their security architecture needs and influence adoption of enterprise-wide security architecture. Deliver risk evaluation for to enhance Information Protection strategy; and
+· Work extensively in the development and designing distributed information systems and information security systems programs.
+· Minimum ten years of progressive experience performing Technology and security related duties with at least four of the years in cybersecurity;
+· Bachelor’s degree in Information Technology related field and or equivalent work experience required;
+· Ability to communicate with and influence all levels within a dynamic fast past organization;
+· Demonstrated experience in managing a team, as well as, coaching and motivating employees;
+· Knowledge of applicable HIPAA, SOC, COBIT, SOX, NIST, CIS, and data privacy practices and laws;
+· Strong leadership skills and excellent cross functional relationship building skills;
+· Strong interpersonal and oral communication skills, highly self-motivated and directed;
+· Experience in a national or international companies with a geographically dispersed workforce;
+· Knowledge of State and Federal laws governing public companies as related to Information Security;
+· Knowledge of current landscape and future trends in information security, compliance, and risk management; and
+· Familiarity with cloud security alliance preferred; and CISSP, CISA, CISM, CEH and MCSE certifications preferred.
+Inovalon provides equal employment opportunities (EEO) to all employees and applicants for employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+· Minimum ten years of progressive experience performing Technology and security related duties with at least four of the years in cybersecurity;
+· Bachelor’s degree in Information Technology related field and or equivalent work experience required;
+· Ability to communicate with and influence all levels within a dynamic fast past organization;
+· Demonstrated experience in managing a team, as well as, coaching and motivating employees;
+· Knowledge of applicable HIPAA, SOC, COBIT, SOX, NIST, CIS, and data privacy practices and laws;
+· Strong leadership skills and excellent cross functional relationship building skills;
+· Strong interpersonal and oral communication skills, highly self-motivated and directed;
+· Experience in a national or international companies with a geographically dispersed workforce;
+· Knowledge of State and Federal laws governing public companies as related to Information Security;
+· Knowledge of current landscape and future trends in information security, compliance, and risk management; and
+· Familiarity with cloud security alliance preferred; and CISSP, CISA, CISM, CEH and MCSE certifications preferred.
+Inovalon provides equal employment opportunities (EEO) to all employees and applicants for employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, or protected veteran status and will not be discriminated against on the basis of disability.

@@ -1,0 +1,44 @@
+Ipreo
+Job title : Director of Security
+Job location : Greater New York City Area
+
+Employer name :
+Job description :
+Why Ipreo:
+Imagine a job where you…
+· Work directly with senior managers on a regular basis
+· Have a meaningful impact on the mission-critical products and services that clients rely on every single day
+· Collaborate with colleagues across business lines and regions
+At Ipreo, this is true for EVERY MEMBER of our global organization! Our technology solutions and analytical insights are relied upon by every major investment bank and thousands of corporations around the world.
+What's in it for you:
+You will leverage industry and expert practitioner experience to enhance the technology and services stack to support real-time security telemetry gathering, ongoing vulnerability assessment, analysis and coordination of penetration testing, threat and incident remediation prioritization and status, and security intelligence collection.
+What you'll work on:
+Coordinate the strategy, design and execution of a multi-function SOC/NOC with regard to security incident response, security operations, monitoring, threat and vulnerability incident analysis and remediation, endpoint and intrusion detection system signal analysis, threat and forensics analysis, risk analytics and attack path modeling, and countermeasure design and implementation.
+Recommend effective process changes to enhance defense and response procedures. Partner with Network and Security Operations teams on high and critical severity incidents, perform additional analysis of escalations, coordinate with threat operations and threat intelligence specialists to resolve high or critical severity level incidents, provide on-boarding training and coaching to SOC analysts, establish and/or enhance organizational information security standards and controls, and support the development, documented design, implementation and compliance with both Ipreo and client information security risk management policies and procedures.
+This position reports directly into the Chief Information Security Officer and is expected to be highly visible to colleagues within the company as well as clients and industry partners.
+What we look for:
+· 10+ years of experience with security operations management and network security in a financial services organization, professional services firm or regulated company
+· Expert knowledge of TCP/IP communications and how common protocols and applications work at the network level, including DNS, HTTP, and SMB, network monitoring, analysis, troubleshooting, and configuration control technologies
+· Expert level skills and experience managing a 24/7 SOC environment, incident response, incident handling and triage analysis, network investigations, and conducting forensic media and log file analysis
+· Knowledge and experience in using a SIEM to search across multiple data-sets, perform analyses, and link events from different data sources together
+· Understanding of cyber-security principles such as encryption ports, protocols and services, policies, procedures, configuration management, ethics, access control, security architecture, and application security
+· Expert understanding of how attackers leverage lateral movement, establish command and control channels and gain initial access to the network (internally and externally)
+· Capable of detailed analysis and understanding of network packets, metadata and build mitigations to defend against network based threats
+· Ability to extract notable features that indicate the origin and sophistication of an attack
+Additional Qualifications:
+· Ability to demonstrate analytical expertise, close attention to detail, critical thinking, logic, and solution orientation and to learn and adapt quickly.
+· Ability to self-organize, prioritize activities independently, create documentation and reporting.
+· Strong written and oral communication skills with the ability to explain technical ideas to non-technical individuals at any level.
+· Focus on process improvement and continuous improvement, agile and lean practices.
+· Ability to work under tight deadlines and handle multiple, detailed tasks.
+· Team-oriented mindset and interest in sharing information and goals.
+· Excellent written, verbal, organizational, and documentation skills.
+· Ability to operate in a dynamic environment and conduct internal and third-party information security risk assessments.
+· CISSP required, CCSP, CASP or related security certifications are preferred.
+· Military or Law Enforcement experience, with a focus on cybersecurity preferred.
+· BA or BS degree in CS, IT, EE, Applied Mathematics, Computer Engineering, or a related field required.
+· Masters Degree in one of the above preferred.
+· Programming (.NET, C/C++) and scripting skills (e.g. Perl, Java, or Python).
+· Understanding of frameworks and standards, such as SANS Institute Critical Security Controls, ISO/IEC 27001/2, COBIT 5, NIST, SSAE16 SOC1/SOC2, and Risk Management Frameworks.
+· Familiarity with Data Privacy and other rules, regulations and codes of practice preferred.
+

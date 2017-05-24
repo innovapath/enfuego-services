@@ -1,0 +1,262 @@
+{
+  "_id": "58ed1cc5dbf6d35a5172d078",
+  "minYearsOfExp": 8,
+  "maxYearsOfExp": 8,
+  "jobTitle": "Senior Manager",
+  "companyName": "AMAZON",
+  "companyLocation": null,
+  "jobSummary": "\n\n· Bachelor's degree or equivalent work experience.\n\n· 8+ years of recent data center transactional experience and subject matter expertise within a corporate organization, law firm, legal department, accounting firm, consultancy or government agency.\n\n· Experience dealing with corporate business leaders, high level government officials, and external stakeholder groups\n\n· Experience leading and managing a team and third-party vendors, contractors and advisors.\n\n· Demonstrated track record of success in developing successful partnerships with economic development agencies, state and local governments, and other public and private stakeholder groups.\n\n· Significant experience in managing economic development issues for large scale construction and expansion development projects.\n\n· Ability to travel globally on a recurring basis.\n\n",
+  "skills": [
+    {
+      "score": 33,
+      "id": null,
+      "name": "Sales",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 30,
+      "id": null,
+      "name": "Creative_Services",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 25,
+      "id": null,
+      "name": "Marketing",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 25,
+      "id": null,
+      "name": "Acquisition",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 24,
+      "id": null,
+      "name": "Communications",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 23,
+      "id": null,
+      "name": "Operations",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 22,
+      "id": null,
+      "name": "Construction_Program_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 21,
+      "id": null,
+      "name": "People_Mananagement",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 20,
+      "id": null,
+      "name": "CRM",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 20,
+      "id": null,
+      "name": "IT_Technical_Program_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 20,
+      "id": null,
+      "name": "Budgeting",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 20,
+      "id": null,
+      "name": "Social_Media_Marketing",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 19,
+      "id": null,
+      "name": "Advertising",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Technology",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Consulting",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 18,
+      "id": null,
+      "name": "Marketing_Automation_tools",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 17,
+      "id": null,
+      "name": "Finance",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 16,
+      "id": null,
+      "name": "Training_Recruiting",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 15,
+      "id": null,
+      "name": "Brand_Development",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 14,
+      "id": null,
+      "name": "Project_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 13,
+      "id": null,
+      "name": "Digital_Content_Writing",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 10,
+      "id": null,
+      "name": "MS_Office",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 10,
+      "id": null,
+      "name": "P&L",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 6,
+      "id": null,
+      "name": "Mentoring",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 6,
+      "id": null,
+      "name": "General",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 2,
+      "id": null,
+      "name": "Product_development",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    }
+  ],
+  "degrees": [
+    {
+      "id": "58ed1cc5dbf6d35a5172d076",
+      "name": null,
+      "school": null,
+      "degreeType": "Bachelor's",
+      "year": null
+    },
+    {
+      "id": "58ed1cc5dbf6d35a5172d077",
+      "name": null,
+      "school": null,
+      "degreeType": "MBA",
+      "year": null
+    }
+  ],
+  "professionType": "MANAGEMENT"
+}

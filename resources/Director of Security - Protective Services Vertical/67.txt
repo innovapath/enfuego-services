@@ -1,0 +1,51 @@
+Columbia University Information Technology
+Job title : Director of Security
+Job location : Greater New York City Area
+
+
+Employer name :
+Job description :
+Reporting to the CISO & AVP, Security & Identity Access Management, the Network Security Operations Director will be responsible for leading and managing Columbia University (CU)-wide network security operations, which includes but is not exclusive to oversight of all enterprise network security operations functions such as: incident response, detection and monitoring of network traffic anomalies, CU Data Loss Prevention (DLP) program, creation and monitoring of dashboards, network security architecture implementation, and liaising with University constituents on network security risks remediation.
+CHARACTERISTIC DUTIES AND ESSENTIAL RESPONSIBILITIES:
+- Oversees CU network security operations.
+- Executes and improves the core functions of the Network Security Operations, including: threat detection and prevention, incident response, systems and network security monitoring, forensics, vulnerability management, and data loss prevention at enterprise scale.
+- Partners with IT departments across campus to review, select, and integrate the best technologies and tools for CU network security.
+- Assigns staff to various tasks, supervising and directing their activities, reviewing and evaluating their work performance.
+- Evaluates and hires new staff members as required.
+- Reviews computer security incident reports and anomalous activity of network and ensures ongoing proactive measures to mitigate risks.
+- Responsible for creating, maintaining dashboards that monitor network security and DLP KPIs.
+- Maintains ongoing awareness of shifts in threat landscape and attacker methodologies; recommends appropriate strategic and operational changes to the security program to address new threats.
+- Serves as an internal information security consultant on information security projects/initiatives, automation of security testing in new projects as assigned by the CISO.
+- Participates in the University's major new system implementations projects, as assigned by the CISO, to ensure that appropriate security controls are built into system prior to production cutover.
+- Works closely with the CUIT Architecture team to design and implement automated security controls in DevOps methodology along with the associated tools and processes.
+- Liaises with other information technology groups in investigation and resolution of security incidents.
+- Ensures ongoing system and network health checks on identified high risk network segments, systems, and applications and follow up remediation.
+- Ensures the monitoring of intrusion detection and security information management systems to discover and mitigate malicious activity on networks.
+- Works with Investigation team(s) on serious security violations.
+- Conducts root cause analysis for operational security issues.
+- Acts as a catalyst for change to improve security processes that benefit the IT organization and the University.
+- Participates in occasionally required "on-call" rotations requiring after-hours and weekend work.
+- All other duties as assigned.
+Qualifications:
+- Bachelor's degree or equivalent required. Advanced degree desirable.
+- Minimum 7-9 years' related experience.
+- 3+ years of management experience.
+- Extensive operational and managerial experience with core security operations functions, including some or all of: incident response, vulnerability management, network and security monitoring, network access control, and data loss prevention.
+- Extensive experience using net flow, packet analysis, DNS, system log file analysis, forensics tools, and other alerts to conduct incident response activities.
+- Extensive understanding of networking concepts, network security architecture and common modern operating systems, including Windows, Mac OSX, Linux, Unix, and mobile device platforms including Android and iOS.
+- Experience in presentation of information security to diverse group of non-security professionals in IT settings and/or Stakeholders.
+- Knowledge of IT security regulations and best practices.
+- Excellent written and verbal communication skills.
+- Demonstrated ability to work in a fast-paced, deadline driven environment.
+- Demonstrated excellence in a variety of competencies including teamwork/collaboration, analytical thinking, communication and influencing skills, and technical expertise.
+- Ability to work with changing priorities and with multiple projects.
+- Ability to be precise and attentive to detail is essential.
+- Ability to work with minimal supervision.
+- Ability to work weekend and off-hour work as and when needed.
+Preferred:
+- BS degree in Computer Science is a plus.
+- Network security and penetration testing experience is preferred.
+- Knowledge of various security and risk assessment tools is preferred.
+- Diverse knowledge of information technologies and security products is preferred.
+- Experience with security/identity access management projects is desirable.
+- Security certifications (e.g. CISSP, CISA, CRISC, or others) preferred.

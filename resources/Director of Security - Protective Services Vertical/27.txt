@@ -1,0 +1,39 @@
+Company NameArbor Networks, the security division of NETSCOUT
+Job title : Director of Security
+Job location : Ann Arbor, Michigan
+
+Employer name : Chris Gonzalez
+Job description :
+Director of Security Research
+Arbor Networks delivers industry leading solutions for Distributed Denial of Service (DDoS) protection, traffic engineering, and threats to large scale networks. We have earned privileged access to service provider, hosting, university and enterprise environments because of the breadth of our customer base and the depth of the solutions and expertise that we provide those customers. Arbor’s Security Engineering and Response Team (ASERT) is an elite threat research, advanced security solutions development and operational response team that drives much of the innovation that makes this possible. As a result, we get unprecedented access to data that most organizations could only dream of. Arbor is looking for an experienced Director of Security Research that will be able to guide the ASERT organization to another level of strategic and operational import to the industry. The director position will be tasked with growing the ASERT team through the attraction and retention of top-notch talent, guiding the creation and acquisition of internet-scale infrastructure and tools, setting priorities to address an evolving threat landscape and market demand for threat intelligence, and representing Arbor at influential industry events. The director will lead cross-organizationally within Arbor collaborating with product development, advanced engineering and product management teams to drive network based security innovation and strengthen existing network based security functions to be incorporated into Arbor’s suite of security products. If you want to work in a fast paced environment, building best in class network infrastructure protection, threat intelligence, and visibility products, then we are interested in talking to you! Our team consists of smart, dedicated engineers and security researchers who love to solve some of the toughest problems in network security and visibility.
+Responsibilities:
+· Manage the ASERT team consisting of R&D, threat research, reverse engineers and program management personnel cultivating leadership, creating a strong communications environment and developing individuals on the team.
+· Ensure team motivation and engagement.
+· Expand the team, as necessary, to meet the needs of the organization and market.
+· Define strategic goals for the ASERT organization based on evolving threat landscape and business opportunity; create business plans around those goals and present plans to senior and executive leadership.
+· Build strategic industry partnerships.
+· Drive product and commercial security initiatives within Arbor and NETSCOUT acting as a change agent.
+· Set priorities for the team that are aligned with goals of Arbor as an organization.
+· Manage day-to-day operation of the ASERT organization including management of team deliverables, tracking of dependencies and mitigation of risk.
+· Create and manage ASERT CAPEX and OPEX annual budget.
+· Cultivate relationships with development, advanced development, product management, sales, marketing and other internal organizations.
+· Manage ASERT involvement in direct product development and prototype development around security specific content.
+· Manage quality process for feeds, development and internal processes.
+· Lead cross-organizational security and quality initiatives.
+Requirements:
+The ideal candidate will possess:
+· 10+ years experience designing and implementing network security products and leading large teams with security research responsibilities including both operational, engineering, and industry leading thought leadership activities.
+· 10+ years security research background focused on analyzing modern threat landscapes with an eye toward understand attack types and methods and a proven track record of inventing novel approaches for detecting and preventing threats as they become pervasive.
+· 5+ years as a people manager.
+· 5+ years’ experience working with network inspection code bases with deep domain knowledge around software-based deep packet and flow-based inspection technologies.
+· Expertise required on seeding new threat detection and mitigation techniques and technologies within existing product code bases and frameworks.
+· Experience creating and managing $1M+ annual budget required.
+· Knowledge of DDoS attacks and attack landscape preferred.
+· Additional experience executing reputation and security intelligence feeds and infrastructure with machine learning and data analytics on large scale data sets is preferred.
+· Experience creating scalable, highly available and survivable software code bases is preferred.
+· Strong written and verbal communication.
+· Experienced industry speaker on technical and business subjects speaking at events such as Blackhat, RSA, Defcon or industry equivalents.
+· History of cross-organizational collaboration and leadership
+Education:
+· Bachelor's and/or Master's degree in computer science/engineering/security (or equivalent work experience)
+

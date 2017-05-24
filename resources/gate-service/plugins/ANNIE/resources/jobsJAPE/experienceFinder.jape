@@ -1,0 +1,36 @@
+Imports: {
+import static gate.Utils.*;
+}
+Phase: ExperienceFinder
+Input: Token Lookup Date Sentence
+Options: control = appelt debug = true
+
+MACRO:DATE_RULE
+({Date.rule==NumberOfYears})
+
+
+Rule: Experience 
+(
+   ({Date.rule == NumberOfYears} | {Lookup.minorType == "requiredSkills"})
+):label
+-->
+{
+AnnotationSet workexSet = bindings.get("label");
+if(workexSet != null && workexSet.size() > 0)
+{
+	Annotation accomp = workexSet.iterator().next();
+	FeatureMap features = Factory.newFeatureMap();
+	long end = workexSet.lastNode().getOffset();
+	long start = workexSet.firstNode().getOffset();
+	AnnotationSet sentences = inputAS.get("Sentence", start, end);
+	if(sentences != null && sentences.size() > 0)
+	{
+		Annotation sentenceann = sentences.iterator().next();
+		String sentenceString = stringFor(doc, sentenceann);
+		features.put("sentence", sentenceString);
+		features.put("rule", "ExperienceFinder");
+		outputAS.add(sentences.firstNode(), sentences.lastNode(), "Experiences", features);
+	}
+}
+
+}

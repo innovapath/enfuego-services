@@ -1,0 +1,5 @@
+Review of software requirements
+Preparation of test cases
+Execution of tests
+Reporting of defects
+Preparation of test reports

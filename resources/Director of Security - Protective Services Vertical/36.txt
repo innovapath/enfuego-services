@@ -1,0 +1,92 @@
+Switch
+Job title : Director of Security
+Job location : Las Vegas, Nevada Area
+
+Employer name :
+Job description :
+
+Join Switch
+Switch, the developer of SUPERNAP data centers, is the revolutionary technology solutions company led by inventor and solutionist Rob Roy. As Founder and CEO he holds 218 patents and patents pending that have produced an essential and future-forward transformation in data center architecture, engineering, technology and operations. His vision also resulted in the creation of the SUPERNAP CORE Cooperative. It is the world’s only $3 trillion independent purchasing and collaboration ecosystem, guided by the company’s unique operating ideology called Truth in Technology.
+Designed by Rob Roy, the Switch award-winning Tier IV Gold SUPERNAP data centers are certified as the highest-ranking colocation data centers in the world and are maintained by the highest-rated mission critical operations teams. With more on-net, independent cloud providers than any other physical cloud gateway, Switch connects thousands of clients and providers from within the facility. Switch is the recognized world leader in colocation design, development and mission critical operations.
+Switch, with clients ranging from sophisticated startups to Fortune 100 powerhouses, enables unparalleled mission critical solutions that make a difference in innovation, ROI and communities as a whole.
+Director of Information Security - Las Vegas, NV
+The Director will play a key role in the successful implementation, administration and execution of business strategy to support the security program and compliance obligations at Switch. This critical role is responsible for the global security program across the entire enterprise. This role also maintains a vision of the current state of Cyber Security and leverages knowledge to influence the corporate strategy and the risk and governance program. The position will report to the EVP of Network Operations.
+Supervisory Responsibilities:
+This position carries out supervisory responsibilities in accordance with the organization’s policies and applicable laws. Supervisory responsibilities include, but are not limited to: training and mentoring employees; planning, assigning, delegating and directing work; appraising performance; rewarding and disciplining employees; and resolving employee issues.
+Essential Duties and Responsibilities:
+· Provide leadership and direction on all cyber and information security projects
+· Provide guidance in defining scope of compliance activities, prepare and maintain all necessary cyber and information security remediation documentation
+· Identify, anticipate and document issues and risks and provide mitigation recommendations to ensure timely action is taken
+· Collect metrics data and report on progress of multiple projects/deadlines and security effectiveness.
+· Define and lead the Cyber Security and Risk Management roadmap, architecture and strategy
+· Present solutions to executive leadership including the board of directors to convey current and emerging threats and what is required to address and mitigate threats
+· Act as the leading expert and single point of accountability for Switch’s Information Security Initiatives
+· Strategically lead and direct the design and implementation of Global Cyber Security solutions
+· Ensure compliance, globally, with local law and has a cohesive partnership with audit and legal teams to ensure compliance
+· Develop, implement, maintain and continuously oversee Cyber Security standards and policies and procedures to manage risk across applications, infrastructure and operations
+· Monitor cyber security violations and drive resolutions to policy and procedure
+· Develop remediation and corrective action plans to keep Switch’s system/network infrastructure within compliance standards (NIST/FISMA)
+· Provide leadership, training and team effectiveness for the Corporate Incident Response team in emergency situations and mock drills
+· Lead strategic security planning to achieve business goals by prioritizing defense initiatives and coordinating the evaluation, deployment, and management of current and future security technologies using a risk-based assessment methodology
+· Develop and communicate information security strategies and plans to the management team members and stakeholders
+· Develop, implement, maintain, and oversee the enforcement of policies, procedures, and plans for system security administration and user system access based on industry-standard best practices
+· Provide insight on a continuous corporate wide information security awareness program for promoting a corporate security culture for all employees, vendors to ensure security while utilizing the Switch technology ecosystem
+· Provide troubleshooting and Incident Response when high level expertise is needed
+· Perform other projects, assignments, duties as required.
+Required Job Skills:
+· Provide technical leadership for both the creation of the security strategy and incident response and containment
+· Track the latest industry developments in security management, and continuing to be highly engaged in the state of external, worldwide Cyber Security trends and attacks in order to strategize solutions and policies to face the ever changing threats
+· Strong program management experience and the wherewithal to continuously deliver on multiple projects
+· Proven leadership and team development skills and abilities
+· Strong problem solving skills to see broad picture, ensure operational stability and end user satisfaction
+· Effective, engaging, persuasive and influential communicator with outstanding collaboration skills
+· Strong ability to shape business and technology needs
+· Ability to create broad vision for Cyber security & risk management function and execute on vision, while engaging a team and organization
+· Strong networking relationships within the Cyber Security community to stay on the cutting edge of the industry
+· Strong written and verbal communication skills
+· Proven experience in planning, organizing, and developing cyber security and facility security system technologies
+· Experience in planning and executing cyber security policies and standards development
+· Excellent knowledge of technology environments, including information security, building security, and defense solutions
+· Considerable knowledge of business theory, business processes, management, budgeting, and business office operations
+· Substantial exposure to data processing, hardware platforms, enterprise software applications, and outsourced systems
+· Good understanding of computer systems characteristics, features, and integration capabilities
+· Experience with systems design and development from business requirements analysis through to day-to-day management
+· Excellent understanding of project management principles
+· Experience with Software development lifecycle and secure coding practices
+· Demonstrated ability to apply IT in solving cyber security problems
+· In-depth knowledge of applicable laws and regulations as they relate to cyber security, both domestic and international
+· Maintains an awareness of changes in industry by reading, attending workshops or seminars as required to maintain a high level of proficiency in the fields of information security
+· Strong knowledge of information security threats and countermeasures and associated operational best practices
+Computer Equipment and Software:
+· Understanding of networking concepts (Lan/Wan, Wireless, VPNs)
+· Familiarity of operating systems and platforms
+· Understanding of security devices (Firewalls, IDS/IPS, AV and vulnerability scanners)
+· IT Security Frameworks (NIST, ISO27001, COBIT, FSMA)
+· Endpoint protection, device and mobile security
+· In-depth knowledge of SorceFire, FireAMP, and StealthWatch or similar security applications
+Certification:
+· Certified Information Systems Security Professional (CISSP)
+· GIAC Certified Incident Handler (GCIH)
+· CompTIA Security + or CASP (CompTIA Advanced Security Practitioner)
+· Certified Information Systems Auditor (CISA)
+· Certified Information Security Manager (CISM)
+· ITIL Foundations Certification
+· Global Information Assurance Certification (GIAC)
+· Certified Project Manager (PMP, GCPM), desired
+Education:
+· Bachelor’s degree in; Information Security, Computer Science, Information Systems, Computer Engineering, Systems Analysis or related field
+Experience:
+· 10 plus years’ experience directing an IT and/or security operation in progressively senior leadership roles
+· Minimum 5 years working with IPDS, advanced threat detection systems, risk analysis, security policies and procedures
+· Experience in operational IT security roles (monitoring and remediating security incidents)
+· Experience with Cisco systems and architecture, various security appliances, and telecommunication systems and business networks.
+· Experience in monitoring SAP, Linux, HP-UX, and Windows in an enterprise setting
+____________________________________________________
+A STRICT BACKGROUND INVESTIGATION AND DRUG TEST WILL BE REQUIRED OF ALL CANDIDATES IN ALL DEPARTMENTS.
+Competitive salary commensurate with experience.
+Benefits include a group health, dental and vision plan, long term disability and life insurance, 401(k) Plan, FSA, paid vacations and paid holidays.
+To apply, please email your resume to: switchsupernap-jobs@supernap.com
+Switch
+7135 South Decatur Blvd.
+Las Vegas, NV 89118
+Switch is an equal opportunity employer.

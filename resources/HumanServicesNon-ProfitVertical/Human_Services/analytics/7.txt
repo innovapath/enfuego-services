@@ -1,0 +1,26 @@
+Premise Data
+
+Job title: Humanitarian
+Job location: San Francisco Bay Area
+Job description: 
+Premise is Growing! We are hiring a talented Senior Mobile Test Engineer in San Francisco, or Seattle, WA to drive automated and manual testing of the Premise Android application used for global data aggregation, with a focus on emerging markets. We are a mobile data and analytics platform bringing visibility to the world’s hardest-to-see places. Our technology enables global decision-makers to move faster and make more impactful decisions.
+You get to impact the lives of users/data contributors through projects like:
+· Monitoring and improving patient service delivery and care by tracking the delivery and quality of HIV care in Kenya
+· Engaging local communities in Colombia to map hyperlocal environmental factors that favor mosquito reproduction (e.g. stagnant water, poverty level) to predict and remedy high-risk Zika areas in a short timeframe.
+· Improving front line anti-famine and humanitarian assistance through ongoing monitoring of food availability and scarcity
+· Measuring and reducing gender based violence in the Rio de Janeiro subway by tracking the utilization of women-only subway cars
+What you get to do:
+· Drive automated and manual testing of the Premise Android app
+· Work with product and development teams to understand requirements and develop test plans and timelines, and to ensure developed products meet customer expectations
+· Champion testing best-practices within the engineering organization
+· Coordinate with third party testers to create test plans and track issues
+Your background likely includes:
+· BS or MS in Computer Science or equivalent work experience
+· 2+ years of experience testing native Android applications, using tools like Robolectric, Google Cloud Testing / Firebase Testing, and the Android Testing Support Library
+· Understanding of the Android SDK, memory management, background services, UI layout and rendering
+· Passion for learning and sharing knowledge with the team around you
+Bonus points:
+· Experience with third party testers, such as Testlio, rainforest QA, etc
+· A passion for testing and delivering world class applications
+· Experience troubleshooting apps in a production environment, using analytics data, crash reports, and user error reports.
+	

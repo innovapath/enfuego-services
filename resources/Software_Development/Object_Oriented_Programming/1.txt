@@ -1,0 +1,2 @@
+Minimum 1-2 of years of experience programming in C# or any Object Oriented Programming.
+Experience running queries, updates and inserts in SQL Server

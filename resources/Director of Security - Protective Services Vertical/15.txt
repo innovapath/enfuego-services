@@ -1,0 +1,48 @@
+Teradata
+Job title : Director of Security
+Job location : San Diego, CA, US
+
+Employer name :
+Job description :
+Title: Director of Security Ops & Assessment Architecture
+Primary Job Responsibilities
+· Drive Security Operational Architecture and Strategy
+· To drive compliance and regulatory requirements into the architecture of products and then translate in operational run books
+· Audit and Assessment of UDA Application components and physical/cloud infrastructure
+· Define and execute operational service transition and automation strategy
+· Align organizational priorities with business goals
+· Liaise with Companywide IT, Application Engineering and Operational teams to align tools and processes
+· Develop key KPI’s across all groups to measure adoption and success of secure platforms and products
+· Assume responsibility for the evaluation of new technologies, tools, and/or development techniques that impact security
+· Architect operational reporting and metrics capabilities through selection of a technology stack to be delivered to the operations team by the respective group
+· Develop and maintain central knowledge base containing documentation for all security disciplines in the Security Architecture organization.
+· Input into Business Continuity Planning and Practices
+· Work collaboratively across multi-disciplinary teams throughout the company as a SME in SaaS/Cloud with solution and implementation focus
+· Contribute to and support effort to build intellectual property via patents
+Job
+Engineering
+Schedule
+Full-time
+Primary Location
+Americas-United States-California-San Diego
+Organization
+UDA Platform Technologies
+Primary Job Requirements
+· Successful candidates will be security evangelists who can translate operational requirements and processes into language that is meaningful to many audiences, including business and technical leaders and individual contributors.
+· Candidates must be able to approach of operations and compliance assessments from the perspective of risk management and avoid purely academic thinking about software security.
+· Demonstrable ability to influence decision‐making processes at all levels of a large organization will be critical to success.
+· Candidates must have strong leadership skills and be effective managers
+· Candidates must have excellent verbal and written communication skills, including experience speaking in public forums and writing/contributing to technical publications.
+· Candidates should be familiar with waterfall and agile development processes and have experience integrating secure development practices into both models.
+· The ideal candidate has 6+ year’s experience running operations & incident response
+· The ideal candidate has 5+ years experience working with various operational requirements for regulatory and compliance agencies.
+· The ideal candidate has experience working with cloud and virtualized environments such as AWS, Azure and VMware
+· The ideal candidate has experience working with automation script languages such as Puppet, Chef, Cloud Formation, etc.
+· Candidates must be able to explain all vulnerabilities and weaknesses in the OWASP Top 10, WASC TCv2, and CWE 25 to any audience, and discuss effective defensive techniques.
+· Candidates must have experience managing $1M+ budgets and planning multi‐year roadmaps.
+· Familiarity with industry standards and regulations including PCI, FFIEC, SOX, and ISO27001 is desired.
+Education
+BS degree in Electrical Engineering, Computer Science, Information Technology, or related field. Advanced degree highly preferred
+Location: San Diego
+· Our total compensation approach includes a competitive base salary, 401(k), strong work/family programs, and medical, dental and disability coverage.
+Teradata is an Equal Opportunity/Affirmative Action Employer and commits to hiring returning veterans.

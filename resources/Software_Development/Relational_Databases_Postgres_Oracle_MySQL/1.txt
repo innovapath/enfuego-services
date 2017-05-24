@@ -1,0 +1,2 @@
+Experienced deep understanding of Postgres or Oracle Database
+Excellent knowledge of Relational Databases, SQL and ORM technologies

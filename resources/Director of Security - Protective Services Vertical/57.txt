@@ -1,0 +1,41 @@
+BlackBerry
+Job title : Director of Security
+Job location : Arlington, VA, US
+
+Employer name : David Aurand
+Job description :
+Worker Sub-Type
+Regular
+Summary
+Job Description:
+Reporting to the Vice President of this organization, this role is responsible for managing security projects, processes, certifications, compliance, risk, governance, and audit. Security is part of the BlackBerry brand and you would be working as part of a team of security specialists helping to protect the BlackBerry brand, reputation, and Intellectual Property.
+Leading a team of experts you will be responsible for driving all cyber security initiatives in the US Security Operations Center. The successful candidate will have a positive attitude, proven people leadership skills, strong negotiating ability, a passion for exceptional customer service, attention to detail, practical problem solving abilities, ability to proactively identify opportunities, evaluate solutions, make recommendations and quickly implement selected solutions.
+Responsibilities
+· Plan, design and implement an overall risk management process for the SOC. The process includes: detection, triage, analysis, containment, recovery and reporting.
+· Lead the incident response process and execution including unauthorized access, security policy violations and intellectual property leaks
+· Manage and execute processes responsible for the advanced analysis of security threat intelligence (malicious code, hackers and zero day exploits, etc.) in order to proactively prepare for security events
+· Expand and mature existing incident response processes and activities.
+· Develop communication channels with the business units to ensure solid incident response and risk assessment processes
+· Analyze, assess and recommend security controls for FedRAMP compliance
+· Work with cross functional organizations in analysis of security controls and best practices
+· Provide assistance in BlackBerry Services external audits, certifications and accreditations; to achieve and maintain compliance.
+· Contribute to development of product security roadmaps
+Essential Skills And Qualifications
+· Bachelor’s degree in computer science, software engineering or equivalent IT based experience
+· 7-10 years of people management and leadership experience
+· 7+ years of experience as a Security Analyst or in a Security Operations Center
+· Demonstrated experience with managing and ensuring the timely response and investigations of security events and incidents by the security operations center
+· Solid understanding of log and monitoring management systems, security event monitoring systems, network-based and host-based intrusion detection systems, firewall technologies, malware detection and enterprise-level antivirus solutions/systems and encryptions standards
+· Working knowledge of the various industry standard information assurance disciplines and generally accepted practices governing software development.
+· Ability to work through common network vulnerabilities and penetration testing tools including but not limited to Metasploit, Qualys, Nexpose and NSS Nmap
+· Experience in process and policy development
+· Strong ability to communicate with external parties
+· Excellent organizational skills with ability to drive timelines and understand when to proactively escalate
+· Motivated self-starter with the proven ability to; work autonomously, meet deadlines and adjust to changing priorities to meet business goals
+· Must be legally authorized to work in the United States
+· Master’s degree in computer science considered an asset
+· Understanding of FedRAMP controls and Federal agency security requirements and processes considered a plus
+Job Family Group Name
+Information Technology
+Scheduled Weekly Hours
+40

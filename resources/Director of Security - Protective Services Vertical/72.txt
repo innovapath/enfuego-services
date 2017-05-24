@@ -1,0 +1,39 @@
+Wellmark Blue Cross and Blue Shield
+Job title : Director of Security
+Job location : Des Moines, IA, US
+
+
+Employer name :
+Job description :
+Wellmark is hiring a Director of Security Architecture and Engineering. In this position, you will provide strategic direction and leadership for Wellmark’s Corporate Information Security (CIS) architecture. You will collaborate with leadership across Wellmark to formulate information security systems and/or service strategies. In addition, you will develop and apply industry best practice methodologies, and business models to develop, implement and manage IT security structures and processes. You will lead the development and maintenance of corporate information security architecture model creation and technical standard development and review. In addition, you will provide recommendations and guidance in the design, development, implementation and management of corporate information security products and solutions.
+Core Competencies
+  Accountability: Owning and taking responsibility for one’s actions.
+  Business Acumen: Understanding industry, market, financial and company specific operations.
+  Collaboration and Communication: Working together; listen to other’s ideas; communicate accurately and concisely.
+  Decision Making: Consider all facts and impacts when making decisions.
+  Focus on the Customer: Consistently doing what is in the best interest of our customer. Leaving a positive impression on the customer by elevating their experience; making it simpler and educating to helping them understand.
+· Bachelor’s degree or direct and applicable work experience
+· Minimum 10 years’ experience designing and delivering security solutions to include a combination of:
+· minimum 7 years security architecture knowledge and experience
+· designing, building, and implementing security controls
+· security risk management - identification, analysis and mitigation of risk
+· developing IT security structure and strategic direction
+· cloud security experience
+  Demonstrated leadership experience, including building and developing a high performing team consistency delivering value added results to the business
+  Demonstrated communication skills with the ability to build relationship and influence others to get results
+  Demonstrated ability to create strategic direction and tactically implement
+  Proven ability to guide and lead a team through times of change
+  Demonstrated skills in problem resolution/trouble shooting (conception and technical)
+  Demonstrated decision making and critical thinking skills with the ability to consultant with stakeholders and influence decisions
+  Demonstrated understanding of existing and emerging technologies
+· Bachelor’s degree
+· IT Certifications - CISSP - Certified Information Systems Security Professional, EAP - Enterprise Architecture Planning
+  Provides the strategic direction and leadership for team that supports Wellmark and divisional strategy and goals. Cascades and communicates strategy and initiatives to team members, driving customer/stakeholder service, supporting achievement of overall company results.
+  Provide leadership and daytoday management of financial and human resources, primarily focusing on employee and leader coaching, development, performance improvement, coordination and budgeting for multiple staff, and departments specific functions/services.
+  Oversee and drive solutions for Wellmarks CIS architecture and standards. Provide transformational and strategic guidance to a team of Engineers. Manage CIS standards and systems architecture through IT governance controls including project reviews and standards adherence monitoring. Oversee information security architects to ensure the development of practical business architecture strategies that are aligned with Wellmarks strategic goals and objectives. Define technology architecture standards, guidelines and principles, including associated reference architectures.
+  Ensure adherence to Wellmark architecture governance standards, by using all architectural documents effectively as tools to create solution design that meets business requirements and is within technical standards. Mentor and develop Engineers to ensure all are knowledgeable and adhering to guidelines and that solution development fits within future capabilitybased architectures.
+  Exhibit a strong architectural knowledge by leveraging technology and transformational frameworks in developing a bestinclass security architecture design to meet business objectives.
+  Oversee the management of the repositories of Information System models and system portfolios to enable reuse by projects and other change initiatives.
+  Develop strategies for migrating systems and data into the new architecture, through defined enterprise initiatives and the adherence to enterprise standards.
+  Prepare and facilitate executive level briefings and proposal on information security strategies and direction for business stakeholders and/or senior leadership.
+  Other duties as assigned.

@@ -1,0 +1,58 @@
+2U
+Job title : Director of Security
+Job location : Greater New York City Area
+
+Employer name :
+Job description :
+What We're Looking For:
+The Director of Engineering, Security is responsible for the overall information security of 2U. This person will be the subject matter expert for all technology solutions designed and deployed to secure 2U and partner data according to our information security policies and relevant regulations.
+The Director will also be responsible for managing a growing team of two SecOps Engineers and an Analyst. This person will ensure the safety and integrity of our technology systems while focusing on scalable solutions to meet future security needs.
+Responsibilities Include, But Are Not Limited To:
+· Architect 2U’s overall strategy for how we approach information security, risk assessment, and compliance requirements
+· Scale the team that maintains and improves security solutions for 2U and our university partners, employing qualified individuals, and successfully leading the team’s efforts
+· Provide strategic direction to company leadership including C-level leaders and Board of Directors on security trends, threats, and solutions
+· Research, analyze, and coordinate the feasibility, cost justification, selection and purchase of security technologies, hardware, and software systems for 2U needs
+· Monitor the operation of all technology systems for appropriate use and facilitate reporting to relevant stakeholders on a regular basis, maintaining compliance with relevant security standards
+· Coordinate audits of software and network system usage and connections to ensure compliance with 2U’s Standards and Procedures, 2U Information Security Policy, to guard against unauthorized use, and to prevent the introduction of any threats to security or usability
+· Consult with technology team on deployments requiring the establishment of new backend systems, configurations, or controls to ensure best practices
+· Lead the ongoing development of security policies, documentation, and implementation
+· Perform managerial tasks for this team including budgeting, staff evaluations, and goal setting
+Things That Should Be in Your Background:
+· A minimum of 10 years’ of experience in IT and/or cyber security fields, ideally 5 years spent in a hi-tech environment
+· Thorough knowledge of FERPA and PCI DSS standards, specifically their application in the context of web operations
+· Be comfortable in front of an audience and present both internally and externally on areas of expertise within cyber security (something along these lines)
+· Own evangelization and education of cyber security best practices and their impact to 2U’s internal users
+· Demonstrated experience in personnel management as well as in strategic interaction with company leadership
+· Thorough knowledge of information security management system standards (ISO 27001, ) and their implementation in modern technology stacks
+· Past experience preparing for and facilitating standards based third party audits (SSAE 16, SOC-2)
+· Working knowledge of modern perimeter application security systems, host based intrusion detection and prevention systems, stateful firewalls, symmetric and asymmetric encryption systems, and other security technologies relevant to web operations and mobile workforce management
+· Experience working with cloud hosted systems on the Google, Salesforce, and Amazon Web Services platforms
+· Familiarity with distributed, cloud-hosted, service-oriented web applications using cutting edge technologies (Docker, Kubernetes, Kafka, etc)
+· Familiarity with Agile software development practices, DevOps change management methodologies, and the implications these have for security management at high release velocity
+Other Attributes That Will Help You in This Role:
+· Bachelor’s degree in relevant field a strong plus, masters degree a bonus.
+· Work experience should reflect mastery of security tasks and readiness for management
+· Ability to manage a highly skilled engineering team to produce excellent work
+· Strong sense of ownership of tasks and quality of both personal and team efforts
+· Excellent communication skills (both written and verbal)
+· Ability to work in a dynamic and flexible environment
+· Experience interfacing with Universities strongly preferred
+· Ability to work occasional late nights and weekends, travel occasionally, up to 10%
+About 2U
+2U partners with leading colleges and universities to deliver the world’s best online degree programs. Our Platform, a fusion services and technology, enables schools to attract, enroll, educate, support and graduate students around the world. Our company culture is united by our No Back Row® philosophy; the idea that when we each lean in and do our part, we are better individually and collectively.
+2U Diversity and Inclusion Statement
+At 2U, we are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same.
+Why It’s Great to Work at 2U
+2U offers a high-energy work environment that’s both challenging and fun. We work hard, but our offices are casual and social places. We wear jeans to work and fuel brainstorming sessions with snacks and seltzer.
+Benefits
+2U offers a comprehensive benefits package:
+· Medical, dental and vision coverage
+· Life insurance, disability and 401(k)
+· Unlimited snacks and drinks
+· Generous paid leave policies
+· Tuition reimbursement program
+· Spontaneous dance parties
+· No Asshole policy
+Note: The above statements are intended to describe the general nature and level of work performed by individuals assigned to this position, and are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.
+2U is an equal opportunity employer that does not discriminate against applicants or employees and ensures equal employment opportunity for all persons regardless of their race, creed, color, religion, sex, sexual orientation, pregnancy, national origin, age, marital status, disability, citizenship, military or veterans’ status, or any other classifications protected by applicable federal, state or local laws. 2U’s equal opportunity policy applies to all terms and conditions of employment, including but not limited to recruiting, hiring, training, promotion, job benefits, pay and dismissal.
+

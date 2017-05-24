@@ -1,0 +1,5 @@
+Integrating Django with Machine Learning platforms to deliver intelligent metrics to the automotive industry
+Using a diverse set of data stores such as Firebase, PostgreSQL, and Redis to accomplish a range of features.
+Assisting with the development of developer friendly Django based RESTful APIs that integrate with a growing number of embedded systems
+Experience with Django or equivalent Python Web Framework 
+Experience with Django REST Framework is a strong plus

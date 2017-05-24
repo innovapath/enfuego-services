@@ -1,0 +1,67 @@
+GameStop
+Job title : Director of Security
+Job location : Dallas/Fort Worth Area
+
+
+Employer name : Tiffanie Chiles-Mitchell
+
+Job description :
+Description:
+SUMMARY
+Working independently, the Information Security Engineering and Operations Director leads the enterprise Information Security Engineering and Operations Program responsible for the concepts, processes and technologies protecting organizational, employee and customer data assets. The Information Security Engineering team provides engineering, delivery and operation of technology supporting GameStop’s Cybersecurity Operations Center (CSOC). The Cybersecurity Security Operations (CSOC) Team performs in-depth information security analysis, supports incident response and threat intelligence for the enterprise. The team proactively coordinates with other departments and external vendors regarding events and initiatives impacting information security. As a strategic leader, he or she must consult frequently across the enterprise with multiple lines of business and technology teams to provide high quality solutions and services that are focused on improving GameStop’s risk posture. All routine and most non-routine activities may be undertaken without prior supervisor authorization. The role is generally characterized by high levels of scope, technical and relational complexity, and a high level of independent decision making.
+ESSENTIAL JOB DUTIES AND RESPONSIBILITIES
+· Directs the enterprise Cybersecurity Engineering and Operations Program including incident response, security monitoring, security design, engineering and operation.
+· Oversees planning, architecture and service delivery required to secure large scale, high-volume environments supporting multiple retail channels and vertical lines of business.
+· Directs the planning, design, operation and continual improvement of the Cybersecurity Operation Center
+· Defines and establishes Security Operations and Engineering operational and strategic planning goals and objectives.
+· Develops business case justifications and cost/benefit analysis for IT spending and initiatives
+· Acts as an owner for the enterprise security incident response plan
+· Assesses and facilitates the communication of risks associated with IT architectures, procedures, staffing, and investments
+· Facilitates the review of security-related hardware, software and services acquisition, maintenance contracts and pursues master agreements to capitalize on economies of scale
+· Remains abreast of emerging trends and best practices within the community of information security professionals; seek and leverage best practices from other non-competing organizations as frequently as possible.
+· Drives outstanding business results through traditional management functions including, but not limited to, sourcing and selecting talent, coaching and development, workforce and project scheduling, performance assessment, and general talent planning
+· Collaborate with other technology teams or 3rd parties to drive remediation of IT risks identified by internal and external assessments
+· Develop and provide metrics related for goals and project reporting
+· Ability to communicate complex technical subjects to all levels of senior and executive leadership
+· Manage relationships in a manner acceptable to others and to the organization; adhere consistently with all organizational policies related to our respectful workplace
+· Manage financial forecasts and estimates for capital and operating expenses
+· Manage support, maintenance and subscription renewals for cybersecurity operations technology
+· Demonstrate a consistent commitment to field-focused service by prioritizing field-based requests, responding quickly and favorably to field-based feedback, by minimizing tasks, and proactively seeking ways to help store teams focus on customer service as productively as possible
+· Work collaboratively with others within and outside of his or her function to achieve goals, simply processes, reduce costs, prevent loss, and to ensure that work is completed safely, accurately, and on time
+· Responsible for adhering consistently with all employment policies as stated in the employee handbook provided or as provided by his or her supervisor
+· Model the behaviors expected of all GameStop leaders including, but not limited to, a drive for results, with a demonstrable bias for action; high levels of emotional intelligence, maturity, andprofessionalism;giving, receiving and responding to feedback effectively; a consistently high service orientation; and demonstrable commitments to diversity, inclusion, a respectful workplace, and integrity
+· Drive outstanding business results through traditional management functions including, but not limited to, sourcing and selecting talent, coaching and development, workforce and project scheduling, performance assessment, and general talent planning
+· Create a productive, collaborative work environment by developing a common vision, setting clear objectives, facilitating teamwork, recognizing and rewarding outstanding performance, encouraging risk tolerance, and maintaining open communications.
+· Build organizational capability through continuous improvement activities; originate action to improve existing conditions and processes; identify improvement opportunities, generate ideas, and implement solutions
+· Identify, track, and report meaningful performance/progress metrics, and support the team with achieving performance goals
+· Actively build the capability of others through relevant, timely balanced feedback; coaching and teaching, encouraging mentoring relationships; and using recognition and rewards to reinforce desirable behaviors
+RELATED COMPETENCIES
+· Building Partnerships – Identifies opportunities and takes action to build strategic relationships between one’s area, teams, departments, units, or organizations to help achieve business goals.
+· Information Monitoring – Establishes ongoing procedures to collect and review information needed to manage an organization or ongoing activities within it.
+· Planning and Organizing - Establishes courses of action for self and others to ensure that work is completed efficiently.
+· Technical/ProfessionalKnowledge and Skills – Having achieved a satisfactory level of technical and professional skill or knowledge in position-related areas; keeps up with current developments and trends in areas of expertise.
+BASIC AND PREFERRED QUALIFICATIONS (EDUCATION and/or EXPERIENCE)
+· Bachelor’s degree from an accredited program in information systems or related field, or equivalent experience required
+· 10+ years of information security industry experience required, including a minimum of 3 years at a Senior-manager level.
+· 5+ years of process and/or tool engineering activity, preferably in the information risk space required
+· CISSP Required
+MINIMUM QUALIFICATIONS, JOB SKILLS, ABILITIES
+· In-depth knowledge of security best practices in large-scale environments
+· Demonstrated experience in managing cybersecurity incidents through the incident response lifecycle
+· Demonstrated experience with the following CISSP domains: access control, application development security, cryptography, information security governance and risk manageme
+nt, legal regulations/investigations/ compliance, operations security, physical/environmental security, security architecture/design and telecommunications/network security
+· Demonstrated experience with the following security areas: GRC, SIEM, VPN, PKI, vulnerability management, access management, firewalls, DLP, forensics, malware analysis and incident response
+· Knowledge of relevant information security standards and frameworks including ISO, NIST, SANS, etc.
+· Proficient knowledge of regulatory controls including: PCI and SOX
+· Proficient knowledge of identifying technology-related risks, developing mitigation steps, and implementing remediation
+· Ability to apply strict discretion to sensitive situations
+· Proficient ability to generate reports for executive leadership consumption
+· Proficient analytical and organizational skills to optimize processes and procedures
+· Proficient project planning skills, including the ability to organize, prioritize and control job responsibilities to meet deadlines in an environment with overlapping and potentially conflicting priorities
+· Proficient ability to communicate effectively with others using spoken and written English
+· Proficient ability to work collaboratively with others; conduct working relationships in a manner acceptable to others and to the organization
+· Proficient ability to remain effective under stress, and respond to pressure in a manner acceptable to others and to the organization
+· Proficient knowledge of Windows-based business computers and Microsoft Office programs; specifically, Access, Excel, Outlook, PowerPoint and Word
+· Demonstrated ability to model customer-focused behaviors leading to outstanding customer experiences
+· Consistently demonstrates a commitment to GameStop policies and procedures, including but not limited to, attendance, confidentiality, conflict of interest, and ethical responsibilities
+

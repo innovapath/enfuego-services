@@ -1,0 +1,62 @@
+Las Vegas Sands Corp.
+Job title : Director of Security
+Job location : Las Vegas, Nevada Area
+
+Employer name :
+Job description :
+We are currently hiring for a Director of Cyber Security Breach Detection. This position is located in Las Vegas, NV.
+Position Overview
+The primary responsibility of the Director US SOC Cyber Security is responsibility for the day to day operations of the US SOC, the equipment that supports the SOC and the training and operational readiness of the analysts that support SOC operations. The Senior Manager US SOC Cyber Security is also responsible for maintaining communications with other SOCs identified by the Executive Director of Global Cyber Operations, the property IT departments and property analysts to support the operations of the SOC and for cyber security response/support to events that affect the security of the LVSC networks.
+All duties are to be performed in accordance with departmental and Las Vegas Sands Corp.’s policies, practices, and procedures.
+Keywords: cyber security collection, analysis, intrusion response and reporting process/procedures, GSEC, SSCP, Security+,CEH, GCIH, GCIA, GCED, GSE, CISSP, SIEM, TCPDump, Wireshark, Nessus, Metasploit, nmap, EnCase Enterprise, ForensicTool Kit (FTK), network security appliances, identity and access management (IAM) systems, anti-malware solutions, automated policy compliance tools, desktop security tools.
+Essential Responsibilities
+Key Performance Objectives
+· This is a management/expert technical role. It defines the cyber security cyber operations, programs and process for the LVSC enterprise
+· The role is involved in projects or issues of high complexity that require in-depth knowledge across multiple technical areas and business segments
+· Coaching and development of technical Cyber Security analysts will be required
+Key Responsibilities
+· Works closely with the Executive Director of Global Cyber Security Operations and the global SOC team capable of providing freedom of action in the cyber environment for every property and geography where LVSC operates.
+· Works closely with property IT Operations and other functional area specialists to ensure threat indicators are rated by severity and responded to in a manner consistent with the threat
+· Contributes to the development and maintenance of the cyber security strategy
+· Delivers a leadership role in providing network and system security advice and risk analysis to business units who engage with the Global Cyber Security team
+· Security policy and procedure development for the LVSC global network
+· Develops and leads the regional LVSC Security Operations Center
+· Develops and leads the regional LVSC Security Operations Center Intelligence team to ensure security threat information, system log information, and sources of external intelligence are combined to provide real time response to cyber events
+· Integrates the global strategy and approach to sourcing and integrating external sources of cyber intelligence
+· Manages the individual property Incident Response programs
+· Defines, gathers and reports on metrics regarding all security systems within the LVSC networks
+· Staff training and development
+· Performs other related duties as assigned.
+Minimum Qualifications
+· Minimum of 5 years’ experience in leading a team that performs cyber security collection, analysis, intrusion response and reporting process/procedures
+· Bachelor's degree in information systems or equivalent work experience.
+· Certifications (two or more of the following):GSEC, SSCP, Security+,CEH, GCIH, GCIA, GCED, GSE, or CISSP
+· 5 years hands-on experience with a SIEM in the detection, response, mitigation, and/or reporting of cyber threats affecting networks and two or more of the following:
+· Experience in computer intrusion analysis and incident response and Intrusion detection/response.
+· Computer network surveillance/monitoring.
+· Knowledge and understanding of network protocols, network devices, multiple operating systems, and secure architectures.
+· Experience in computer evidence seizure, computer forensic analysis, and data recovery, network forensics and system log analysis.
+· Experience with current cyber threats and the associated tactics, techniques, and procedures used to exploit computer networks.
+· Current experience with network intrusion detection and response operations (Protect, Defend, Respond and Sustain methodology).
+· Current experience with advanced persistent cyber threats and the associated tactics, techniques, and procedures used to infiltrate computer networks.
+· Demonstrated ability to document processes.
+· The ability to respond to crises objectively.
+· Strong knowledge of current intrusion analysis tools and methodologies to include but not limited to; TCPDump
+· Wireshark, Multiple SIEM technologies, Nessus, Metasploit, nmap, EnCase Enterprise, ForensicTool Kit (FTK)
+· Must be able to work collaboratively across properties and physical locations
+· In-depth knowledge of risk assessment methods and technologies
+· Proficiency in performing risk, business impact, control and vulnerability assessments
+· Excellent technical knowledge of mainstream operating systems and a wide range of security technologies, such as network security appliances, identity and access management (IAM) systems, anti-malware solutions, automated policy compliance tools, and desktop security tools
+· Ability to Travel
+· 21 years of age
+· Ability to read and communicate effectively in standard English in written and oral business communications
+· Regular and reliable attendance is an essential function of the job
+· Proof of authorization to work in the United States
+· Las Vegas Sands Corp. is an E-Verify employer
+· Additional information regarding E-Verify can be found at http://www.uscis.gov/e-verify
+Work Environment
+· Perform a variety of duties, often changing from one task to another of a different nature, with frequent interruptions or distractions
+· Adapt to frequent changes in workload and be able to adjust priorities quickly as circumstances dictate while completing tasks within established time frames
+· Ability to establish and maintain cooperative working relationships with fellow Team Members, management, outside contacts, guest and the public
+· Ability to meet the basic physical requirements of an office environment including moving freely and frequently about an office, accessing computers and related technologies using peripheral equipment and operating other office equipment
+

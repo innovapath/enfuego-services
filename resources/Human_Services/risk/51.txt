@@ -1,0 +1,41 @@
+Premise Data 
+
+Job title: Humanitarian 
+Job location: San Francisco Bay Area
+Employer name : Laura MacConnell 
+Job description: 
+Premise is Growing! We are hiring a talented Senior Software Engineer in Test in San Francisco, CA. We are a mobile data and analytics platform bringing visibility to the world’s hardest-to-see places. Our technology enables global decision-makers to move faster and make more impactful decisions.
+As the guardian of quality you'll work closely with product development teams to define and execute test plans early in the development process, and build a robust automation infrastructure for scale and reliability. This role is critical for powering our tools that serve projects like:
+· Monitoring and improving patient service delivery and care by tracking the delivery and quality of HIV care in Kenya
+· Engaging local communities in Colombia to map hyperlocal environmental factors that favor mosquito reproduction (e.g. stagnant water, poverty level) to predict and remedy high-risk Zika areas in a short timeframe.
+· Improving front line anti-famine and humanitarian assistance through ongoing monitoring of food availability and scarcity
+· Measuring and reducing gender based violence in the Rio de Janeiro subway by tracking the utilization of women-only subway cars
+What you get to do:
+· Develop test plans, scripts, tools, and run test cases to validate product releases
+· Build out an automation framework and work with the product development teams to grow the test suite
+· Be involved in the software development lifecycle from early design stage and provide feedback during release planning
+· Assist in developing technical roadmaps by identifying risk areas associated with different roadmap options, summarizing approaches and the outcomes.
+· Estimate, prioritize, plan, and coordinate testing activities for cross-functional teams
+· Contribute to the test strategy by working with teams to develop a robust regression test strategy/plan, improving our cross-department and quality processes
+Your background likely includes:
+· 3-5 years of professional Test Automation experience with a big part of the time spent on frontend automation testing
+· Strong understanding of QA processes and concepts including test case preparation, and testing methodologies
+· Understanding of web applications: HTML, React, Redux, CSS, JavaScript, AJAX, HTTP protocol, cookies/sessions, browser differences, web services
+· Hands-on experience with Selenium Webdriver or a similar tool
+· Experience with performance, scalability, and reliability testing methodologies
+· Familiarity and experience working with various testing levels such as unit testing, integration testing, regression testing etc.
+· Well-versed in object-oriented programming and scripting languages
+Bonus points:
+· Experience writing automation frameworks in JavaScript, Angular
+· Continuous Integration and Delivery experience (Jenkins, Hudson, TravisCI)
+· Knowledge of JavaScript frameworks, tools, and runtime environments (Node.js, Grunt, Backbone, React, Redux, AngularJS, etc.)
+· Highly self-motivated, goal-oriented, and self-directed
+· Able to work with minimal supervision and prioritize work to meet deadlines
+· Pro-actively review and seek clarification on Acceptance criteria for the stories
+Recent Press:
+Washington Post: These smartphone photos can help shape national policy
+Wired: Photos are creating a real-time food index
+TechCrunch: Premise raises $50 million to outsource the collection of economic data
+The New York Times: Lawrence Summers to join Board of hyperdata startup
+BuzzFeed: Introducing the 'Trillion dollar business that's waiting to be destructed'
+nging career opportunity that support our mission.

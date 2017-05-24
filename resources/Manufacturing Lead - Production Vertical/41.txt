@@ -1,0 +1,29 @@
+Microsoft
+Job title : Manufacturing Lead
+Job location : Redmond, WA, US
+
+
+Employer name :
+Job description :
+Are you passionate about building cool devices and technologies? The Surface Team focuses on building devices that fully express the Windows vision. A fundamental part of our strategy is having desirable and powerful devices that enable the experiences people want, and elicit their excitement. Creating these devices involves a close partnership between hardware and software engineers, designers, suppliers, and manufacturing.
+Specific Responsibilities Below
+We are currently looking for a talented Director to lead a multidisciplinary engineering team (Electrical, Mechanical, Cell, and System engineers) in the development of battery subsystem(s) including battery specification, system integration specification, design, and supplier selection, through manufacturing ramp. In addition, you will work closely with a variety of partners including product, reliability, and software engineering as well safety/compliance, sourcing, and manufacturing.
+· Lead and motivate a multidisciplinary team of engineers
+· Identify and mitigate battery risks
+· Develop safe, compliant, reliable batteries on schedule
+· Investigate new battery technologies and stay abreast of industry trends
+· Build solid partnerships with cell and pack suppliers
+· Partner and operate effectively in a fast paced environment
+· Communicate and present to internal partners (Directors, GMs, etc.) as well as with external partners (suppliers, manufacturing, etc.)
+Qualifications
+· Master's or PhD degree in Electrical, or Mechanical, or Electrochemistry Engineering or equivalent
+· Demonstrated rigor in specifications, development process
+· Knowledge with Lithium-based battery technologies and charging methods is required
+· Knowledge of product development and manufacturing processes is a plus
+· 5+ years in developing and shipping products
+· 4+ years in leading and managing engineers
+· Knowledge of battery stress testing is desired
+· Solid understanding statistical analysis, DOEs, TA, CTQs and CPK techniques
+· Strong communication and presentation skills
+· Position requires international travel
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.

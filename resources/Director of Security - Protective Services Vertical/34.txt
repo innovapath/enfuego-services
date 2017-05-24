@@ -1,0 +1,32 @@
+Hired by Matrix, Inc
+Job title : Director of Security
+Job location : Reston, Virginia
+
+Employer name : Faraz Michael, CPSR
+Job description :
+Job Summary
+· Our Client, a single provider solution for managing and securing mission-critical IT services, is seeking a Director of Information Security. The ideal candidate will possess 10+ years’ experience directing project teams, working with all levels of management, and deep technical experience and knowledge of Information Security, IS, networks, cloud, etc.
+· The Director of Information Security, Government Solutions division, will provide strong leadership and guidance with the responsibility of maintaining and improving Information Security and Data Privacy programs to protect the Confidentiality, Integrity, and Availability of government customer networks, systems, and information assets.
+· The Director of Information Security will lead the Information Security team and drive Cyber-security strategy, execution and continuous improvement in the areas of security operations, incident response, vulnerability management, insider risk, security awareness, cloud security, data privacy, vendor risk management and compliance.
+· The Director of Information Security will work closely with the CSO/CTO, Senior Business Leaders, Server and Network Operations team, Legal/Contracts team, Human Resources, Enterprise Risk Management, Internal Audit and other key IS and business stakeholders to accomplish assigned tasks and objectives.
+Responsibilities
+· Ensure continuous security monitoring is being performed and risks remediated
+· Coordinate security team with Operations to ensure BAU tasks are addressed
+· Ensure timelines and deliverables are addressed for successful FISMA and FedRAMP audit outcomes
+· Ensure System Security Plan accurately reflects tasks being performed
+· Identify and remediate technology and process gaps to ensure security operations can scale with the growing business
+· Implement standardization and automation where possible for consistency of security processes.
+· Ongoing development, delivery and communication of a comprehensive Information Security and Data Privacy strategy and roadmap to continuously improve overall security and privacy controls and awareness for our government customers as well as internally. This includes reviewing proposed investments in technology and resources to ensure alignment with business objectives and optimize the security posture of the organization.
+· Ensure compliance with NIST Cyber-security framework, PCI-DSS standards, HIPAA standards, Data Privacy legislation, SOX and other relevant audit/compliance requirements through the implementation of policies, standards, process improvements, etc.
+· Working knowledge of FISMA, FedRAMP, NIST Risk Management Framework, C&A/A&A
+· Establish a formal Insider Risk program, in close collaboration with HR and Legal leadership, to more effectively track and respond to insider threats.
+· Management and oversight of Incident Response efforts to proactively identify critical threats / vulnerabilities and quickly remediate security and privacy incidents.
+· Direct DGS Data Privacy program efforts to ensure effective Third Party Risk Assessment procedures, proper encryption and other controls are in place to effectively protect DGS, the Company, and government customer information assets in the Cloud or On-Premise.
+· Manage Information Security team and multiple vendors to ensure successful execution of Security team goals, manage allocated budget, monitor performance metrics and drive process improvements as needed.
+· Increase Information Security and Data Privacy awareness across DGS through formal training, periodic communications and interaction with key stakeholders to highlight the need to protect the Company, DGS and government customer information assets. Lead any IS forensic analyses in support of approved Legal investigations for the DGS team.
+Qualifications Experience
+· 10-15 years’ experience working with all levels of Management as well as directing project teams
+· Deep technical experience and knowledge of Information Security, IS, networks, cloud, etc
+Information Security training and certifications:
+· (CISSP, GIAC, CISM, etc.) Preferred
+

@@ -1,0 +1,30 @@
+TECO Energy
+Job title : Director of Security
+Job location : Tampa/St. Petersburg, Florida Area
+
+Employer name :
+Job description :
+POSITION CONCEPT: Our Director IT Security position partners with the business units throughout the Emera family to establish objectives, strategies, plans, policies and programs for the Company’s information technology in the area of cyber security with a focus on both enterprise IT technologies and business operational technologies (OT). Ensures that all IT and OT cyber systems and assets and networks are aligned with the Emera cyber security framework to ensure confidentiality, integrity, availability and reliability for ongoing business operations.
+Provides counsel to the Vice-President of Information Technology, Chief Information Officer and Company officers. Recommends effective and efficient security technology and compliance with industry cyber security regulatory requirements, future industry trends and corporate business plans to ensure the alignment and accomplishment of Company goals and strategies.
+PRIMARY DUTIES AND RESPONSIBILITIES
+· Provides leadership in all aspects of Information Technology Security management including policies, procedures, technical designs and controls to effectively protect the corporate network and information assets from intentional or inadvertent modification, disclosure or destruction. Scope includes all systems technologies attached to the corporate network, operational technologies supporting the Bulk Electric System, and connections to the Internet and external networks. Prepares information/reports for the Emera Board of Directors and Audit Committee.
+· Accountable for partnering with Company business units and Emera parent company representatives on the implementation of policies and plans as they effect strategic direction, future industry trends and cyber security related regulatory requirements. Actively engages in regional and national industry initiatives and groups related to Critical Infrastructure cyber security, threat and information sharing, and compliance. Ensure compliance with information security related regulatory requirements such as Sarbanes/Oxley, NERC Cyber Security Standards and Payment Card Industry (PCI) requirements.
+· Oversees the program to ensure the capability of monitoring and response to cyber incidents across the Emera affiliates including the Cyber Security Operations Center and the Emergency Contingency Response Plan (for cyber related incidents).
+· Provides oversight to programs to measure and improve the overall TECO security posture, such as Security Awareness, Metrics and Architecture.
+Education
+Required: Bachelor’s degree in Computer Science, Management Information Systems, Information Technology or related field; or equivalent in formal education.
+Preferred: Master’s Degree in Cyber Security, Information Technology or Business Administration
+Licenses/Certifications
+Required: Industry recognized cyber security certification over multiple domains preferred (CISSP, CISM or SANS GIAC).
+Experience
+Required: Minimum of 10 years experience in information technology, with at least six years in information security.
+Supervisory Experience
+Required: Minimum of five years in a managerial capacity
+Knowledge/Skills/Abilities (KSA)
+Required:
+· Individual in this position will possess an expert level of knowledge in the discipline of information security as well as a high level of competency in architecture, methodologies and best practices for network, operating system, database, and application security.
+· Must have demonstrated sound technical knowledge in areas critical to the security infrastructure (i.e., firewalls, Database Technology, Operating Systems, Remote Access Tools, network security architecture).
+· Strong project management background required.
+DIMENSIONS
+Business & Job Knowledge, Judgment, Ownership & Excellence, Developing People, Adaptability/Leading Change, Vision & Strategy
+

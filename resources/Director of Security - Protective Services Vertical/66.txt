@@ -1,0 +1,37 @@
+CyberCoders
+Job title : Director of Security
+Job location : San Mateo, CA, US
+
+
+Employer name : *Roy Monroy
+
+Job description :
+If you are a Director of Information Security with Security Operations and Compliance experience, please read on!
+Based in beautiful San Mateo, CA, we are one of the most exciting start-up companies to hit the news. We are a global cloud infrastructure company that offers a suite of SaaS applications to efficiently manage loan portfolios, increase transaction volume, and rapidly bring new products to market for financial institutions all over the world. We are looking to hire a Director of Information Security that possesses solid experience in information security, security operations, and compliance to join our team.
+We are actively interviewing this week, if this sounds like you, please apply immediately or send your resume directly to lowell.santos@cybercoders.com.
+What You Will Be Doing
+· Day-to-day operational management and maintenance of various technologies in use
+· Creating the automation needed to monitor the detection technologies for the enterprise
+· Development of new data feeds and services including the writing of data parsers, installation of data connectors and log collectors, and tuning and aggregation of these sources
+· Must maintain an advanced level of understanding of the technologies involved with service delivery and troubleshooting to support operations
+What You Need for this Position
+· 7+ years' experience with Information Security (at least 2 years in a lead or leadership role)
+· Experienced with Security Operations (e.g. SIEM, IDS, IPS)
+· Experienced with Security Compliance (i.e. SOC, ISO, PCI, etc.)
+· Experience speaking with clients in the sales process to provide security expertise and address any vendor questions.
+· Experience in a SaaS environment and/or Financial Services industry
+What's In It for You
+· Competitive salary
+· Benefits
+· Stock Options
+· Unlimited Vacation!
+So, if you are a Director of Information Security with Security Operations and Compliance experience, please apply today!
+Email Your Resume In Word To
+Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:
+Roy.Monroy@CyberCoders.com
+· Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : LS4-1329450 -- in the email subject line for your application to be considered.***
+Roy Monroy - VP of Recruiting - CyberCoders
+Applicants must be authorized to work in the U.S.
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.

@@ -1,0 +1,2 @@
+2-3 years of software development experience with Javascript MVC libraries such as React
+Have experience with ReactJS, Redux, GraphQL, or Apollo 

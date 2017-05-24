@@ -1,0 +1,40 @@
+Salesforce
+Job title : Director of Security
+Job location : Bellevue, WA, US
+
+Employer name :
+Job description :
+Senior Director Security Product & Program Management
+Location: Bellevue, WA
+Overview
+Trust is the #1 company value at salesforce. Are you the type of person that seeks out roadblocks or tough organizational issues and views those as an opportunity? Do you think of creative solutions to complex problems and solve them? Are you looking for a role where you can own a portfolio of technology security initiatives, lead, and deliver critical projects like pen test remediation, bug remediation, engineering development, and detection and response? Do you enjoy creating light processes to make everyone’s life easier and bring order into chaos? Are you passionate about security and understand that there is always more than need to be done than available resources? Does the idea of constantly changing, high impact work excite you? Have you solved thorny problems where others have failed? While our ideal candidate is highly technical, have you been effective without a deep technical background because you can ask the right questions on highly technical topics so work gets done? Would you love to work with some of the world’s top security talent? If so, we want to hear from you!
+Description
+We are seeking a highly skilled multi-faceted Sr. Director, Security Program Management with proven experience managing complex technology programs spanning IT, infrastructure, data centers and information security that is willing to be hands on. Your communication, data analysis, program & project management, and ability to successfully execute in a matrix environment will ensure your success in this capacity. This is a role that will manage a very small team of highly experience Sr. Security Technical Program Managers while also doing hands on work.
+Required Skills
+· 12+ years experience managing large highly complex security programs/projects
+· Technical knowledge in one or more of the following: security, security architecture, cloud architecture, product security, detection and response is required, but not an engineering knowledge level
+· Track record of successfully building alliances with teams in a matrix environment
+· Ability to establish credibility and rapport with senior executives and technical and non-technical team members alike
+· Ability to successfully collaborate with multiple technical functions in the areas of infrastructure, technical operations, software engineering and security.
+· Outstanding detail-oriented organizational skills
+· Ability to be flexible with a positive attitude and learn quickly in a dynamic environment;
+· Strong self starter with a history of successful project execution
+· Strong quantitative and analytical skills, proven ability to track and successfully complete complex programs
+· Strong influencing skills with an ability to motivate and drive others to succeed;
+· Information Systems OR Computer Science Bachelor's Degree
+DESIRED SKILLS:
+· Previous Salesforce Infrastructure and Security experience is a HUGE PLUS
+· Thorough understanding of enterprise software development and infrastructure processes and lifecycle; ability to adjust and apply this knowledge in a dynamic environment using agile or similar methodologies
+· Understanding of software development, build, test, test automation and all phases of SDLC from coding to deployment.
+· CISM and/or CISSP certification
+· Agile/Lean certified a plus
+· Strong MS Project, Word, Visio, PowerPoint, and Excel skills
+· Experience with Salesforce reporting and dashboards
+· Seasoned professional in corporate communications, presentation, and risk awareness
+· Experience in driving key information security, compliance and other regulatory requirements internally and externally
+· Information Systems Or Computer Science Masters Degree
+Salesforce, the Customer Success Platform and world's #1 CRM, empowers companies to connect with their customers in a whole new way. We are the fastest growing of the top 10 enterprise software companies, the World’s Most Innovative Company according to Forbes, and one of Fortune’s 100 Best Companies to Work For six years running. The growth, innovation, and Aloha spirit of Salesforce are driven by our incredible employees who thrive on delivering success for our customers while also finding time to give back through our 1/1/1 model, which leverages 1% of our time, equity, and product to improve communities around the world. Salesforce is a team sport, and we play to win. Join us!
+  com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay fees to any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.
+EEO - It's the law.
+Accessibility – If you require accessibility assistance applying for open positions please contact applicant_access@salesforce.com .
+Pay Transparency Policy Statement – The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.

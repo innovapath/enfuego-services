@@ -1,0 +1,40 @@
+Apple & Associates
+Job title : Director of Security
+Job location : Boston, MA, US
+
+
+Employer name :
+Job description :
+Director of Security Engineering
+Take your hands-on passion of a security-first posture to a recently public company who will appreciate your talents? Enjoy the challenge of auditing the SAAS architecture of 26 data centers worldwide, and offices in 3 countries? Want the freedom and responsibility to design the platform and hire the talent to deliver on best practices where the CEO has designated this position as one of his top 1% of hires in 2017?
+As Director of Security Engineering you will be paramount in solving their most complex security challenges. They made a heavy investment in cloud technology. As the leader of the security engineering team you will be the most senior security Subject Matter Expert.
+Job Duties
+You will engage in all aspects of assessing, designing, building, and maintaining our security infrastructure and services. You will specifically engage in:
+· Assess overall security posture. Redesign or evolve the posture as necessary to meet all the needs of a modern SaaS organization
+· Define what it means to be best-in-class as a security organization
+· Build a team that will meet and exceed expectations
+· Evaluate and potentially redesign our security checks to ensure optimal platform security
+· Provide technical expertise relevant to the development, implementation, and updates to security policies, procedures, guidelines to ensure company compliance
+· Maintain and improve processes, tools, and documentation that will support production security requirements in the best manner possible
+· You will also be responsible for running the day to day security functions’ This includes:
+· Defining and maintaining good security hygiene throughout the SDLC process
+· Conducting continuous network and application vulnerability scans
+· Running security monitoring, alerting, and reporting to identify actionable security intelligence
+· Supporting security and compliance evaluations with vulnerability scans, penetration testing and compliance documentation and remediation
+· Evaluating vendors and partner’s security posture and working with them to meet standards
+Basic Qualifications
+· 8+ years of experience in a hands on security engineering role. The majority of this should have been within a Linux/Unix environment. Would love it if you’ve worked with Ubuntu/Debian
+· You will need a specific understanding of application and operating system hardening, vulnerability assessments, security auditing, TCP/IP & network fundamentals, intrusion detection systems, firewalls, VPNs, WAFs.
+· You will need a solid understanding of hybrid-cloud environments and how they present specific challenges to the security field.
+· You must be experienced with designing and running security solutions with the following tools: vulnerability scanners, forensics software, SIEM, HIDS/NIDS//IPS, malware analysis and protection, content filtering, logical access controls, physical access controls, identity and access management, data loss prevention, content filtering technologies, application firewalls, security incident response techniques.
+· Strong knowledge of IPv4/6 protocols and analysis
+· Experience with secure network firewall, application firewall, and DDoS prevention technologies
+Desired Qualifications
+· Expertise with security compliance or risk management would be helpful
+· Knowledge of SANS Top 20 Critical Security Controls and OWASP Top 10
+· Knowledge of global and domestic regulations and standards (FISMA/NIST, SSAE-16, HIPPA, Safe Harbor, ISO 27001/27002, GLBA, and SOX) would be helpful
+· Would love it if you had a background with ITIL/ITSM processes, or understand how Agile/Kanban/Lean methodologies can be applied to IT/Operations workflow
+· Holding a CISSP, CEH, CSSLP or equivalent is a plus
+More detail about 4-6 month expected deliverables are available for an otherwise qualified candidate.
+About The Company
+Young company of about 460 has over 2,700 global customers and offers the ability to reach more than 200 countries and territories with secure delivery to over 100 different communication devices. With headquarters in both Boston and Los Angeles, serves some of largest U.S. cities, largest U.S.-based investment banks, 24 of the busiest North American airports, and more than half the 10 largest global automakers. With a culture committed to “Making a Difference,” has been named a “Best Place to Work” by both the Boston and Los Angeles Business Journals! Had a successful public offering in Sep 2016 and is poised for additional investment in their own growth.

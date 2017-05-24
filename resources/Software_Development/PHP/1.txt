@@ -1,0 +1,3 @@
+Proven software development experience in PHP
+Understanding of open source projects like Joomla, Drupal, Wikis, osCommerce, etc
+Experience in common third-party APIs (Google, Facebook, Ebay etc)

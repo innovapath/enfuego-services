@@ -1,0 +1,12 @@
+2-3 years of software development experience with Javascript MVC libraries such as React or Angular 
+Curiosity, Passion and Enthusiasm for learning new technologies and methods, as well as a desire to build things that delight users 
+To be a true team player; adept at working with multiple people at any given time 
+To be someone who anticipates needs before they arise 
+Excellent problem solving and communication skills 
+Organized, agile, and an obsession to achieve the highest quality 
+Extra bonus points if you:
+Have experience with ReactJS, Redux, GraphQL, or Apollo 
+Working experience with Git, LESS or SASS 
+Familiar with semantic HTML elements 
+Have written unit tests for web applications
+Familiar with JIRA, or similar agile tracking program 

@@ -1,0 +1,11 @@
+Demonstrate understanding of database implementations in Oracle, Postgres, SqlServer, or MySql environment
+Focus and initiative in learning and enhancing existing products and future enhancements
+Experience with DBMS management and monitoring tools involving Oracle, Postgres, SqlServer, Sybase, or MySql implementations
+experience with SQL in Oracle, Postgres, SqlServer, Sybase, or MySql
+experience in database object oriented design and implementation
+Ability to manage multiple deliverables with competing deadlines
+Strong written and oral communication skills
+Strong analytical, problem-identification and implementation analysis skills
+Strong organizational skills working in a fast-paced environment
+SQL in Oracle, Postgres, SqlServer, Sybase, or MySql
+“Hands-on” development involving SQL in a Postgres/Oracle environment linked with JDBC, XML, and web technologies

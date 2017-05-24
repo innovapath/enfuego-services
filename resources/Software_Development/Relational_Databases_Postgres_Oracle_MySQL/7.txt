@@ -1,0 +1,3 @@
+5+ years of experience working as a SQL Developer (stored procedures)
+Experience working with relational databases- specifically Teradata
+Experience with dimensional modeling and fact dimension tables.

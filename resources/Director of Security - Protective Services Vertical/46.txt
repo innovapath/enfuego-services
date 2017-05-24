@@ -1,0 +1,28 @@
+Jet.com
+Job title : Director of Security
+Job location : Hoboken, NJ, US
+
+Employer name : Edward Genikhovich
+Job description :
+About Jet
+Jet’s mission is to become the smartest way to shop and save on pretty much anything. Combining a revolutionary pricing engine, a world-class technology and fulfillment platform, and incredible customer service, we’ve set out to create a new kind of e-commerce.  At Jet, we’re passionate about empowering people to live and work brilliant.
+You will be responsible for preparation, execution and remediation programs of the application security aspects for Jet.
+About Jet’s Internal Engine
+We’re building a new kind of company, and we’re building it from the inside out, which means that investing in hiring, developing, and retaining the brightest minds in the world is a top priority. Everything we do is grounded in three simple values:  trust, transparency, and fairness.  From our business model to our culture, we live our values to the extreme, whether we’re dealing with employees, retail partners, or consumers.  We believe that happiness is the highest level of success and we want every person that crosses paths with Jet to achieve it.  If you’re an ambitious, smart, natural collaborator who likes taking risks, influencing, and innovating in a challenging hyper-growth environment, we’d love to talk to you about joining our team.
+About The Job
+The Application Security Director will be responsible for demonstrating Jet’s dedication to the security and privacy of our customer’s data by leading programs that ensure that Jet continues to develop secure software, all while continuing to create innovate solutions that provide meaningful savings to our customers.
+About The Role
+· Lead the Application Security team responsible for regular application security assessments
+· Implement a process for an end-to-end application security program using automated tools and manual techniques to identify and verify exposure to common security vulnerabilities and provide remediation guidance
+· Act as source of and/or conduit to information security subject matter expertise in Application Security
+· Perform technical security assessments, secure code audits, and design reviews
+· Advocate for security and secure coding practices throughout Jet
+· Ensure the ongoing integration of application security with business strategies and requirements 
+About You
+· 5 - 10 years of experience in information security, preferably with some experience in application development or securing web applications
+· Deep understanding of information technology and application security practices, including the areas of platform architecture, application security modeling, and systems integrity
+· Subject matter expert in the tools used to build an Application Security program
+· Experience leading an application security team at a dynamic, innovative company
+· Extraordinarily technical and able to do hands on work when needed
+· Knowledgeable about secure development life-cycle, threat modeling, and web application security assessments
+

@@ -1,0 +1,40 @@
+Equifax
+Job title : Director of Security
+Job location : Alpharetta, GA, US
+
+
+Employer name :
+Job description :
+Sr. Director of Security Operations
+USA - Georgia - Alpharetta - 30005
+The Sr. Director of Security Advisement Team is responsible for leading strategy, lifecycle, and maintenance of the existing technical security controls that protect Equifax. This role will also be responsible for making sure that all M&A’s are brought into the Equifax standard technical security control set by ensuring best practices are implemented uniformly across the Equifax network. Lastly, this role will be a player-coach and participate in advisements and be responsible leading and growing a small team of engineers that will work closely with internal Business Units and the Cyber Intelligence team to ensure Equifax security controls are up to date and capable of mitigates current and likely threats to Equifax networks.
+Position Requirements
+· Experience with integrating/implementing security controls for new M&A’s and managing dynamic requirments while still being effective
+· Prior experience managing security personnel of all levels
+· Define, gather, and report on applicable metrics regarding the delivery of security monitoring within the Equifax environment
+· Experience and knowledge with Cloud Security and experience working with Cloud Security vendors (Amazon, Microsoft and Google)
+· Expert knowledge of network and security protocols and principles such as: TCP/IP, defense in depth, granularity of privilege, etc.
+· CISSP (Certified Information Systems Security Professional) certification required. CISA (Certified Information Systems Auditor) certification desired.
+Position Attributes
+· B.S. Computer Science/Engineering or similar technical degree program
+· 10-15 years previous technical experience with networking and/or software development background
+· Expert knowledge regarding Network Security Mitigation practices and consulting
+· A pragmatic outlook that understands security “problems” as a balance of security and business requirements
+· Experience with multiple OS platforms, to include Linux, Unix, Windows and AIX
+· Experience in monitoring and managing network and host-based intrusion detection/prevention, data loss prevention, malware detection/prevention, vulnerability scanning solutions, DDOS protection, Security Event/Information Management, host-based integrity checking, end-point security, AV, Proxies, Database Monitoring, etc.
+Core Competencies
+· Results Focused: Focuses on the critical few objectives that add the most value and consistently delivers results that meet or exceed expectations.
+· Imports and Exports Good Ideas: Relentlessly seeks, shares and adopts ideas and best practices in and outside the Company and embraces change introduced by others.
+· Teamwork: Lead team and ensure theymeet all team deadlines and responsibilities, listens to others and values opinions, helps team leader to meet goals, freely provides needed information, proactively supports other team members, welcomes newcomers and promotes a team atmosphere, builds relationships across the organization.
+· Problem Solving/Analysis: Breaks down problems into smaller components, understands underlying issues, can simplify and process complex issues, understands the difference between critical details and unimportant facts.
+Primary Location:
+USA-Atlanta JV White
+Function
+Function - Security Governance and Compliance
+Schedule
+Full time
+Posted 22 Days Ago Full time J00039311
+Equifax powers the financial future of individuals and organizations around the world. Using the combined strength of unique trusted data, technology and innovative analytics, Equifax has grown from a consumer credit company into a leading provider of insights and knowledge that helps its customers make informed decisions. The company organizes, assimilates and analyzes data on more than 600 million consumers and more than 80 million businesses worldwide, and its databases includes employee data contributed from more than 5000 employers.
+Headquartered in Atlanta, Ga., Equifax operates or has investments in 21 countries in North America, Central and South America, Europe and the Asia Pacific region. It is a member of Standard & Poor's (S&P) 500® Index, and its common stock is traded on the New York Stock Exchange (NYSE) under the symbol EFX. Equifax employs approximately 9,200 employees worldwide.
+Some noteworthy achievements for the company include: Ranked 13 on the American BankerFinTech Forward list (2015); named a Top Technology Provider on the FinTech 100 list (2004-2015); named an InformationWeek Elite 100 Winner (2014-2015); named a Top Workplace by Atlanta Journal Constitution (2013-2015); named one of Fortune’sWorld’s Most Admired Companies (2011-2015); named one of Forbes’ World’s 100 Most Innovative Companies (2015). For more information, visit www.equifax.com
+Equifax is an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.

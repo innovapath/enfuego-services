@@ -1,0 +1,45 @@
+Marsh
+Job title : Director of Security
+Job location : Chicago, IL, US
+
+Employer name :
+Job description :
+Description
+Marsh is a global leader in insurance broking and risk management. In more than 130 countries, our experts in every facet of risk and across industries help clients to anticipate, quantify, and more fully understand the range of risks they face. We work with clients of all sizes to define, design, and deliver innovative solutions to better quantify and manage risk. We offer risk management, risk consulting, insurance broking, alternative risk financing, and insurance program management services to businesses, government entities, organizations, and individuals around the world. To every client interaction we bring an unmatched combination of deep intellectual capital, industry-specific expertise, global experience, and collaboration. Since 1871, clients have relied on Marsh for trusted advice, to represent their interests in the marketplace, make sense of an increasingly complex world, and help turn risks into new opportunities for growth. Our more than 30,000 colleagues work on behalf of our clients, who are enterprises of all sizes in every industry, and include individuals, multinational organizations, and government entities worldwide. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. Visit www.marsh.com for more information and follow us on LinkedIn and Twitter @MarshGlobal Marsh and its separately incorporated operating entities around the world are part of Marsh & McLennan Companies, a publicly held company (ticker symbol: MMC).
+Summary
+Manages the data security group in protecting information systems assets from intentional or inadvertent modification, disclosure or destruction. Develops and maintains a strategic plan, group objectives, and a mission statement for the data security group. Establishes and leads the data security steering committee consisting of representatives from each business unit in addressing the overall data security needs of Marsh.
+Responsibilities
+· Develops and introduces Marsh data security policies and procedures for use by individual business units in protecting information systems and data
+· Identifies business security coordinators within each business unit and assists them in implementing data security policies and procedures
+· Supervises the authorization and control of access to information resources administered by the business security coordinators
+· Manages data security awareness and training programs for all employees responsible for administering data processing and information resources
+· Consults with Marsh internal audit and legal departments to ensure Marsh compliance with state and federal security and privacy of information laws
+· Evaluates and recommends security software and hardware, encryption methods, authentication servers, and control techniques needed to secure data and information systems. In conjunction with vendors and computer operations and systems staff identifies and resolves security problems with software packages
+· Evaluates the impact of new or proposed vendor enhancements and monitors the testing and implementation of the same
+· Creates standard Marsh guidelines regarding data security arrangements with outsourcing organizations for use by business units in establishing outsourcing contracts
+· Maintains an in-depth knowledge of information security technology
+· Identifies risk to business and understands how security policies and actions can impact business, customers and users
+· Professionally represents Marsh in front of customers and provides appropriate responses to customers from Information security standpoint
+· Defines and Implements Global Security Operations needs for individual business units including prompt identification, responses, management escalation as necessary for any existing or anticipated security incidents
+· Assist with Vendor selection, contract negotiations, set and measure metrics and SLAs for managed hosting/cloud solutions provider
+Job Qualifications
+· Minimum of 8+ years of relevant work experience, including 3-5 years of managing data security administration for a multinational corporation
+· Achieves on-going security support services, departmental goals, personal goals as outlined on annual scorecard
+· Consistently performs in the top of peer group and is recognized as a subject matter expert for Information security
+· Works with On and offshore resources to support the global business need
+· Graduation from a college or university with a Bachelor’s degree
+· Possess 8-12 years of related experience in information systems and/or Information security management
+· Ability to multi-task and meet multiple deadlines
+· Working knowledge of all SaaS systems and technologies and business computer applications
+· Sits for long periods of time
+· Demonstrates sufficient hand, arm and finger dexterity to operate computer keyboard and other office equipment
+Marsh & McLennan Companies offers competitive salaries and comprehensive benefits and programs including: health and welfare, tuition assistance, 401K, employee assistance program, domestic partnership benefits, career mobility, employee network groups, volunteer opportunities, and other programs. For more information about our company, please visit us at: http://www.mmc.com/. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. For more information, please visit us at: www.mmc.com/diversity .
+Marsh & McLennan Companies and its Affiliates are EOE Minority/Female/Disability/Vet/Sexual Orientation/Gender Identity employers
+Job
+Compliance/Regulatory Services
+Primary Location
+US-IL-Chicago
+Other Locations
+US-TX-Amarillo, US-GA-Atlanta
+Marsh %26 McLennan Companies and its Affiliates
+are EOE Minority/Female/Disability/Vet/Sexual Orientation/Gender Identity employers.

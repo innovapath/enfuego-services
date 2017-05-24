@@ -1,0 +1,17 @@
+Strong skills in developing web applications.
+
+Experience with 3rd party JavaScript libraries and frameworks (JQuery, React, Ember.js, or similar).
+
+Experience with Java and Java-related technologies.
+
+Preference given to those having experience with open source technologies such as Spring, Spring MVC.
+
+Preference given to those with experience in high availability and highly scalable web environment.
+
+Extensive experience in coding and debugging.
+
+Familiar with cross-browser and cross-platform compatibility issues.
+
+Knowledge of accessibility issues and SEC 508 compliance.
+
+Strong understanding of web standards, content management, web page layout, information architecture, user interaction, and usability.

@@ -1,0 +1,7 @@
+In this role, the Automation Tester is supposed drive on software testing and maintenance of the Unified Train Control System (UTCS). UTCS system is an enterprise level system used by Norfolk Southern (NS) Railroad to control train movement and planning functions. Candidate in this role is expected to work closely with the software development and test team in providing root cause analysis and solution for the issues reported by customers. The tester is expected to assist software development team in performing sub-system and system level software verification testing. The software engineer will utilize experience or expertise to solve problems, develop and execute objectives for self and others, and have the ability to effect short-term and some long-term business goals.
+Work as an individual contributor and take guidance from software technical leader,
+Experience with Software Testing in Rail Domain to test standalone desktop applications
+Experience with Java & Selenium Testing Framework in Rail Domain to test standalone desktop applications,
+Experience with Testing web application and technologies desirable,
+Ability to work with a cross-functional team.
+Domain knowledge in Railroad Operating Practices.

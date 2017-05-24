@@ -1,0 +1,32 @@
+Pet Supermarket
+Job title : Director of Security
+Job location : Fort Lauderdale, Florida
+
+
+Employer name :
+Job description :
+Job Overview
+The Director, IT Security will provide strategic architecture leadership and knowledge for Pet Retail Brands. The Director will create, evolve and support the information security strategy and security architecture roadmap, including required security tools, processes, controls, and incident response management. This role will work closely with IT, Legal, and other key business leaders to define and ensure compliance to the information security polices and standards.
+Essential Duties and Responsibilities
+· Establish security program and standards, and execute to the program. Leading the execution of the program, improving the security of the networks, and applications, assessing current state, perform gap assessments, anticipating future requirements, and providing actionable recommendations.
+· Develop an enterprise incident response plan, including process to collect and provide forensics data or guidance as needed
+· Identify gaps in vulnerability, IT risk and threat management, and develop innovative solutions to close identified gaps. Assess IT network and security architectures as they relate to managing identities and access privileges, delegated administration models, workflow and access control models.
+· Create security awareness program to promote and educate users.
+· Develop processes and controls with respect to electronic and non-electronic data
+· Create security operations strategy, architect and design on security solutions (SIEM, IDS, IPS)
+· Responsible for IT compliance to PCI, HIPAA, and SOX and is the IT contact for audit and compliance activities
+· Manage vendor relationships relating to security services and compliance
+· Understand current regulatory environment and related implication to security management
+· Design Security KPI’s and executive dashboard measuring security activities, risk, and actions. Present to executive management on a regular basis.
+Education and/or Experience
+· The ideal candidate would have 10+ years in progressively sophisticated roles in information security engineering and/ or IT architect, the position requires a strong, diverse technical background and truly exceptional oral and written communications skills. The candidate must demonstrate proven success in working in a team.
+· A Bachelor's degree in a technical discipline (e.g., Computer Science, Information Science, etc.) or an equivalent combination of education and work experience
+· Understanding of network, cloud and application architecture and concepts, and interoperability of these architectures with one another
+· Distinctive understanding of performing a risk assessment and establishing a risk treatment plan
+· Strength in developing strong working relationships and ability to lead projects
+· Ability to coordinate and perform multiple tasks/projects simultaneously, balancing priorities and deliverables
+· High flexibility, including willingness to travel
+Computer Skills
+· Experience with and understanding of HIPAA/PCI, SOX and the technical compliance requirements
+· CISSP, ISSEP, CISM, CEH, GIAC, CRISC a plus
+

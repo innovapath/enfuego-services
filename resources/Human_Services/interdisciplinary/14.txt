@@ -1,0 +1,33 @@
+Intellectual Ventures
+
+Job title: Humanitarian 
+Job location: Greater Seattle Area
+Job description: 
+Intellectual Ventures (IV) Lab is part of Intellectual Ventures' efforts to support invention. IV Lab works on the very beginning stages of invention, validating the concept and refining the technology to demonstrate its potential for commercial or humanitarian use. IV Lab believes in the power of independent and unconventional approaches to problems. The broad range of Intellectual Ventures' invention activity provides IV Lab the opportunity for a breadth of expertise across fields including computer network security, computational modeling, electrical and mechanical engineering, software development, chemistry, microbiology, materials science, nanotechnology, physics, medical devices, and aerospace engineering. IV Lab's unique environment has attracted veteran technologists and scientists from leading companies and renowned academic, government and private laboratories.
+The Intelligent Systems Group (ISG) is a research group within IV Lab that develops intelligent sensing platforms. ISG is an interdisciplinary group with core capabilities in optical and electronic hardware design, signal and image processing, and advanced machine learning and computer vision algorithm development. ISG focuses on applications relevant to global health and development.
+The Senior Machine-Learning Algorithm Development Software Engineer (ML SE) will provide technical leadership to fast-paced machine-learning development projects (e.g., ultrasound image analysis, microscopy diagnosis) within ISG. The incumbent will be responsible for the system architecture definition, system performance analysis, design, developing the CNN feature-extraction modules and testing of complex software systems. In addition, the candidate should have experience and skills in project planning, budget & schedule management, and communication with stakeholders. The successful candidate will demonstrate the ability to think creatively and to operate within a flexible, fast-paced development environment dedicated to converting advanced research machine-learning algorithm development concepts into real-world functional solutions.
+Technical competency and the ability to find creative solutions to difficult problems are critical skills in this position. The successful candidate must be able to resolve complex technical problems and address design challenges using an interdisciplinary approach that utilizes skills in multiple technical areas. Strong machine-learning and software engineering foundations are required in system architectures, software systems, cloud computing, GPU, software design/development processes, and physics and optics.
+This position reports to the Manager of the Intelligent Systems Group.
+Responsibilities:
+· Provide technical leadership.
+· Perform high-level system modeling, system framework development, CNN-based feature-extraction algorithms, and system trades based on algorithm performance for various project-funded applications of machine-learning.
+· Work as a strong contributing member of a small R&D team to establish system architectures/frameworks, designs (CNN training/validation and tests), and report on performance results.
+· Perform testing on algorithms and evaluate test results.
+· Conduct design reviews with technical peers and management.
+· Adhere to best-in-class software processes and create associated documents.
+· Create intellectual property (IP) and submit disclosures.
+· Minimal travel requirements.
+Key Qualifications and Required Skills:
+· More than five years of experience required as a Software Machine-Learning Algorithms Engineer, Computer Vision Engineer/Scientist, Research Software Engineer or related field.
+· Advanced degree in Computer Science, Software Engineering or equivalent is required. Ph.D. degree is desired.
+· Proficiency and experience with machine-learning algorithms (DNN, CNN) in support of computer vision and object recognition/identification.
+· Proficiency and experience with classifiers, such as Logistic Regression (LR) and Support Vector Machine (SVM).
+· Proficiency and experience with medical image processing systems is desired.
+· Proficiency and experience in Linux, MatLab, Python, and SQL is required.
+· Proficient with design optimization techniques, data processing, and scientific computing algorithms is required.
+· Proficiency and experience with software configuration management (SCM) is required. Extensive experience of git in a project team environment is desired.
+· Good communication skills, both written and verbal, are required.
+· Ability to work as a strong contributing member of a small R&D team.
+· A ‘get it done’ attitude is required.
+We are an equal opportunity employer.
+

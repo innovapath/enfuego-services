@@ -1,0 +1,7 @@
+Four (4) or more years experience in relational database design and development using SQL Server is required
+Two or more years of experience developing well performing ETL solutions using SSIS or other ETL tools in DW environments.
+Fundamental understanding of standard data warehousing concepts and architecture.
+Develop new and tune existing SQL queries as needed
+Maintain and improve existing applications.
+troubleshoot database issues individually or through a team effort
+Investigate and resolve data issues as needed.

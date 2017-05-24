@@ -1,0 +1,13 @@
+Deep knowledge of AngularJS practices and commonly used modules based on extensive work experience
+Creating self-contained, reusable, and testable modules and components
+Ensuring a clear dependency chain, in regard to the app logic as well as the file system
+Ability to provide SEO solutions for single page apps
+Extensive knowledge of CSS and JS methods for providing performant visual effects and keeping the framerate above 30fps at all times
+Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system
+Validating user actions on the client side and providing responsive feedback
+Writing non-blocking code, and resorting to advanced techniques such as multi-threading, when needed
+Creating custom, general use modules and components which extend the elements and modules of core AngularJS
+Experience with all levels of operation available to the front-end, such as from creating XHRs in vanilla JS to using a custom wrapper around $resource
+Experience with building the infrastructure for serving the front-end app and assets
+Architecting and automating the build process for production, using task runners or scripts
+Documenting the code inline using JSDoc or other conventions

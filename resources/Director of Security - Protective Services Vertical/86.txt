@@ -1,0 +1,42 @@
+Align Technology
+Job title : Director of Security
+Job location : Raleigh ,North Carolina,United States
+
+
+Employer name :
+Job description :
+Sr. Director, Security and Compliance
+Summary
+This position reports to the CIO, is a member of the CIO leadership team and works closely with senior leaders across the company to advocate for the company’s total information security needs. They are responsible for the development and delivery of a comprehensive information security strategy to optimize the security posture of the company. They lead the development and implementation of a security program that leverages collaborations and company-wide resources, facilitates information security governance, advises senior leadership on security direction and resource investments, and designs appropriate policies to manage information security risk.
+Responsibilities
+· Determines the overall direction and strategy of the Information Security function
+· Determines, builds and optimizes effective security and privacy governance to ensure complete security of organizational data
+· Facilitates security risk assessment and risk management processes
+· Develops and implements an end-to-end information security management system that aligns with the risk profile, and existing compliance initiatives and efforts
+· Designs and implements 3rd party secure connectivity models and standards
+· Responsible for application, infrastructure and 3rd party risk assessments
+· Accountable for end-point, network, hardware, software, data and procedures and support secure system operations and maintenance
+· Effectively perform and manage secure engineering analysis, risk and vulnerability assessment, penetration testing (white box and black box)
+· Lead strategic technology planning to achieve business goals, including the ability to articulate ideas to both technical and non-technical groups, and business case justifications for technology and security spending initiatives.
+· Analyze and improve upon existing security standards across the organization to maintain a competitive edge within the market and remain current to the changing threat landscape
+· Establish annual and long-range security and compliance goals, define security strategies, metrics, reporting mechanisms and program services; and create maturity models and a roadmap for continual program improvements
+· This role is accountable to maintain technical compliance to regulations and standards, such as SoX, data privacy, HIPAA
+· Participate in external client audits and vendor audits
+· Author or coordinate the development and maintenance of System Security Plan, Incident Response plans, Contingency Plans and Continuity of Operations plans
+· In conjunction with other IT leaders, develop, implement and maintain department policies and standards designed to maximize effectiveness and minimize costs related to the acquisition, implementation and operation of enterprise applications and infrastructure systems in a secure manner
+· Partner with internal/external clients to ensure a high degree of system security
+· Stay well-informed of technological advances and continuously research better ways to accomplish tasks, and integrate new security technologies
+· Educate Align employees on security policies, changes to regulations and their responsibilities
+Requirements
+· Bachelor's Degree in Computer Science, related field, or equivalent experience
+· 12 or more years of professional IT security experience in large scale, global environment with hands on experience in multiple technologies and multiple roles
+· At least 7 years of leading IT security and compliance teams across various functions including infrastructure, production operations, application design and development, rollouts with a multi-year roadmap
+· CISM or CISSP certification
+· Broad experience with security in cloud deployments, network infrastructure, enterprise applications, multi-platform environments, n-tier architectures and third party integrations
+· Demonstrated knowledge across various facets of IT systems along with vendor products, including custom web applications, manufacturing systems, Salesforce.com, SAP, Workday, Office 365, Business Intelligence and Reporting systems
+· Experience in security and compliance design, development, implementation and operational support of mission critical solutions in large scale global environments and organizations
+· Thorough understanding of enterprise data security best practices
+· Excellent verbal and written communication skills with a wide range of audiences including technologists, executives, business stakeholders and IT team members
+· Excellent interpersonal skills with strong ability to influence others and build a collaborative environment
+· Experience with product evaluations, facilitating RFI/RFP process, proof-of-concept and selection using quantitative and qualitative criteria
+

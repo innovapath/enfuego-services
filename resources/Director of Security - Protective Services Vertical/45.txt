@@ -1,0 +1,23 @@
+Staffogen
+Job title : Director of Security
+Job location : San Francisco Bay Area
+
+Employer name : Raouia Makhoul
+Job description :
+One of our well-known clients in the Bay Area is looking for a Director of Product Security to join their growing team!
+· Technical knowledge in one or more of the following: security, security architecture, cloud architecture, product security, detection and response is required
+· Responsible for managing threat modeling exercises for product teams.
+· Manage ongoing defensive programming training program for engineering teams and ODMs
+· Lead third party cyber security oversight program (ODMs, Customer support, Cloud vendors). Track record of successfully building alliances with teams in a matrix environment
+· Ability to establish credibility and rapport with senior executives and technical and non-technical team members alike
+· Lead third party cyber security oversight program (ODMs, Customer support, Cloud vendors).
+· Ensure PCI compliance for all product groups
+· Ability to successfully collaborate with multiple technical functions in the areas of infrastructure, technical operations, software engineering and security.
+REQUIREMENTS:
+· At least 10+years of experience in Product Security
+· CISM and/or CISSP certification
+· Information Systems OR Computer Science Bachelor's Degree
+· Outstanding detail-oriented organizational skills
+· Strong quantitative and analytical skills, proven ability to track and successfully complete complex security programs
+· Strong influencing skills with an ability to motivate and drive others to succeed
+

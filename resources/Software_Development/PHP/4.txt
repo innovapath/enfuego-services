@@ -1,0 +1,4 @@
+Minimum three (3) years of professional experience in JavaScript (jQuery/moo-tools libraries) and ability to resolve JavaScript conflicts in the PHP based CMS frameworks with 3rd party extensions that may create undesired or unexpected effects on the current Web environment
+Minimum three (3) years of experience interacting with Linux, Apache, MySQL, PHP (LAMP) stack and how those elements interact with each other
+Knowledge of PHP 5.3 and MySQL database version 5.5.xx, or newer
+Knowledge and experience with Git or similar version control system

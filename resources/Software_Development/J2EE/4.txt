@@ -1,0 +1,10 @@
+Strong in Object Model, Core Java and Database.
+Strong in Java/J2EE technologies using frameworks such as Apache CXF or Spring.
+Hands-on experience on connecting to database using JDBC, query and performance tuning.
+Needs to be able to create web services from scratch, the WSDL, the XSD, SOAP calls, preferably using Apache CXF.
+Code Reviews – PMD, JUNIT, Performance, Memory Management.
+Must have exposure to application health check and monitoring in UNIX box.
+Exposure to in Weblogic/Websphere Server Development/Deployment.
+Exposure in developing Javascript RIA (e.g. using jQuery / extJs / HTML5), understanding of Javascript packages.
+Banking experience preferred.
+Should be able to translate business requirements into high level design, detail technical design and implementation.

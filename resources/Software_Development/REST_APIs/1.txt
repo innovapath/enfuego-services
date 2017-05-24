@@ -1,0 +1,5 @@
+An ability to build and improve a REST/JSON API
+Build RESTful APIs to power content creation, sharing, recommendations, rewards, and incentives for Mindshow
+Development utilizing Python, Django, and AWS services
+Analyze code performance and architect optimizations
+Keep up to date with the latest developments and advancements in web tech stacks, gaming integration APIs, cloud services, and serverless technologies

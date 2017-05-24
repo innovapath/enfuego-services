@@ -1,0 +1,41 @@
+Velossent, LLC
+Job title : Director of Security
+Job location : Greater Atlanta Area
+
+Employer name : Jessica Kunde
+Job description :
+We’re looking for a Director of Security Architecture with 8+ years of experience in information security for a great opportunity in Atlanta, GA.
+Our client is an international food industry leader looking for someone to head the functions and services of information security. You will play a key role in being a security expert. You are pragmatic and practical, and exhibit excellent judgement.
+As Director of Security Architecture, you will demonstrate your solid experience assessing risk and developing security controls. You are passionate about security and risk management. You see security as an enabler and differentiator to enable the business through innovation, not a step in the compliance process.
+As Director of Security of Architecture you will:
+· Determine security requirements by evaluating business strategies and requirements; research information security standards
+· Conduct system security and vulnerability analyses and risk assessments
+· Identify, analyze, evaluate, life cycle management, and adoption of security support resources and services across the enterprise
+· Develop security standards and roadmaps to migrate to defined security standards
+· Contribute to the iterative development of application, platform, and data security requirements for all solutions
+· Conduct security reviews of mobile and web-based solutions
+· Assist in the development and implementation of a data security architecture framework
+· Monitor and ensure compliance to policies, standards and procedures to maintain company security
+· Contribute to the development of application, platform, and data security
+· Lead static and dynamic code analysis
+Job Requirements for Security of Architecture:
+· 8+ years of experience in the information security industry
+· 5+ years in a Security Architect role
+· Bachelor’s degree in Management Information Systems or Computer Science, or equivalent experience
+· Systems Engineering or Network Operations background
+· CISSP Certification
+· Experience with lean methods and the software development process
+· Familiarity with lean methods, and software development process
+· Experience with service-oriented architecture and web services security
+· Security and standard and development experience
+· Application-level vulnerability testing and auditing experience
+· Network Operations background and/or Systems Engineering background
+· Knowledge of
+· Knowledge of software security principals such as penetration testing, application testing, and OWASP
+· Knowledge of network and web related protocols such as HTTP, HTTPS, IPSEC, UDP, and TCP/IP
+Bonus Points for:
+· Master’s degree in Management Information Systems or Computer Science
+· PCI, SOX, ISO 27002 certification
+· QSR experience
+Equal Opportunity:
+We and our clients are equal opportunity employers who value diversity at our companies. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

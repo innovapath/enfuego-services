@@ -1,0 +1,24 @@
+Manage multiple, complex programs and projects
+Identify and escalate conflicts and be able to manage trade-offs involving features, cost, design, and schedule
+Drive process optimization and identify opportunities for improving our service offerings
+Effectively communicate with cross functional teams (DevOps, QA, Ops)
+Evaluate new technologies and make recommendations for future programs and services
+Plan and ensure project execution is within aggressive timelines
+Ensure internal teams are armed with accurate and detailed information to facilitate execution and deployments
+Identify opportunities to simplify systems implementations; remove custom code and complexity to enable highly performant, scalable platforms
+Demonstrate a positive attitude, great communication and ability to learn new skills
+Serve as technical lead during client onboarding and implementations
+Partner with Operations and Partner Engineering to identify areas in need of improvement to increase customer satisfaction and decrease follow up support requests
+Lead discussion and documentation of lessons learned and drive continuous improvement into all project processes
+Assume responsibility and drive ownership for issue resolution
+3 -5 years of relevant work experience in technical program management in software applications and\or a services environment.
+Excellent problem-solving skills.
+Experience communicating the technical design, customer scenarios, and product strategy with technical and non-technical stakeholders at all levels across multiple business units.
+Experience with coding and familiarity with the developer tools and latest cloud technologies.
+Familiarity with DevOps software development methods.
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, release management and operations.
+Experience with Cloud services like AWS or Azure.
+Excellent interpersonal skills and ability to communicate effectively with both technical and nontechnical individuals.
+Extreme attention to detail.
+Must be team-oriented and be able to work in a close-knit environment.
+Individual must share passion and commitment to customer satisfaction.

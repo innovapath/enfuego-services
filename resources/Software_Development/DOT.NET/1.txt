@@ -1,0 +1,10 @@
+Strong knowledge of .NET web framework
+Proficient in C# and/or VB.NET, with a good knowledge of their ecosystems
+Familiarity with the Mono framework
+Strong understanding of object-oriented programming
+Skill for writing reusable libraries
+Familiar with various design and architectural patterns
+Knowledge of concurrency patterns
+Familiarity with Microsoft SQL Server
+Experience with popular web application frameworks
+Familiarity with Windows Presentation Framework

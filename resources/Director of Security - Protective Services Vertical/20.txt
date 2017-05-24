@@ -1,0 +1,25 @@
+KPMG US
+Job title : Director of Security
+Job location : Montvale, NJ, US
+
+Employer name :
+Job description :
+Requisition Number: 63877
+Description
+The fastest growing Big Four professional services firm in the U.S., KPMG is known for being a great place to work and build a career. We provide audit, tax and advisory services for organizations in today’s most important industries. Our growth is driven by delivering real results for our clients. It’s also enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence and supports our communities. With qualities like those, it’s no wonder we’re consistently ranked among the best companies to work for by Fortune Magazine, Consulting Magazine, Working Mother Magazine, Diversity Inc. and others. If you’re as passionate about your future as we are, join our team.
+KPMG is currently seeking an Associate Director, Security Architecture to join our KPMG Technology Group.
+Responsibilities
+· Lead the direction of information security through the development of an information security strategy that addresses the threats to the KPMG environment and data
+· Define information security controls and patterns that support risk assessments and support the development of secure architectures
+· Collaborate with engineering teams to drive the product roadmaps for security tools, by providing security requirements that help to map security controls and patterns to product features
+· Collaborate with technology architecture teams by performing security analysis of proposed architectures, providing risk assessment feedback, including security requirements
+· Provide security consulting services internally to the organization by giving security guidance and functioning as an information security subject matter professional
+· Define and implement information security architecture policies, standards, and baselines
+Qualifications
+· Minimum eight years of progressive security architecture and monitoring experience; preferably within a professional services firm or similar environment
+· Bachelor's degree from an accredited college or university
+· Experience designing and implementing secure architecture and reference architectures; from business requirements gathering to technology rollout oversight, including capacity management, definition of scoring methodologies for technology selection, integration of multiple tools and reporting functionalities, technical documentation
+· Experience with security related regulatory requirements, such as NIST, PCI, ISO 27001, HIPAA compliance
+· Previous experience leading IT security resources in addition to IT process definition or improvement
+· US Citizenship is required
+KPMG offers a comprehensive compensation and benefits package. KPMG, an equal opportunity employer/disability/veteran. KPMG maintains a drug-free workplace. KPMG will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state or federal law (including San Francisco Ordinance number 131192). No phone calls or agencies please.

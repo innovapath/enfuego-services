@@ -1,0 +1,83 @@
+Concur
+Job title : Director of Security
+Job location : Vienna, VA, US
+
+Employer name :
+Job description :
+Position Description
+Concur (NASDAQ: CNQR) is a leading provider of cloud and mobile-based integrated travel and expense management solutions. With over 400+MM in revenues, Concur is trusted by thousands of companies in more than 100 countries and reaches millions of people worldwide. Concur helps organizations and their employees control costs and save time. TripIt, a Webby award-winning travel service and the leading mobile travel organizer from Concur®, makes it easy for millions of travelers to manage and share their trips no matter where they book. Travelers simply forward their travel confirmation emails to TripIt and a master itinerary is automatically created that combines all their travel plans. Concur and TripIt offer an open platform that integrates mobile and web services, content, and technology from third-party developers, suppliers, travel management companies and customers. Together, Concur and TripIt bring order to the chaos for both managed and unmanaged travel, and make life better for business travelers globally.
+Primary Purpose Of Position
+The Director, Government Security and Compliance will serve as a senior member of the security and compliance team and report to the Director, Global Security Operations. The Director, Government Security and Compliance is responsible for all aspects of Concur’s corporate and Business services for security related incidents and managing Cyber Intelligence & Incident Response teams at Concur. This individual will have the opportunity to work on building out our next-generation global cyber intelligence program.
+Primary Position Responsibilities
+· Directs the development, design and implementation of complex long-term security operations processes and technologies worldwide for Concur Technologies. including security controls, protocols and practices in conjunction and collaboration with other security representatives throughout the company
+· Directs the development of policies to ensure a secure operational environment for Concur.
+· Directs the Security Incident and Response Management processes and technologies and provides an effective response to Concur customers for computer security incidents or concerns
+· Directs the support of internal IT and Hosting Operations in response to Security related incidents
+· Provides Forensic and legal support where required
+· Handles focused projects involving multiple disciplines or business units
+· Works independently and with management on high visible, divisional/cross-divisional complex projects
+· Sought as a key resource for resolution of unique or complex business problems
+· Advances the interest of the company by serving on teams that are external to the organization when appropriate
+· Drives continuous improvement and efficiencies beyond own scope of responsibility
+· Individual typically has at least 8+ yrs of related experience Job Responsibilities & Requirements
+· Basic Job Qualifications:
+· 10+ years of experience in security operations with a sophisticated view of the current threat and scape including Botnets, Exploits, Hacktivism and Nation State Actors
+· Provide expertise in defining and improving the security of Concur products via interaction with R&D
+· Improve the security of Concur’s information infrastructure and minimize the threat of damage resulting from intrusions
+· Research ROI factors and manage large scale projects related to security
+· Coordinate with Network Engineering team on technical security to network infrastructure
+· Evangelize new security features (based on ROI) to R&D, Corporate IT and Hosting Operations
+· Take an active and insightful role in group discussions
+· Record all tasks in Vantive
+· Be aware of, and comply with, all corporate policies.
+Position Requirements
+Minimum Job Specific Knowledge and Competencies required to do this job:
+· Expert understanding of security concepts, principles and practices, including fundamental knowledge of OSI model and intrusion detection
+· Demonstrable knowledge in advanced UNIX and NT security administration
+· Experience designing, implementing, and maintaining network security and network systems including LANs/WANs/VPNs/Firewalls and IDS’s
+· Experience with firewall/IDS installation, configuration, troubleshooting and on-going management
+· Experience with anti-viral software and recovery
+· Experience developing and implementing Disaster Recovery and Business Continuity plans
+· Excellent customer service skills
+· Excellent communication and documentation skills utilizing MS Word, MS Project, MS Excel and Visio
+· Ability to perform after hours, shift work, and be on call via pager during designated periods
+Preferred Job Specific Knowledge And Competencies
+· Experience supporting a hosted ASP environment
+Performance Competencies Required To Do This Job
+· Communication and influence – listens with objectivity and checks for understanding
+· Conflict management – stays objective and fair in assessing different points of view
+· Decisiveness/Judgment – demonstrates logic, rationality, and objectivity in decision making
+· Initiative – transforms ideas or leads into productive business outcomes
+· Planning and organizing – negotiates time frames, establishes realistic deadlines
+· Technical/Professional expertise – effectively plan activities to align with strategic direction
+Lead Competencies Required To Do This Job
+· Coaching – provides challenging assignments
+· Leadership – delegates responsibility and empowers others to make decisions and achieve results
+Work Experience/Years, Education And Other Certifications
+· Bachelor degree in Information Technology or related field
+· 12 – 15 years practical experience
+· Certified Information Security Systems Professional (CISSP) certification a requirement
+· Ability to pass a background check.
+The Purpose Is To Identify
+Physical and Cognitive or Mental Requirements – This identification of physical and mental job requirements is conducted because of certain compliance obligations.
+· The essential physical and mental requirement for this job.
+· How these requirements are met.
+· How much activity is involved in meeting the requirement
+· Where—in what kind of physical environment-the requirements are met.
+Value Competencies
+· Displays passion for & responsibility to the customer
+· Hires, develops & rewards great people
+· Displays leadership through innovation in everything you do
+· Displays a passion for what you do and a drive to improve
+· Displays a relentless commitment to win
+· Displays personal & corporate integrity
+Eeo
+Concur is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, national origin, religion, sex, protected veteran status, disability status, or any other characteristics protected by federal, state or local law. We are committed to hiring and valuing a global diverse work team.
+Concur is a dynamic, growing and fast-paced organization. As such, successful employees are able to work in a fast-paced environment, managing multiple priorities often times under tight deadlines. This typically requires working a 40+ hour work week to accomplish performance objectives. With that, Concur offers flexibility as to the specific working hours that may be required or available depending on your role.
+Concur is a SaaS company. Employees must be technically savvy with the ability to use the computer/keyboard and telephone to conduct business. The ability to creatively problem solve to our core value of ‘Leadership through innovation in everything we do’. Many positions within Concur are customer facing so written, verbal and interpersonal communications skills are required for a majority of opportunities with Concur.
+Confidentiality and our core value ‘Personal and corporate integrity’ are critical components being that Concur is a publicly traded company and working towards building a great, enduring company.
+E-Verify
+Concur participates in E-Verify to confirm work authorization.
+IND123
+  LI – VD1
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.

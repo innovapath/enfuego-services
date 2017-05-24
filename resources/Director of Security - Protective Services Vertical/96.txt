@@ -1,0 +1,79 @@
+OnDeck
+Job title : Director of Security
+Job location : Arlington, VA, US
+
+
+Employer name :
+Job description :
+The OnDeck Security team is looking for a Director-level Security Operations leader to help secure the financial data of small businesses nationwide.
+This position reports directly to the Vice President, Head of Cybersecurity and Technology Risk, within the Technology Division. As the leader, you will define, drive, manage, and scale the security incident management processes to grow to a 24x7 OnDeck Security Operations Center along with leading the definition and growth of monitoring in OnDeck's various computing environments. Your responsibilities include providing day-to-day leadership of a third party partner to review security events and execute response and remediation activities to ensure our intended security posture is continuously monitored and defended against business impacting issues or active attacks. If you enjoy addressing security issues, collaborating with Development, QA, Analytics, Legal, Internal Audit, IT, and DevOps teams, this position will provide you with a challenging opportunity to learn and grow.
+Bring your passion for learning, experimentation, and creative thinking!
+Even if you don’t fit this description exactly, but you’ve got a great technology operations management, Development Operations (DevOps), or Network Operations Center background having dealt with security and infrastructure issues, please contact us too!
+What excites us at OnDeck? Technology. Innovation. Small businesses. We believe in our team members and power their growth through challenging them every day and offering inspiring careers. We’re all about teamwork, passion and making an impact. Oh and having fun – Whether it’s community service events, book club meetings, team get-togethers or weekly social hours in the office.
+OnDeck (ONDK) uses data aggregation and electronic payment technology to evaluate the financial health of small and medium sized businesses to efficiently deliver capital to a market underserved by banks. Through the OnDeck platform, millions of small businesses can obtain affordable loans. We are changing the way small businesses borrow money by combining our passion for Main Street with cutting-edge technology. We evaluate businesses based on their actual performance, not personal credit, and that’s enabled us to say “yes” more often and faster than traditional lenders.
+Key Responsibilities
+· Program Development
+· Define, manage and grow the Security Operations program, strategy, roadmap, policies and processes
+· Lead definition of appropriate monitoring for OnDeck's various on-premise and cloud environments, systems, applications, networks, and endpoints
+· Perform the Cyber Incident Response Plan along with management of escalations and communication with stakeholders and executive leadership
+· Perform, grow and mature threat intelligence, incident response, and forensics capabilities of the program
+· Maintain security and operational efficiency metrics through comprehensive reporting, including dynamic data mining, historical reporting, self-auditing and tracking capabilities.
+· Establish process integrations with the Network Operations Center where appropriate
+· Ensure timely proactive identification and reporting of security gaps and vulnerabilities
+· Provide input to other security disciplines on projects or efforts based on cyber activity or threats encountered by the Security Operations Center
+· Management
+· Provide day-to-day leadership for Security Operations and ensure appropriate incident command coverage
+· Provide guidance and content expertise the content and quality of logs across broad technology platforms.
+· Perform triage of security forensics activities on potential compromised systems and unauthorized changes to production configurations and ensure third party partners are actively engaged.
+· Ensure appropriate chain-of-custody for assets under investigation
+· Analyze, recommend and implement monitoring and compliance procedures based on penetration tests and external and internal security risk and vulnerability assessments.
+· Maintain security operations & administration procedures, Runbooks or Event Trees to ensure daily operations and administration tasks are documented
+· Contribute to security education and awareness activities
+· Lead department project plans with clear tasks and delivery dates.
+· Ability to support negotiations on scope of work as well as manage work with outside vendors / integrators. This includes documents such as RFP, SOW, MSA, NDA, along with full financial tracking and defining business benefits.
+· Continuous Improvement
+· Continuously improve security operations to ensure appropriate risk mitigation coverage and mapping to applicable threats
+· Keep current with new threats and developments in the security industry including advisories, malware, vulnerabilities and viruses; evaluate and report on their potential business impact
+· Keep current with industry best practices in risk management techniques and integrate new methods and tools as appropriate
+What You Offer Us
+· If based in VA, willing to travel to NY office from time-to-time to work with Development, IT, QA, and DevOps teams as necessary for critical projects and relationship-building
+· Demonstrated experience with Security Information Event Management systems, particularly Splunk Enterprise Security
+· Demonstrated experience leading a team and managing simultaneous large/small projects with minimal supervision
+· You have 10+ years experience with any combination of the following: Program Management, SIEM, Security Operations, Network Operations, Infrastructure Engineering, DevOps, Software Development, Systems Integration Engineering
+· You have 10+ years experience with any combination of the following: incident response, forensics, penetration testing, threat modeling experience, identity management and authentication, cryptography, system and network security
+· Some weekends or after-hours work may be necessary including on-call security operations support
+· Experience with deploying, maintaining, and upgrading enterprise security applications including, but not limited to: Thales, zScaler, FireEye, Okta, Sailpoint, EnCase, exaBeam, Securonix, Tenable, Rapid7, Splunk, Vormetric, etc
+· Experience with Amazon Web Services (AWS), Salesforce, Postgres, and MongoDB
+· Experience and detailed technical knowledge in security engineering, network security, authentication, or security protocols.
+· Bachelor's Degree or higher (or equivalent experience). Computer Science/Engineering major is preferable.
+· Strong understanding of Network protocols such as TCP/IP, DNS, VPNs (IPSEC), and wireless security technologies (PEAP, WPA, etc).
+What We Offer You
+· Medical, dental, vision, and life benefits from day one.
+· Paid/flexible sick-leave, vacations, and holidays so you can take off the time that you need when you need.
+· Up to four months paid parental leave for all new parents. Adoption assistance with reimbursement of up to $5K. We want you to have time to bond with your new bundle of joy.
+· Order lunch on us from Seamless. You can order what you want, when you want and from where you want.
+· We’ll match your 401(k) contributions and offer a discount through our Employee Stock Purchase Plan. All to complement your personal financial strategy.
+· We want to help advance your career. Take classes relevant to your job and the first $5K is on us.
+· Enjoy our annual company summer party, holiday party and department quarterly outings.
+· Semi-annual Hackathons to give our teams a fun way to innovate together and come up with awesome ideas.
+· Our partnership with SoFi gives you access to student loan refinancing, personal loans and even mortgages.
+· We work hard, we play hard. Build or join an OnDeck intramural club, group, and/or sports team and be part of our OnDeck Community.
+· Fully stocked kitchens with free snacks & drinks.
+OnDeck Stats & In The News
+· In 2015, OnDeck & JP Morgan Chase partner to offer small business loans, named the biggest deal in the history of marketplace lending
+· Our first $3 billion in loans led to 74,000 jobs and $11 Billion in U.S. economic impact.
+· On December 17, 2014 OnDeck rings in the biggest NYC tech IPO since 1999
+· OnDeck was New York’s largest VC-backed tech exit ever
+Awards We've Received
+· com and Great Place to Work 100 Best Workplaces for Millennials, 2015
+· Fortune/Great Place To Work Great Rated! People’s Picks: 20 Great Workplaces in Financial Services, 2015
+· Crain’s New York Best Places to Work, 2013, 2014, 2015
+· Colorado SHRM Best Companies to Work For in Colorado, 2015
+· Built in Colorado, Top 100 Digital Companies in Colorado, 2015
+· Forbes’ America’s Most Promising Companies, 2013, 2014
+· Selling Power Magazine Best Company to Sell For, 2013, 2014, 2015
+· 500|5000, 2013, 2014
+· Crain’s New York Business Fast 50, 2013, 2014
+As part of our dedication to maintaining an inclusive and diverse workforce, OnDeck provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, OnDeck complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+OnDeck expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of OnDeck’s employees to perform their job duties may result in discipline up to and including discharge.
+  No external recruiters or agents, please.**

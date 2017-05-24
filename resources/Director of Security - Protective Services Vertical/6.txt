@@ -1,0 +1,57 @@
+TradeStation
+Job title : Director of Security
+Job location : Plantation, Florida
+
+Employer name :
+Job description :
+Director of Security Governance & Oversight
+Plantation, FL
+The Director of Security Governance & Oversight provides leadership and security risk management expertise focused on the needs of the business and risk appetite and executive management team. This individual works closely with the CISO and others to provide continuous assurance that the security program is effective in all areas.
+ESSENTIAL JOB FUNCTIONS:
+· Create, manage, and implement policies, standards, and procedures designed to address security risk across TradeStation people, processes, and technologies
+· Develop and manage a policy / risk exception and approval process with associated tracking and metrics
+· Define, implement, and track security risk metrics and dashboards to effectively and continuously communicate risk levels and trends to key stakeholders.
+· Perform security / IT risk assessments, business impact analyses, and other reviews to identify areas for potential improvement and provide guidance on prioritizing remediation efforts.
+· Establish, promote, and deliver an effective multi-faceted security awareness training program to educate TradeStation employees, contractors, and others on best practices and TradeStation expectations
+· Provide guidance and participate in incident response processes and documentation
+· Build and manage aperiodicrecertification process designed to assure adherence to security policy including, but not limited to:
+· Verification that all terminated employee user accounts have been properly disabled
+· Validation that user access privileges are approved, appropriate, and current
+· Confirming that all security policies and standards are periodically reviewed, updated, and approved
+· Confirming that technology control changes such as firewall rule set changes, etc., follow approved change management policies, are appropriate, and effectively manage risk
+· Ensure that TradeStation security controls remain consistent and effective across all environments including those tied to TradeStation's cloud strategy
+· Serve as central point of contact and provide coordination for internal and external audits including monitoring and tracking remediation efforts and other action items
+· Assist in multiple activities associated with vendor risk management
+· Serve as a trusted advisor to the CISO and Security Team on all areas of security risk and governance.
+· Assist with other security related initiatives
+KNOWLEDGE, SKILLS & ABILITIES:
+· Knowledge and experience with industry accepted security and technology frameworks and standards such as ISO, OWASP, COBIT, ITIL, NIST, and others.
+· Ability to achieve results effectively through individuals and teams by influencing indirectly
+· Solid understanding of information security and risk management principles
+· Ability to work independently and achieve high quality results with minimal guidance while also being able to work collaboratively with a broad range of people in varying roles
+· Excellent verbal and written communication skills
+· Must be highly organized
+· Strong analytical and problem solving skills
+· Able to multitask and prioritize work in a quickly changing business environment with continuously shifting priorities
+· Knowledge of project management practices
+· Knowledge of software development practices, networking, database and security concepts and technologies
+· Understanding of security and IT aspects of regulations such as PCI, FINRA, SEC, privacy law, etc.
+· Demonstrated personal initiative in maintaining a continuous high level of professional knowledge in areas of security and risk management
+EDUCATION & EXPERIENCE:
+· At least 10 years of progressive information security work experience
+· At least 5 years working in security leadership position(s)
+· Bachelor's degree in Information Technology, Computer Engineering, Accounting or related field of study; or any equivalent combination of relevant background, skills and experience
+· Experience with one or more GRC tools such as Archer, RSAM, or others preferred
+· Experience managing security risk associated with cloud architectures preferred
+· Involvement with vendor risk management
+· One or more of the following certifications strongly preferred:
+· CISSP (and/or other ISC2 certifications)
+· CISM, CISA, CRISC (and/or other ISACA certifications
+· SANS GIAC certifications
+· CEH or other penetration testing certifications
+· PMP or other project management certifications
+· Other industry recognized certifications or accreditations
+· Knowledge and experience using IT and security control frameworks such as OWASP, COBIT, ISO, ITIL, NIST, and others preferred
+Direct hires only.
+Desired Skills and Experience
+See above job description.

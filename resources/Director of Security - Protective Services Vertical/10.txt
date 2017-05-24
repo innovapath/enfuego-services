@@ -1,0 +1,19 @@
+SmartThings
+Job title : Director of Security
+Job location : Mountain View
+
+Employer name :
+Job description :
+The Role
+At SmartThings, the security and privacy of our customers and their data is at the core of everything we do. To expand on this commitment, SmartThings is seeking an experienced domain expert in security and privacy in the world of connected devices to lead a dedicated architecture and engineering team. The Director of Security & Privacy will be responsible for developing and leading a team of subject matter experts - engineers and architects - in the areas of cloud services infrastructure, web applications, mobile applications, and embedded devices. This team will participate throughout the entire product development lifecycle.
+Specifically, you will:
+· Manage a team of deep domain experts in security engineering and architecture
+· Develop strategies for continuous improvement in the secure product development lifecycle
+· Collaborate with Samsung security and privacy teams worldwide
+You will have:
+· 10+ years experience in security research or security-focused software architecture and engineering
+· A deep understanding of modern security & privacy frameworks
+· Experience developing security & privacy programs for the Internet of Things
+· PhD or MS in a security-related engineering field, or equivalent practical experience
+· Experience building and leading effective teams
+

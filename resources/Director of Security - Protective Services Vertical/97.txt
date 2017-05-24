@@ -1,0 +1,21 @@
+Talener
+Job title : Director of Security
+Job location : Los Angeles, CA, US
+
+
+Employer name :
+Job description :
+Our Client
+Our client is a global computer software company that provides applications to their customers that automates critical information to keep their business running and everyone safe. During a critical public safety threat such as bomb threats, active shooter, etc., the Saas-based platform enables quick and reliable alerts through email, SMS and voice.
+Job Description
+Our client is searching for a Director of Security Engineering! You'd be spear heading in solving the most complex security challenges. They have a big investment in cloud technology, experience is a must! You'd be responsible in their overall security posture to redesign or evolve as necessary to meet the needs of modern SaaS organization. Provide technical expertise relevant to the development, implementation and updates to security policies, procedures, guidelines to ensure company compliance. Most importantly responsible for running the day-to-day security functions.
+Required Skills
+· 8+ years of hands-on security engineering experience
+· Specific understanding of application and operating system hardening, vulnerability assessments, security auditing, intrusion detection systems and firewalls
+· Solid understanding of hybrid-cloud environments and how they present specific challenges to the security field
+· Experience with secure network firewall, application firewall and DDoS prevention technologies
+Additional Skills
+· Must have experience with designing and running security solutions
+· Excellent written and verbal communication skills
+The Offer
+If you are interested in this role, please contact Juan Valdovinos at jvaldovinos@talener.com or 424-208-5424. Local candidates only, please! We meet all of our candidates in person to ensure the best fit for everyone. Only candidates authorized to work for any employer in the United States will be considered. Our client is unable to provide sponsorship at this time.

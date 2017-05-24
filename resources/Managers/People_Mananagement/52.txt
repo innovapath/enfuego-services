@@ -1,0 +1,45 @@
+Amazon strives to be the world’s most customer-centric company, where customers can research and purchase anything they might want online or offline. We set big goals and are looking for people who can help us reach and exceed them. Kindle is one example of this. Kindle is the best-selling product in the history of Amazon.com, and the Kindle business is one of the most innovative and fastest growing businesses at Amazon.
+The Amazon device team designs & engineers high profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, and Amazon Echo. We provide customers a fully integrated service with instant access to over 27 million movies, TV shows, magazines, newspapers, books, songs, apps, and games.
+The speech data services team is part of Amazon’s speech platform within the Amazon Device organization that provides speech recognition capabilities for a variety of Amazon products and searches, most visibly, the recently launched Amazon Echo product.
+Operations Manager – Speech and Language Data Services is a newly created role to enhance productivity, efficiency, and quality of ground truth for spoken language data (e.g. transcription, semantic annotation, goal success) across multiple Amazon products and services.
+The Speech and Language Data Services Ops Manager is accountable for the overall direction, scaling and operations of our Boston site, creating a culture of customer obsession, high performance and high quality throughput - leading to scaling of the Speech and Language Data Services organization, owning consistent delivery of results against the organizational objectives. With operations managers and Team manager as direct reports this role enables the achievement of service levels, performance & cost goals and successful program implementation. The site manager is responsible for the performance management, goal setting and career development of their line reports to ensure effective succession planning is in place. S(he) should thrive and have demonstrated success in an environment which offers ambiguously defined problems, big challenges, and quick changes. S(he) will be expected to balance strategic thinking with detailed execution and solid cross-functional collaborative results-oriented work. S(he) will be working in a fast-paced environment where every day brings new challenges and new opportunities. S(he) should have excellent business and communication skills and be able to work with business owners to develop and define solutions. This position involves regular communication with senior management on project status and risks. People Management, Cross-team coordination, project management and executive presentation skills are essential.
+Summary Of Responsibilities
+Develop and drive the overall direction, coordination, service delivery and evaluation of Speech and Language Data Services operations activities
+Set the vision, direction and culture of their teams by managing individual and team performance expectations and goals, monitoring real time service levels and schedule adherence, and holding their teams accountable to meet and exceed performance targets.
+Collaborate with internal partners to build input-focused operating plans for achievement of key measures
+Create a culture where accountability, transparency and collaboration are the norm and where rapid deep dives into root causes of defects is a standard operating practice
+Tirelessly advocate for improvements to systems and processes that will benefit our product teams / stakeholders and business partners.
+Implement bar-raising programs aimed at hiring and developing top talent and build career development roadmap for site operations teams
+Inspire front line teams to go beyond the standard “call of duty” to find creative solutions for our product issues; encourage risk-taking and advocacy on behalf of product teams.
+Create closed-loop feedback processes where data associates are encouraged to be active participants in identifying opportunities for improvements to customer experience, workplace conditions, and internal tools.
+Work with finance & operations leadership team to develop, support manage the annual expense budget and build collaborative relationships with partner organizations.
+Responsible for creating a coaching culture across the site where formal and informal coaching opportunities are availed of
+Foster a work environment that respects and is responsive to the needs of a diverse staff
+Achieve site-wide improvements in Operations, Quality, Productivity, Cost, Customer experience and People metrics.
+Build partnerships with internal and external teams to collaborate and drive measurable improvements in areas that cause customer pain and data associate frustration.
+Improve the experience of the data associates & managers as measured by improvements in attrition and employee engagement surveys.
+Work with Operations Engineering leadership / Engineering managers to clearly articulate feature requirements for associate toolsets, user interfaces, and business logic for the efficient handling of work volumes.
+Basic Qualifications
+Education – Bachelor's degree from an accredited university
+A minimum of 9 years of people management and operations leadership experience, to include three years in a management role in a technical/Customer Service / data operations environment.
+Previous experience of creating and contributing to strategic planning processes
+Experience in managing cost center
+Experience in leading large teams (125+ associates) to high levels of performance
+Experience in developing future leaders and creating tailored succession plans
+Experience in building a culture of empowerment, accountability and continuous improvement
+Experience as a project owner / sponsor for strategic step change initiatives and enabling innovative thinking in project teams
+Experience working on MS Excel, analyzing data and presenting to senior management
+Preferred Qualifications
+Experience in leading speech data operations
+Exhibits excellent judgment
+Demonstrated passion and obsession for customers while maintaining a lean, highly productive operation
+Hires great people. Develops great people / Leaders
+Has relentlessly high standards
+Thinks strategically, but stays on top of tactical execution
+Expects and requires innovation of her/his team and creates an environment that fosters creative thinking.
+Thinks big, has convictions and Is results oriented
+Has the innate ability to inspire passion in others
+Excellent verbal and written communication skills across all organizational levels
+Proven ability to make and implement decisions
+Proven ability to build relationships quickly
+Decision Making/ Complex Problem Solving- proactively gather the right data from appropriate sources, probe/consider all of the facts, considers other perspectives; conduct root cause analysis; refer to long term plans and goals; prioritize key factors; act decisively, promptly and confidently

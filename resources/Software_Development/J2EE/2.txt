@@ -1,0 +1,3 @@
+Mandatory 5+ Years of relevant exp. in Core Java / J2EE (collection, threading, exception handling)
+Good to have experience on JSF / Primefaces / Richfaces / Struts / Swing / JavaFX
+Strong Analytical / Logical Skills

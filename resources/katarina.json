@@ -1,0 +1,548 @@
+{
+  "_id": "591224cdd9b0d31fb9b63753",
+  "targetProfession": "MANAGEMENT",
+  "generalInfo": {
+    "birthMonth": "Feb",
+    "address": {
+      "street": "XYZ Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "14529"
+    },
+    "firstName": "Katarina",
+    "lastName": "Boscovic",
+    "genEmail": null,
+    "mobilePhone": "",
+    "birthDay": "6"
+  },
+  "profileImageURL": null,
+  "careerScale": 4,
+  "incomeReqMin": 54,
+  "incomeReqMax": 105,
+  "jobHistory": [
+    {
+      "id": "591231692a9bf00c53903d88",
+      "company": "VizLore LLC",
+      "startMonth": "Jan",
+      "title": "Business Developer",
+      "startYear": "2014",
+      "endMonth": "Jan",
+      "endYear": "2015",
+      "present": false
+    },
+    {
+      "id": "5912319e2a9bf00c53903d89",
+      "company": "CoolIris",
+      "startMonth": "Jan",
+      "title": "Intern",
+      "startYear": "2014",
+      "endMonth": "Jun",
+      "endYear": "2014",
+      "present": false
+    },
+    {
+      "id": "591231ec2a9bf00c53903d8a",
+      "company": "The British School of Guangzhou",
+      "startMonth": "Jan",
+      "title": "Teaching Assitant",
+      "startYear": "2012",
+      "endMonth": "Jan",
+      "endYear": "2013",
+      "present": false
+    },
+    {
+      "id": "59123a912a9bf00c53903d93",
+      "company": "Moozoo",
+      "startMonth": "Jan",
+      "title": "Key Account Manager",
+      "startYear": "2016",
+      "endMonth": null,
+      "endYear": null,
+      "present": true
+    },
+    {
+      "id": "59123b662a9bf00c53903d94",
+      "company": "VizLore LLC",
+      "startMonth": "Jan",
+      "title": "Product Manager & Content Marketer",
+      "startYear": "2015",
+      "endMonth": "Jan",
+      "endYear": "2016",
+      "present": false
+    }
+  ],
+  "searchMarkets": [
+    {
+      "_locationId": "591232082a9bf00c53903d8b",
+      "city": "",
+      "state": "California"
+    }
+  ],
+  "skills": [
+    {
+      "score": 36,
+      "id": "59122e532a9bf00c53903d6a",
+      "name": "Creative_Services",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 23,
+      "id": "59122e532a9bf00c53903d6d",
+      "name": "IT_Technical_Program_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 22,
+      "id": "59122e532a9bf00c53903d6e",
+      "name": "Consulting",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 19,
+      "id": "59122e532a9bf00c53903d70",
+      "name": "Marketing",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 17,
+      "id": "59122e532a9bf00c53903d72",
+      "name": "Operations",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 16,
+      "id": "59122e532a9bf00c53903d73",
+      "name": "Project_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 14,
+      "id": "59122e532a9bf00c53903d76",
+      "name": "Finance",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 12,
+      "id": "59122e532a9bf00c53903d7a",
+      "name": "Communications",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 12,
+      "id": "59122e532a9bf00c53903d7b",
+      "name": "P&L",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 11,
+      "id": "59122e532a9bf00c53903d7d",
+      "name": "IT_Project_Management",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 11,
+      "id": "59122e532a9bf00c53903d7e",
+      "name": "MS_Office",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 11,
+      "id": "59122e532a9bf00c53903d7f",
+      "name": "CRM",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 8,
+      "id": "59122e532a9bf00c53903d82",
+      "name": "Management_Information_systems",
+      "yearsApplied": null,
+      "skillsApplied": null,
+      "lastApplied": null,
+      "whereApplied": null
+    },
+    {
+      "score": 3,
+      "id": "59122e532a9bf00c53903d84",
+      "name": "Program_Management",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 23,
+      "id": "59122e532a9bf00c53903d6c",
+      "name": "Acquisition",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 13,
+      "id": "59122e532a9bf00c53903d78",
+      "name": "Budgeting",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 33,
+      "id": "59122e532a9bf00c53903d6b",
+      "name": "Sales",
+      "yearsApplied": "1",
+      "skillsApplied": "supported_people",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 14,
+      "id": "59122e532a9bf00c53903d77",
+      "name": "Advertising",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 13,
+      "id": "59122e532a9bf00c53903d79",
+      "name": "Brand_Development",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 20,
+      "id": "59122e532a9bf00c53903d6f",
+      "name": "Digital_Content_Writing",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": "24months",
+      "whereApplied": "VizLore LLC"
+    },
+    {
+      "score": 8,
+      "id": "59122e532a9bf00c53903d83",
+      "name": "Technology",
+      "yearsApplied": "1",
+      "skillsApplied": "supervised",
+      "lastApplied": "12months",
+      "whereApplied": "The British School of Guangzhou"
+    },
+    {
+      "score": 15,
+      "id": "59122e532a9bf00c53903d75",
+      "name": "Social_Media_Marketing",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 15,
+      "id": "59122e532a9bf00c53903d74",
+      "name": "Marketing_Automation_tools",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": "12months",
+      "whereApplied": "Moozoo"
+    },
+    {
+      "score": 0,
+      "id": "591237982a9bf00c53903d91",
+      "name": "Market strategy",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": null,
+      "whereApplied": "CoolIris"
+    },
+    {
+      "score": 0,
+      "id": "591237cf2a9bf00c53903d92",
+      "name": "Market Research",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": null,
+      "whereApplied": "VizLore LLC"
+    },
+    {
+      "score": 0,
+      "id": "59123fd32a9bf00c53903d97",
+      "name": "Salesforce",
+      "yearsApplied": "1",
+      "skillsApplied": "directly_performed",
+      "lastApplied": null,
+      "whereApplied": "Moozoo"
+    }
+  ],
+  "accs": [
+    {
+      "id": "5912368e2a9bf00c53903d8d",
+      "accomplishment": "Prototyped marketing tactics and initiatives to help globally launch & scale the clients new App; BeamIt.",
+      "company": "CoolIris",
+      "month": "Feb",
+      "year": "2014"
+    },
+    {
+      "id": "591236d02a9bf00c53903d8e",
+      "accomplishment": "Instituted grant application momentum resulting in 5 successful grants. ",
+      "company": "VizLore LLC",
+      "month": "Aug",
+      "year": "2014"
+    }
+  ],
+  "skillsCloudSrc": null,
+  "membership": null,
+  "setupComplete": true,
+  "degrees": [
+    {
+      "id": "59122e532a9bf00c53903d69",
+      "name": "Masters in International Business",
+      "school": "Hult International Business School",
+      "degreeType": "Masters",
+      "year": "2014"
+    },
+    {
+      "id": "591237302a9bf00c53903d8f",
+      "name": "BA Honors",
+      "school": "University of Bath",
+      "degreeType": "Bachelors",
+      "year": "2011"
+    },
+    {
+      "id": "5912375b2a9bf00c53903d90",
+      "name": "The Global Innovation Leadership Program",
+      "school": "Stanford University",
+      "degreeType": "Masters",
+      "year": "2015"
+    }
+  ],
+  "certifications": null,
+  "email": "Katarina.boscovic@gmail.com",
+  "jobs": [
+    {
+      "id": "58ed1cc5dbf6d35a5172d078",
+      "score": 53,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed41fe1ae1040ee69d989e",
+      "score": 53,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed45691ae1040ee69d989f",
+      "score": 62,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Director of Creative Services",
+      "company": "Creative Services",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 11,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58ed54ff1ae1040ee69d98b4",
+      "score": 53,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58f18458dbf6d31834556b4c",
+      "score": 53,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "58f18670d9b0d31c1310ce3b",
+      "score": 53,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Senior Manager",
+      "company": "AMAZON",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        },
+        {
+          "score": 6,
+          "id": null,
+          "name": "General",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    },
+    {
+      "id": "59123dfd2a9bf00c53903d96",
+      "score": 64,
+      "applied": false,
+      "appliedOn": null,
+      "jobTitle": "Customer Success Architect",
+      "company": "SFDO Advisory Services",
+      "location": null,
+      "missingSkills": [
+        {
+          "score": 2,
+          "id": null,
+          "name": "Product_development",
+          "yearsApplied": null,
+          "skillsApplied": null,
+          "lastApplied": null,
+          "whereApplied": null
+        }
+      ]
+    }
+  ]
+}

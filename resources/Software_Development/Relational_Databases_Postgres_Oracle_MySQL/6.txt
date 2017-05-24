@@ -1,0 +1,3 @@
+Work effectively with others to create stored procedures and packages to support and enhance business objectives. 
+Position also includes the need to work with SSIS and SSRS 2008/2012. SQL Server 2012, SQL Server 2012 R3 Development of complex SQL code including queries, triggers, stored procedures, tables, creating views, constraints, and functions. Logical and physical database modeling, 
+Data migration and data analysis using Development Tools including SQL

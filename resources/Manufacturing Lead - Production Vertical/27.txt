@@ -1,0 +1,36 @@
+Tata Consultancy Services
+Job title : Manufacturing Lead
+Job location : Troy, Michigan
+
+
+Employer name :
+Job description :
+Industry: Manufacturing
+Application Focus: Advanced Analytics
+Innovation & Transformation Group (ITG) within manufacturing vertical of Tata Consultancy services (TCS), provides unique combination of Business / Domain consulting in Automotive, Industrial Machinery, Aero and Process industries
+Job Description:
+· Advanced Analytics and Data Science (AADS) value engine of ITG, develops and delivers innovative analytics solutions and services to global customers exploiting the cutting edge technology.
+· The AADS is seeking an experienced analytics lead to join a multi-disciplinary team for developing the next generation of analytics solutions, drawing on state of the art technologies including big data, mobility, cloud platforms, intelligent analytics and the Internet of Things (IoT), for solving business problems across various functions in manufacturing industry.
+Responsibilities:
+· Engage with global manufacturing customers to identify new leads/requirements based on customer business challenges and strategies in Big Data Analytics domain
+· Provide thought leadership ideas in building prototypes for potential opportunities across various functions within manufacturing industry.
+· Defines Analytics strategy and solutions along with technical requirements of the solutions to meet the demands of business requirements
+· Leads the design and development of analytic models and software applications using large data sets and real time information flows.
+· Works collaboratively with software development teams, data scientists, systems engineers and analysts to develop and deliver enterprise class software solutions.
+· Demonstrate performance to business leadership and help deploy the application in enterprise customer IT architectures.
+· Ability to understand various statistical models and machine learning techniques and apply to solve various challenges in manufacturing industry.
+· Travel Expectations: Travel to client locations, offshore software development centers and software vendor locations is expected.
+Qualification:
+Must Have:
+· Strong knowledge about various functions within manufacturing industry like Product Development, Supply Chain, Manufacturing, Marketing & Sales, Services etc..
+· Overall 10+ years of experience with at least 5 years of experience in leading analytics engagements
+· Experience in customer facing roles and business development
+· Knowledge of statistical or mathematical analysis techniques
+· Experience in applying analytical models for solving business problems in Manufacturing industry
+· Willingness to travel to client locations
+Good-to-Have:
+· MStat / other PG degree in Engineering, Statistics, Mathematics, Physics, Manufacturing Operations Management
+· Experience with statistical analysis software, including SAS or R
+· Experience with Manufacturing data sets from ERP, CRM, PLM, MES
+· Knowledge of Big Data technologies, Hadoop/ Tableau / Qlikview etc.
+

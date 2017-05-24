@@ -1,0 +1,37 @@
+Yahoo! Inc.
+Job title : Director of Security
+Job location : Sunnyvale, CA, US
+
+Employer name :
+Job description :
+Yahoo is a guide focused on making users' daily habits inspiring and entertaining. By creating highly personalized experiences for our users, we keep people connected to what matters most to them, across devices and around the world. In turn, we create value for advertisers by connecting them with the audiences that build their businesses.
+A Little About Us
+When you impact millions of people every day, you become a large target for adversaries in all layers of the stack. Our job is to keep our users safe and make Yahoo one of the safest places on the Internet.
+We are the information security team at Yahoo. People call us “The Paranoids”.
+Join our team dedicated to the safety and security of Yahoo and the Internet at large. We're open source friendly, we operate at a scale which makes seemingly simple things quite interesting, and we strive to design and build systems that are safe, trustworthy, and usable for all.
+A Lot About You
+You are a senior leader who is inspired to head the team responsible for identifying the most important security and privacy issues impacting Yahoo, then researching, designing, and developing production quality software, network, or systems solutions that prevent or detect those issues for our more than one billion users, and potentially for others across the Internet. This role reports directly to our Chief Information Security Officer.
+Your Day
+· Set and evangelize security engineering strategy and goals based on company and industry research, feedback and data from Paranoid teams and other leaders across the company.
+· Develop and deploy security solutions for Yahoo products, platforms, and infrastructure by partnering with organizations across the company to build diverse, cross-functional teams that plan and execute against security strategy.
+· Responsible and accountable for all the engineering aspects of information security including those performed by other teams.
+· Manage, inspire, coach, grow, and recruit great technical talent, and align their work and behaviors to achieve measurable security improvement and meet their career goals.
+· Build and maintain a strong network of company and industry connections and a deep knowledge of Yahoo’s varied businesses.
+· Guide and support team activities including research proposals, papers and conference submissions, agile development, process development, defining and measuring success, maintaining production systems, and managing product lifecycles.
+· Provide deep technical and security advice to teams inside the paranoids and across the company.
+What You Bring
+· A broad and deep understanding of, and a palpable, infectious passion for technology and how it can help enhance security, business, and people's lives.
+· A history of being a catalyst for positive security change in medium to large technology and/or internet focused companies.
+· Excellent written and verbal communication and listening skills, with a history of successful negotiation, influence, and conflict resolution in disparate organizations with competing incentives.
+· The proven ability to design and deploy complex systems from scratch and from parts.
+· Experience leading and managing across geographical and administrative boundaries.
+· Experience working at and building for Internet scale including measuring the impact, performance, health, and stability of large monolithic and distributed systems.
+· Deep expertise with some cryptographic protocols, implementations, vulnerabilities, usability, and performance characteristics in real world systems.
+· A portfolio of solutions that show security and usability are not mutually exclusive.
+· A good understanding of the human aspects of information security including basic psychology, cognitive biases, heuristics, decision making, and user experience / design.
+· Working knowledge of modern c, c++, java, javascript, and/or golang, and automated build, test and deployment systems for the same.
+· Experience with threat and attack modeling of large and varied systems against modern, global threats including varied threat actors’ tools, techniques, and practices, an understanding of the legal requirements and climate across the globe, and a great sense of how to balance preventative and detective controls and company productivity.
+· A deep, current knowledge of technology - networks, operating systems, browser and web security, cloud and software defined networking considerations, varied application stacks, distributed systems, and programming languages and environments.
+· Some college is likely required, but we're much more interested in your accomplishments, security acumen, experience (particularly at scale), motivation, leadership skills, and ability to work well with others. Let's call it 10+ years and a masters in a relevant field as a minimum, or equivalent experience.
+Primary Location
+United States of America-California-Sunnyvale

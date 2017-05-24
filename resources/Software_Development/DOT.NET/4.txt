@@ -1,0 +1,2 @@
+As a Software Developer you will utilize your .NET and\or web technology experience to design and develop scalable and high performance web-based applications. You must be able to support and enhance existing application software, work with little supervision, and perform other non-programming duties as well. 
+Have experience and knowledge of ASP.NET, WebApi 2, Windows Forms, SQL Server, and/or other databases 

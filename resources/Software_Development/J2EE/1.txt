@@ -1,0 +1,12 @@
+Experience with Web sphere application server
+Experience working with Spring
+Experience working with Spring Web Flow
+Experience developing Junit tests
+Experience with build tools Maven/ANT
+Experience Developing Javascript for web apps
+Experience Developing HTML
+Experience writing functional and technical specifications
+Ability to collaborate and various team members and brain storm solutions will be a very big plus
+Deep/working knowledge about Java multi-threading is a plus
+Experience working with open-source technologies is a plus
+Develop middleware application software using Java/J2EE middleware

@@ -1,0 +1,5 @@
+Proficient in the construction of dynamic web applications using React.js and Redux
+Experience using JavaScript in both browser and Node.js runtimes
+Detailed understanding of web technologies, including web services and web application servers
+Versed in building front-end web applications leveraging communication with RESTful APIs 
+Develop web applications and systems using Node.js and React.js as a foundation

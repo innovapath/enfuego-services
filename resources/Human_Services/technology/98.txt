@@ -1,0 +1,21 @@
+Innova Systems International , LLC
+
+Job title: Humanitarian 
+Job location: Norfolk , Virginia Area
+Job description: 
+About the Opportunity: Software Engineer III
+The Defense Readiness Reporting System- Navy (DRRS-N) initiative is based on the mission essential task construct and readiness metrics that indicate a command’s ability to execute specified missions—from humanitarian assistance to major combat operations. We are looking for a talented, forward thinking Database Developer with web development experience. The ideal candidate will possess a variety of current web technology skills including strong experience in SQL Server Development, HTML/JavaScript as well as experience with AngularJs and C#/.NET. You will support an automated build creation process that requires general knowledge of database development.
+About you:
+· Bachelor’s Degree in Computer Science and 4+ years of direct experience
+· SQL Server/TSQL
+· Web Client Development Experience
+· HTML/JavaScript
+· Ability to obtain and maintain a DoD Security Clearance is required.
+Bonus Points:
+· C#/.NET
+· AngularJS
+· jQuery
+· COGNOS or other similar reporting systems
+· ASP.NET Web Forms
+· Restful Services
+

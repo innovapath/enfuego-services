@@ -1,0 +1,44 @@
+Marqeta, Inc
+Job title : Director of Security
+Job location : Oakland, California
+
+
+Employer name :
+Job description :
+The Role:
+We are seeking a highly talented and motivated leader to own Information Security. The right person for this role wants to be hands-on working with the technology and compliance teams to ensure the infrastructure, systems, and processes are designed, implemented, and operated in accordance with applicable security standards and practices including PCI-DSS and SSAE 16. This role will have a significant impact on the technology infrastructure and security at Marqeta.
+Responsibilities:
+· Provide information security direction on infrastructure projects.
+· Collaborate with product, engineering, techops and compliance to understand and secure application data flows.
+· Manage, automate and analyze logs for audit and security events.
+· Lead the design, implementation, and administration of security tools to reduce risk.
+· Assess and respond to information security inquiries or incidents across endpoints, colo and cloud environments and bring issues to resolution.
+· Assist with the documentation of information security systems, tools, and procedures.
+· Support Information Security training and awareness campaigns.
+· Research CERT vulnerabilities and recommend appropriate course of action
+· Support the compliance team with industry standards and requirements including PCI-DSS, SSAE 16, and others.
+· Establish a robust security testing methodology including SDLC checks and balances, regular vulnerability scanning, penetration testing, and bug bounty program.
+Our Ideal Candidate has:
+· Bachelor’s Degree in Computer Science (or equivalent) degree with 5+ years hands-on security experience.
+· A passion for protecting the company and our customers.
+· Professional experience with PCI-DSS and SSAE 16 (SOC).
+· Background in security operations, project management, or information security, with knowledge of Cloud security models and controls.
+· Experience with SIEM products and tools (Splunk, ELK, OSSEC, etc).
+· Intermediate Windows and Mac skills to assess endpoint incidents
+· Working understanding of networking concepts and protocols (BGP, TCP/IP layers, DNS, SMTP, SSL, etc.)
+· Experience managing vulnerability scanning tools (Qualys, Rapid7, Nessus, etc)
+· Experience managing, configuring and tuning a WAF.
+Bonus Points for:
+· Experience in payments or financial services.
+· Experience working in an agile environment.
+· Experience with network security and configuration of Cisco or Juniper networking gear.
+· CISSP, CISA, CISM or other InfoSec certifications.
+Perks:
+· Competitive salary and benefits package.
+· Meaningful equity.
+· New office in Oakland just minutes from BART.
+· Casual work environment.
+· Hack Week.
+· Catered lunch.
+· Unlimited drinks and snacks.
+
